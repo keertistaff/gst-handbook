@@ -2,7 +2,7 @@
 <html lang="hi-EN">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, user-scalable=yes" />
   <title>GST Complete Learning Handbook (Simple Hinglish) | G-TEC Nergy Vidya</title>
   <meta name="description" content="GST complete course handbook in simple Hinglish with concept visual diagrams and practical return filing guide for Modules 1 to 4." />
   <meta name="theme-color" content="#2563eb" />
@@ -17,14 +17,14 @@
   <!-- Top Navigation Header -->
   <header class="app-header">
     <div class="header-left">
-      <button class="mobile-toggle-btn" id="mobileMenuBtn" aria-label="Menu Kholein" title="Menu">
+      <button class="mobile-toggle-btn" id="mobileMenuBtn" aria-label="Menu" title="Menu">
         <i class="fa-solid fa-bars"></i>
       </button>
       <div class="brand">
-        <div class="brand-badge"><i class="fa-solid fa-scale-balanced"></i> GST</div>
+        <span class="brand-badge"><i class="fa-solid fa-scale-balanced"></i> GST</span>
         <div class="brand-info">
-          <h1>GST Handbook <span class="lang-tag">Hinglish</span></h1>
-          <span class="brand-sub">G-TEC Nergy Vidya • Mod 1–4</span>
+          <h1>GST Handbook</h1>
+          <span class="lang-tag">Hinglish</span>
         </div>
       </div>
     </div>
@@ -39,14 +39,14 @@
 
     <!-- Header Actions -->
     <div class="header-right">
-      <button id="mobileSearchBtn" class="action-btn mobile-search-btn" title="Search Khojein" aria-label="Search">
+      <button id="mobileSearchBtn" class="action-btn mobile-search-btn" title="Search" aria-label="Search">
         <i class="fa-solid fa-magnifying-glass"></i>
       </button>
-      <button id="themeToggleBtn" class="action-btn theme-btn" title="Dark/Light Mode" aria-label="Toggle Theme">
+      <button id="themeToggleBtn" class="action-btn theme-btn" title="Theme" aria-label="Toggle Theme">
         <i class="fa-solid fa-sun theme-icon-light"></i>
         <i class="fa-solid fa-moon theme-icon-dark"></i>
       </button>
-      <a href="https://github.com/keertistaff/gst-handbook" target="_blank" rel="noopener noreferrer" class="action-btn github-btn" title="GitHub Code">
+      <a href="https://github.com/keertistaff/gst-handbook" target="_blank" rel="noopener noreferrer" class="action-btn github-btn desktop-only" title="GitHub">
         <i class="fa-brands fa-github"></i>
       </a>
     </div>
@@ -56,7 +56,7 @@
   <div id="mobileSearchOverlay" class="mobile-search-overlay hidden">
     <div class="mobile-search-box">
       <i class="fa-solid fa-magnifying-glass"></i>
-      <input type="text" id="mobileSearchInput" placeholder="Search GST topics, rules, forms..." />
+      <input type="text" id="mobileSearchInput" placeholder="Topic ya form search karein..." autocomplete="off" />
       <button id="closeMobileSearchBtn" class="close-search-btn"><i class="fa-solid fa-xmark"></i></button>
     </div>
     <div id="mobileSearchResults" class="mobile-search-results"></div>
@@ -67,11 +67,11 @@
 
   <!-- Main Application Layout -->
   <div class="app-layout">
-    <!-- Sidebar Navigation -->
+    <!-- Sidebar Navigation Drawer -->
     <aside class="app-sidebar" id="appSidebar">
       <div class="sidebar-header">
         <span class="sidebar-title"><i class="fa-solid fa-book-open"></i> VISHAY SUCHEE</span>
-        <span class="sidebar-count" id="totalChaptersBadge">10 Chapters</span>
+        <button id="sidebarCloseBtn" class="sidebar-close-btn mobile-only"><i class="fa-solid fa-xmark"></i></button>
       </div>
 
       <div class="module-filter-bar">
@@ -85,15 +85,21 @@
       <nav class="sidebar-nav" id="sidebarNav">
         <!-- Populated dynamically by app.js -->
       </nav>
+
+      <div class="sidebar-footer">
+        <a href="https://github.com/keertistaff/gst-handbook" target="_blank" rel="noopener noreferrer" class="sidebar-gh-link">
+          <i class="fa-brands fa-github"></i> View GitHub Repo
+        </a>
+      </div>
     </aside>
 
     <!-- Main Content Reader -->
     <main class="app-main" id="appMain">
       <div class="content-container" id="contentContainer">
         <!-- Mobile Quick Chapter Switcher -->
-        <div class="mobile-quick-picker">
-          <label for="mobileChapterSelect"><i class="fa-solid fa-book-bookmark"></i> Chapter:</label>
-          <select id="mobileChapterSelect" class="mobile-chapter-select">
+        <div class="mobile-chapter-bar">
+          <div class="mobile-bar-label"><i class="fa-solid fa-book-bookmark"></i> Select Chapter:</div>
+          <select id="mobileChapterSelect" class="mobile-chapter-select" aria-label="Chapter Badlein">
             <!-- Populated dynamically -->
           </select>
         </div>
@@ -110,18 +116,18 @@
         <!-- Chapter Navigation Footer -->
         <div class="chapter-nav-footer">
           <button id="prevChapterBtn" class="nav-chapter-btn prev">
-            <span class="nav-dir"><i class="fa-solid fa-arrow-left"></i> Pichhla Chapter</span>
+            <span class="nav-dir"><i class="fa-solid fa-arrow-left"></i> Pichhla</span>
             <span class="nav-title" id="prevChapterTitle">None</span>
           </button>
           <button id="nextChapterBtn" class="nav-chapter-btn next">
-            <span class="nav-dir">Agla Chapter <i class="fa-solid fa-arrow-right"></i></span>
+            <span class="nav-dir">Agla <i class="fa-solid fa-arrow-right"></i></span>
             <span class="nav-title" id="nextChapterTitle">None</span>
           </button>
         </div>
       </div>
     </main>
 
-    <!-- Table of Contents Mini-Nav (Desktop Right Column) -->
+    <!-- Table of Contents Mini-Nav (Desktop Right Column Only) -->
     <aside class="app-toc" id="appToc">
       <div class="toc-header"><i class="fa-solid fa-list-ul"></i> IS CHAPTER MEIN</div>
       <ul class="toc-list" id="tocList">

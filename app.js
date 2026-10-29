@@ -1,4 +1,4 @@
-﻿// GST Complete Course Handbook - Main Application Logic (Mobile-First Hinglish)
+// GST Complete Course Handbook - Main Application Logic (Mobile-First Hinglish)
 (function () {
   // State
   let currentChapterIndex = 0;
@@ -30,6 +30,7 @@
   const mobileSearchInput = document.getElementById("mobileSearchInput");
   const closeMobileSearchBtn = document.getElementById("closeMobileSearchBtn");
   const mobileSearchResults = document.getElementById("mobileSearchResults");
+  const sidebarCloseBtn = document.getElementById("sidebarCloseBtn");
 
   // 1. Theme Initialization
   const savedTheme = localStorage.getItem("gst_theme") || "light";
@@ -50,6 +51,9 @@
   }
   mobileMenuBtn.addEventListener("click", () => toggleDrawer());
   drawerBackdrop.addEventListener("click", () => toggleDrawer(false));
+  if (sidebarCloseBtn) {
+    sidebarCloseBtn.addEventListener("click", () => toggleDrawer(false));
+  }
 
   // 3. Mobile Chapter Dropdown Initial Population
   function initMobileChapterSelect() {
@@ -371,12 +375,20 @@
   // 9. Right Column TOC
   function buildToc() {
     tocList.innerHTML = "";
-    const headings = chapterArticle.querySelectorAll(".content-body h2, .content-body h3");
-    if (headings.length === 0) {
-      document.getElementById("appToc").style.display = "none";
+    const appToc = document.getElementById("appToc");
+    if (!appToc) return;
+
+    if (window.innerWidth <= 1200) {
+      appToc.style.display = "none";
       return;
     }
-    document.getElementById("appToc").style.display = "block";
+
+    const headings = chapterArticle.querySelectorAll(".content-body h2, .content-body h3");
+    if (headings.length === 0) {
+      appToc.style.display = "none";
+      return;
+    }
+    appToc.style.display = "block";
 
     headings.forEach((h, idx) => {
       if (!h.id) h.id = "heading-" + idx;
@@ -393,6 +405,11 @@
       tocList.appendChild(li);
     });
   }
+
+  // Handle responsive resize for TOC
+  window.addEventListener("resize", () => {
+    buildToc();
+  });
 
   // 10. Update Navigation Buttons
   function updateNavButtons() {
