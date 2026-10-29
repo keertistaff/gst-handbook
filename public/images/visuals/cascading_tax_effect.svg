@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 480" width="100%" height="100%" style="background:#ffffff; border-radius:12px; font-family:system-ui, -apple-system, sans-serif;">
+  <defs>
+    <linearGradient id="gradOld" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ef4444"/>
+      <stop offset="100%" stop-color="#b91c1c"/>
+    </linearGradient>
+    <linearGradient id="gradGST" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#10b981"/>
+      <stop offset="100%" stop-color="#047857"/>
+    </linearGradient>
+  </defs>
+
+  <text x="450" y="45" text-anchor="middle" font-size="24" font-weight="800" fill="#0f172a">Pre-GST vs GST: Cascading Effect (Tax Par Tax) Ka Antar</text>
+  <text x="450" y="75" text-anchor="middle" font-size="14" fill="#64748b">Kaise GST ne tax-on-tax khatam karke end consumer ke liye saman sasta kiya</text>
+
+  <!-- Left: Pre-GST System -->
+  <g transform="translate(40, 105)">
+    <rect width="380" height="340" rx="10" fill="#fef2f2" stroke="#fca5a5" stroke-width="2"/>
+    <rect width="380" height="45" rx="10" fill="url(#gradOld)"/>
+    <text x="190" y="28" text-anchor="middle" font-size="16" font-weight="700" fill="#ffffff">❌ Pre-GST: Cascading Tax (Tax On Tax)</text>
+    
+    <!-- Step 1 -->
+    <rect x="20" y="60" width="340" height="65" rx="6" fill="#ffffff" stroke="#e2e8f0"/>
+    <text x="35" y="85" font-size="14" font-weight="700" fill="#1e293b">1. Manufacturer (Cost: ₹1,000)</text>
+    <text x="35" y="110" font-size="13" fill="#b91c1c">+ 12.5% Excise Duty (₹125) = ₹1,125</text>
+
+    <!-- Step 2 -->
+    <rect x="20" y="140" width="340" height="85" rx="6" fill="#ffffff" stroke="#e2e8f0"/>
+    <text x="35" y="165" font-size="14" font-weight="700" fill="#1e293b">2. Wholesaler (Profit: ₹200 added)</text>
+    <text x="35" y="188" font-size="13" fill="#64748b">Base: ₹1,325 (Excise duty par bhi tax lag raha hai!)</text>
+    <text x="35" y="210" font-size="13" fill="#b91c1c">+ 14.5% VAT on ₹1,325 = ₹192.12</text>
+
+    <!-- Step 3 Result -->
+    <rect x="20" y="240" width="340" height="85" rx="6" fill="#fee2e2" stroke="#f87171"/>
+    <text x="35" y="268" font-size="14" font-weight="700" fill="#991b1b">Final Consumer Price: ₹1,517.12</text>
+    <text x="35" y="292" font-size="12" fill="#7f1d1d">Nuksan: Excise duty par dobara VAT lag gaya (Double Taxation).</text>
+    <text x="35" y="310" font-size="12" fill="#7f1d1d">Koi cross-credit available nahi tha.</text>
+  </g>
+
+  <!-- Right: Modern GST System -->
+  <g transform="translate(480, 105)">
+    <rect width="380" height="340" rx="10" fill="#f0fdf4" stroke="#86efac" stroke-width="2"/>
+    <rect width="380" height="45" rx="10" fill="url(#gradGST)"/>
+    <text x="190" y="28" text-anchor="middle" font-size="16" font-weight="700" fill="#ffffff">✅ GST System: Input Tax Credit (ITC)</text>
+
+    <!-- Step 1 -->
+    <rect x="20" y="60" width="340" height="65" rx="6" fill="#ffffff" stroke="#e2e8f0"/>
+    <text x="35" y="85" font-size="14" font-weight="700" fill="#1e293b">1. Manufacturer (Cost: ₹1,000)</text>
+    <text x="35" y="110" font-size="13" fill="#047857">+ 18% GST (₹180) = ₹1,180 (Govt ko mila ₹180)</text>
+
+    <!-- Step 2 -->
+    <rect x="20" y="140" width="340" height="85" rx="6" fill="#ffffff" stroke="#e2e8f0"/>
+    <text x="35" y="165" font-size="14" font-weight="700" fill="#1e293b">2. Wholesaler (Profit: ₹200 added)</text>
+    <text x="35" y="188" font-size="13" fill="#64748b">Taxable Base = ₹1,200 (Tax par koi tax nahi!)</text>
+    <text x="35" y="210" font-size="13" fill="#047857">Output GST = ₹216 - ₹180 ITC = Only ₹36 to pay!</text>
+
+    <!-- Step 3 Result -->
+    <rect x="20" y="240" width="340" height="85" rx="6" fill="#dcfce7" stroke="#4ade80"/>
+    <text x="35" y="268" font-size="14" font-weight="700" fill="#166534">Final Consumer Price: ₹1,416.00</text>
+    <text x="35" y="292" font-size="12" fill="#14532d">Fayda: ₹101 ki seedhi bachat consumer ke liye!</text>
+    <text x="35" y="310" font-size="12" fill="#14532d">Seamless input tax credit pooray supply chain me pass hua.</text>
+  </g>
+</svg>

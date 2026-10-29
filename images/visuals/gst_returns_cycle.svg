@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 450" width="100%" height="100%" style="background:#ffffff; border-radius:12px; font-family:system-ui, -apple-system, sans-serif;">
+  <text x="450" y="42" text-anchor="middle" font-size="24" font-weight="800" fill="#0f172a">Monthly GST Returns Cycle: Step-by-Step Flow</text>
+  <text x="450" y="70" text-anchor="middle" font-size="14" fill="#64748b">Har mahine compliance kaise complete hoti hai: GSTR-1 ➔ GSTR-2B ➔ GSTR-3B</text>
+
+  <!-- Step 1: GSTR-1 -->
+  <g transform="translate(50, 110)">
+    <rect width="240" height="280" rx="10" fill="#eff6ff" stroke="#3b82f6" stroke-width="2"/>
+    <rect width="240" height="45" rx="10" fill="#2563eb"/>
+    <text x="120" y="28" text-anchor="middle" font-size="16" font-weight="700" fill="#ffffff">Step 1: GSTR-1</text>
+    
+    <text x="120" y="80" text-anchor="middle" font-size="13" font-weight="700" fill="#1e40af">DUE DATE: 11th of Next Month</text>
+    <text x="20" y="115" font-size="12" fill="#334155">• Sales / Outward supplies report</text>
+    <text x="20" y="140" font-size="12" fill="#334155">• B2B Invoices (Party-wise)</text>
+    <text x="20" y="165" font-size="12" fill="#334155">• B2C Large &amp; B2C Small</text>
+    <text x="20" y="190" font-size="12" fill="#334155">• Credit &amp; Debit Notes</text>
+    <text x="20" y="215" font-size="12" fill="#334155">• HSN-wise sales summary</text>
+    <rect x="15" y="235" width="210" height="35" rx="6" fill="#dbeafe"/>
+    <text x="120" y="257" text-anchor="middle" font-size="11.5" font-weight="700" fill="#1d4ed8">No Tax Payment Here</text>
+  </g>
+
+  <!-- Arrow 1 -->
+  <path d="M305 240 L345 240" stroke="#94a3b8" stroke-width="4" marker-end="url(#arrow)"/>
+  <text x="325" y="225" text-anchor="middle" font-size="13" font-weight="700" fill="#64748b">Auto-Flows</text>
+
+  <!-- Step 2: GSTR-2B -->
+  <g transform="translate(360, 110)">
+    <rect width="220" height="280" rx="10" fill="#f0fdf4" stroke="#10b981" stroke-width="2"/>
+    <rect width="220" height="45" rx="10" fill="#059669"/>
+    <text x="110" y="28" text-anchor="middle" font-size="16" font-weight="700" fill="#ffffff">Step 2: GSTR-2B</text>
+    
+    <text x="110" y="80" text-anchor="middle" font-size="13" font-weight="700" fill="#065f46">AVAILABLE ON: 14th Date</text>
+    <text x="15" y="115" font-size="12" fill="#334155">• Static auto-drafted ITC statement</text>
+    <text x="15" y="140" font-size="12" fill="#334155">• Supplier ke GSTR-1 se banta hai</text>
+    <text x="15" y="165" font-size="12" fill="#334155">• Shows: Eligible vs Ineligible ITC</text>
+    <text x="15" y="190" font-size="12" fill="#334155">• RCM liability tracking</text>
+    <rect x="15" y="235" width="190" height="35" rx="6" fill="#dcfce7"/>
+    <text x="110" y="257" text-anchor="middle" font-size="11.5" font-weight="700" fill="#15803d">Purchase Reconciliation</text>
+  </g>
+
+  <!-- Arrow 2 -->
+  <path d="M595 240 L635 240" stroke="#94a3b8" stroke-width="4"/>
+  <text x="615" y="225" text-anchor="middle" font-size="13" font-weight="700" fill="#64748b">Offset Tax</text>
+
+  <!-- Step 3: GSTR-3B -->
+  <g transform="translate(650, 110)">
+    <rect width="220" height="280" rx="10" fill="#faf5ff" stroke="#a855f7" stroke-width="2"/>
+    <rect width="220" height="45" rx="10" fill="#7c3aed"/>
+    <text x="110" y="28" text-anchor="middle" font-size="16" font-weight="700" fill="#ffffff">Step 3: GSTR-3B</text>
+    
+    <text x="110" y="80" text-anchor="middle" font-size="13" font-weight="700" fill="#581c87">DUE DATE: 20th Date</text>
+    <text x="15" y="115" font-size="12" fill="#334155">• Summary return of month</text>
+    <text x="15" y="140" font-size="12" fill="#334155">• Output Tax Liability (GSTR-1 se)</text>
+    <text x="15" y="165" font-size="12" fill="#334155">• Input Tax Credit (GSTR-2B se)</text>
+    <text x="15" y="190" font-size="12" fill="#334155">• Net cash tax payment via challan</text>
+    <rect x="15" y="235" width="190" height="35" rx="6" fill="#f3e8ff"/>
+    <text x="110" y="257" text-anchor="middle" font-size="11.5" font-weight="700" fill="#7e22ce">Final Monthly Filing &amp; Pay</text>
+  </g>
+</svg>

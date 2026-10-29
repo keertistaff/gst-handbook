@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 440" width="100%" height="100%" style="background:#ffffff; border-radius:12px; font-family:system-ui, -apple-system, sans-serif;">
+  <text x="450" y="40" text-anchor="middle" font-size="24" font-weight="800" fill="#0f172a">E-Way Bill System: Rules, Parts &amp; Validity (Rule 138)</text>
+  <text x="450" y="68" text-anchor="middle" font-size="14" fill="#64748b">Rs. 50,000 se zyada value ke goods transport karne ke niyam</text>
+
+  <!-- Left: Part A & B Card -->
+  <g transform="translate(40, 100)">
+    <rect width="380" height="300" rx="10" fill="#f8fafc" stroke="#e2e8f0" stroke-width="2"/>
+    <rect width="380" height="40" rx="10" fill="#2563eb"/>
+    <text x="190" y="25" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">E-Way Bill Ke Do Hissay (Parts)</text>
+
+    <!-- Part A -->
+    <rect x="20" y="60" width="340" height="105" rx="6" fill="#ffffff" stroke="#bfdbfe"/>
+    <text x="35" y="85" font-size="15" font-weight="700" fill="#1d4ed8">PART A (Consignment Info)</text>
+    <text x="35" y="107" font-size="12.5" fill="#334155">• Supplier &amp; Recipient ka GSTIN</text>
+    <text x="35" y="127" font-size="12.5" fill="#334155">• Invoice Number, Date &amp; Total Value</text>
+    <text x="35" y="147" font-size="12.5" fill="#334155">• HSN Code aur Place of Delivery (PIN code)</text>
+
+    <!-- Part B -->
+    <rect x="20" y="180" width="340" height="105" rx="6" fill="#ffffff" stroke="#fed7aa"/>
+    <text x="35" y="205" font-size="15" font-weight="700" fill="#ea580c">PART B (Transport Info)</text>
+    <text x="35" y="227" font-size="12.5" fill="#334155">• Vehicle Number (Truck, Tempo, etc.)</text>
+    <text x="35" y="247" font-size="12.5" fill="#334155">• Transporter Doc No. (LR / RR / Airway Bill)</text>
+    <text x="35" y="267" font-size="12.5" fill="#c2410c">⚠️ Note: Jab tak Part B nahi bhara jata, E-Way Bill valid nahi hota!</text>
+  </g>
+
+  <!-- Right: Validity Rules Card -->
+  <g transform="translate(480, 100)">
+    <rect width="380" height="300" rx="10" fill="#f8fafc" stroke="#e2e8f0" stroke-width="2"/>
+    <rect width="380" height="40" rx="10" fill="#059669"/>
+    <text x="190" y="25" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">E-Way Bill Ki Validity (Kitne Din Chalega)</text>
+
+    <!-- Normal Cargo -->
+    <rect x="20" y="60" width="340" height="105" rx="6" fill="#ffffff" stroke="#a7f3d0"/>
+    <text x="35" y="85" font-size="15" font-weight="700" fill="#047857">1. Normal Cargo (Ordinary Trucks)</text>
+    <text x="35" y="108" font-size="13" font-weight="700" fill="#0f172a">Pehle 200 km tak = 1 Din (One Day)</text>
+    <text x="35" y="128" font-size="12.5" fill="#334155">Har additional 200 km ya uske hissay par = +1 Din</text>
+    <text x="35" y="148" font-size="12" fill="#64748b">Example: 550 km distance = 3 Din validity milegi.</text>
+
+    <!-- Over Dimensional Cargo -->
+    <rect x="20" y="180" width="340" height="105" rx="6" fill="#ffffff" stroke="#fecaca"/>
+    <text x="35" y="205" font-size="15" font-weight="700" fill="#b91c1c">2. Over Dimensional Cargo (ODC) / Heavy</text>
+    <text x="35" y="228" font-size="13" font-weight="700" fill="#0f172a">Pehle 20 km tak = 1 Din</text>
+    <text x="35" y="248" font-size="12.5" fill="#334155">Har additional 20 km ya uske hissay par = +1 Din</text>
+    <text x="35" y="268" font-size="12" fill="#64748b">Badi heavy trailers slow chalti hain isliye time zyada diya hai.</text>
+  </g>
+</svg>

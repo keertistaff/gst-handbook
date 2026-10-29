@@ -1,4 +1,4 @@
-﻿// GST Complete Course Handbook - Main Application Logic
+﻿// GST Complete Course Handbook - Main Application Logic (Hinglish Version)
 (function () {
   // State
   let currentChapterIndex = 0;
@@ -55,11 +55,10 @@
     });
   });
 
-  // 4. Render Sidebar
+  // 4. Render Sidebar with FontAwesome Icons
   function renderSidebar() {
     sidebarNav.innerHTML = "";
     
-    // Group chapters by Module
     const modulesMap = {};
     chapters.forEach((ch, idx) => {
       if (currentFilter !== "all" && String(ch.modNum) !== currentFilter) {
@@ -81,7 +80,7 @@
 
       const header = document.createElement("div");
       header.className = "sidebar-module-header";
-      header.textContent = `Module ${mod.num}`;
+      header.innerHTML = `<i class="fa-solid fa-folder-closed"></i> Module ${mod.num}`;
       group.appendChild(header);
 
       mod.chapters.forEach(({ chapter, index }) => {
@@ -89,7 +88,8 @@
         item.className = "nav-item" + (index === currentChapterIndex ? " active" : "");
         item.href = `#${chapter.id}`;
         item.innerHTML = `
-          <span class="nav-item-num">Ch ${chapter.num}</span>
+          <i class="fa-solid ${chapter.icon || 'fa-file-lines'} nav-icon"></i>
+          <span class="nav-item-num">Ch ${chapter.num}:</span>
           <span class="nav-item-title">${escapeHtml(chapter.title.replace(/^Chapter\s+\d+:\s*/i, ""))}</span>
         `;
         item.addEventListener("click", (e) => {
@@ -105,8 +105,8 @@
     });
   }
 
-  // 5. Lightweight Markdown to HTML Parser
-  function markdownToHtml(md, images) {
+  // 5. Enhanced Markdown Parser with FontAwesome Callouts & Tables
+  function markdownToHtml(md) {
     if (!md) return "";
     let html = "";
     const lines = md.split("\n");
@@ -169,19 +169,32 @@
         continue;
       }
 
+      // Horizontal Rule
+      if (line === "---" || line === "***") {
+        flushList();
+        html += '<hr class="section-divider" />';
+        continue;
+      }
+
       // Headings
+      if (line.startsWith("#### ")) {
+        flushList();
+        const text = line.substring(5).trim();
+        html += `<h4>${inlineFormat(text)}</h4>`;
+        continue;
+      }
       if (line.startsWith("### ")) {
         flushList();
         const text = line.substring(4).trim();
         const slug = slugify(text);
-        html += `<h3 id="${slug}">${inlineFormat(text)}</h3>`;
+        html += `<h3 id="${slug}"><i class="fa-solid fa-angle-right head-icon"></i> ${inlineFormat(text)}</h3>`;
         continue;
       }
       if (line.startsWith("## ")) {
         flushList();
         const text = line.substring(3).trim();
         const slug = slugify(text);
-        html += `<h2 id="${slug}">${inlineFormat(text)}</h2>`;
+        html += `<h2 id="${slug}"><i class="fa-solid fa-bookmark head-icon"></i> ${inlineFormat(text)}</h2>`;
         continue;
       }
       if (line.startsWith("# ")) {
@@ -195,20 +208,34 @@
       // Lists
       if (line.startsWith("- ") || line.startsWith("* ") || /^\d+\.\s/.test(line)) {
         if (!inList) {
-          html += "<ul>";
+          html += '<ul class="feature-list">';
           inList = true;
         }
         const text = line.replace(/^[-*]\s+|\d+\.\s+/, "");
-        html += `<li>${inlineFormat(text)}</li>`;
+        html += `<li><i class="fa-solid fa-circle-check list-check"></i> <span>${inlineFormat(text)}</span></li>`;
         continue;
       } else {
         flushList();
       }
 
-      // Blockquotes / Callouts
+      // Blockquotes / Special Callouts
       if (line.startsWith("> ")) {
         const text = line.substring(2);
-        html += `<div class="callout"><p>${inlineFormat(text)}</p></div>`;
+        let icon = '<i class="fa-solid fa-circle-info callout-icon"></i>';
+        let calloutClass = "callout";
+
+        if (text.includes("💡") || text.toLowerCase().includes("ahem point")) {
+          icon = '<i class="fa-solid fa-lightbulb callout-icon tip"></i>';
+          calloutClass = "callout tip";
+        } else if (text.includes("⚠️") || text.toLowerCase().includes("warning") || text.toLowerCase().includes("savdhani")) {
+          icon = '<i class="fa-solid fa-triangle-exclamation callout-icon warning"></i>';
+          calloutClass = "callout warning";
+        } else if (text.includes("💰") || text.includes("🔢") || text.toLowerCase().includes("result")) {
+          icon = '<i class="fa-solid fa-coins callout-icon success"></i>';
+          calloutClass = "callout success";
+        }
+
+        html += `<div class="${calloutClass}">${icon}<div class="callout-body">${inlineFormat(text.replace(/^[💡⚠️💰📌🔢⏰🚫]\s*/, ""))}</div></div>`;
         continue;
       }
 
@@ -247,41 +274,35 @@
 
     // Update Breadcrumb
     contentBreadcrumb.innerHTML = `
-      <span>${escapeHtml(ch.modTitle.split(":")[0])}</span> &gt; <span>Chapter ${ch.num}</span>
+      <i class="fa-solid fa-house"></i> <span>${escapeHtml(ch.modTitle.split(":")[0])}</span> &gt; <span>Chapter ${ch.num}</span>
     `;
 
     // Render Article Header
     let articleHtml = `
       <header class="chapter-header">
         <div class="chapter-meta">
-          <span class="chapter-badge">${escapeHtml(ch.badge)}</span>
-          <span class="chapter-pages">${escapeHtml(ch.pageRange)}</span>
+          <span class="chapter-badge"><i class="fa-solid fa-tag"></i> ${escapeHtml(ch.badge)}</span>
+          <span class="chapter-pages"><i class="fa-regular fa-clock"></i> ${escapeHtml(ch.pageRange)}</span>
         </div>
-        <h1 class="chapter-title">${escapeHtml(ch.title)}</h1>
+        <h1 class="chapter-title"><i class="fa-solid ${ch.icon || 'fa-file-lines'} title-icon"></i> ${escapeHtml(ch.title)}</h1>
         <p class="chapter-summary">${escapeHtml(ch.summary)}</p>
       </header>
       <div class="content-body" id="contentBody">
     `;
 
-    // Process all sections / pages
-    ch.sections.forEach((sec) => {
-      const pageHtml = markdownToHtml(sec.text);
-      if (pageHtml) {
-        articleHtml += `<div class="content-page-block">${pageHtml}</div>`;
-      }
-      
-      // If page has figures
-      if (sec.images && sec.images.length > 0) {
-        sec.images.forEach((imgFile) => {
-          articleHtml += `
-            <figure class="doc-figure">
-              <img src="images/${imgFile}" alt="GST Diagram" loading="lazy" data-full="images/${imgFile}" data-caption="Chapter ${ch.num}: Practical Illustration" />
-              <figcaption>Figure: Form / Compliance Illustration (Page ${sec.page})</figcaption>
-            </figure>
-          `;
-        });
-      }
-    });
+    // Render Concept Visual Diagram first (replacing pdf screenshots)
+    if (ch.visual) {
+      articleHtml += `
+        <figure class="doc-figure concept-visual-card">
+          <div class="visual-badge"><i class="fa-solid fa-diagram-project"></i> Concept Visual Infographic</div>
+          <img src="images/${ch.visual}" alt="${escapeHtml(ch.visualCaption)}" data-full="images/${ch.visual}" data-caption="${escapeHtml(ch.visualCaption)}" />
+          <figcaption><i class="fa-solid fa-magnifying-glass-plus"></i> ${escapeHtml(ch.visualCaption)} (Click to Zoom)</figcaption>
+        </figure>
+      `;
+    }
+
+    // Process Markdown Content
+    articleHtml += markdownToHtml(ch.content);
 
     articleHtml += `</div>`;
     chapterArticle.innerHTML = articleHtml;
@@ -324,7 +345,7 @@
       const a = document.createElement("a");
       a.className = "toc-link";
       a.href = "#" + h.id;
-      a.textContent = h.textContent.trim();
+      a.innerHTML = `<i class="fa-solid fa-angle-right toc-dot"></i> <span>${h.innerText.trim()}</span>`;
       a.addEventListener("click", (e) => {
         e.preventDefault();
         h.scrollIntoView({ behavior: "smooth", block: "start" });
@@ -338,7 +359,7 @@
   function updateNavButtons() {
     if (currentChapterIndex > 0) {
       prevChapterBtn.disabled = false;
-      prevChapterTitle.textContent = chapters[currentChapterIndex - 1].title;
+      prevChapterTitle.innerHTML = `<i class="fa-solid ${chapters[currentChapterIndex - 1].icon}"></i> Ch ${chapters[currentChapterIndex - 1].num}: ${chapters[currentChapterIndex - 1].title.replace(/^Chapter\s+\d+:\s*/i, "")}`;
     } else {
       prevChapterBtn.disabled = true;
       prevChapterTitle.textContent = "Start of Course";
@@ -346,10 +367,10 @@
 
     if (currentChapterIndex < chapters.length - 1) {
       nextChapterBtn.disabled = false;
-      nextChapterTitle.textContent = chapters[currentChapterIndex + 1].title;
+      nextChapterTitle.innerHTML = `<i class="fa-solid ${chapters[currentChapterIndex + 1].icon}"></i> Ch ${chapters[currentChapterIndex + 1].num}: ${chapters[currentChapterIndex + 1].title.replace(/^Chapter\s+\d+:\s*/i, "")}`;
     } else {
       nextChapterBtn.disabled = true;
-      nextChapterTitle.textContent = "Course Completed";
+      nextChapterTitle.textContent = "Course Completed (Badhai Ho!)";
     }
   }
 
@@ -378,41 +399,31 @@
 
     const matches = [];
     chapters.forEach((ch, chIdx) => {
-      // Check title & summary
-      if (ch.title.toLowerCase().includes(q) || ch.summary.toLowerCase().includes(q)) {
+      if (ch.title.toLowerCase().includes(q) || ch.summary.toLowerCase().includes(q) || ch.content.toLowerCase().includes(q)) {
+        let snippet = ch.summary;
+        const text = ch.content.toLowerCase();
+        const matchPos = text.indexOf(q);
+        if (matchPos !== -1) {
+          const start = Math.max(0, matchPos - 30);
+          const end = Math.min(text.length, matchPos + 90);
+          snippet = "..." + ch.content.substring(start, end).replace(/[#*|]/g, " ") + "...";
+        }
         matches.push({
           chapterIndex: chIdx,
           title: ch.title,
           badge: ch.badge,
-          snippet: ch.summary
+          icon: ch.icon,
+          snippet: snippet
         });
-        return;
-      }
-      // Check sections
-      for (const sec of ch.sections) {
-        const text = sec.text.toLowerCase();
-        const matchPos = text.indexOf(q);
-        if (matchPos !== -1) {
-          const start = Math.max(0, matchPos - 40);
-          const end = Math.min(text.length, matchPos + 80);
-          const snippet = "..." + sec.text.substring(start, end).replace(/\n/g, " ") + "...";
-          matches.push({
-            chapterIndex: chIdx,
-            title: ch.title,
-            badge: ch.badge,
-            snippet: snippet
-          });
-          break;
-        }
       }
     });
 
     if (matches.length === 0) {
-      searchResultsDropdown.innerHTML = `<div class="search-item"><div class="search-item-snippet">No matching topics found for "${escapeHtml(q)}"</div></div>`;
+      searchResultsDropdown.innerHTML = `<div class="search-item"><div class="search-item-snippet"><i class="fa-solid fa-circle-exclamation"></i> "${escapeHtml(q)}" ke liye koi jankari nahi mili.</div></div>`;
     } else {
       searchResultsDropdown.innerHTML = matches.slice(0, 8).map((m) => `
         <div class="search-item" data-index="${m.chapterIndex}">
-          <span class="search-item-badge">${escapeHtml(m.badge)}</span>
+          <span class="search-item-badge"><i class="fa-solid ${m.icon || 'fa-tag'}"></i> ${escapeHtml(m.badge)}</span>
           <div class="search-item-title">${escapeHtml(m.title)}</div>
           <div class="search-item-snippet">${escapeHtml(m.snippet)}</div>
         </div>
@@ -446,7 +457,7 @@
     }
   });
 
-  // Initial Load from URL Hash or Chapter 0
+  // Initial Load
   const initialHash = window.location.hash.replace("#", "");
   const foundIdx = chapters.findIndex((c) => c.id === initialHash);
   loadChapter(foundIdx !== -1 ? foundIdx : 0);

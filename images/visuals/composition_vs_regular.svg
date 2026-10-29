@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 460" width="100%" height="100%" style="background:#ffffff; border-radius:12px; font-family:system-ui, -apple-system, sans-serif;">
+  <text x="450" y="40" text-anchor="middle" font-size="24" font-weight="800" fill="#0f172a">Composition Scheme vs Regular Scheme: Sidha Mukabla</text>
+  <text x="450" y="68" text-anchor="middle" font-size="14" fill="#64748b">Section 10 ke tehat kaunsi scheme aapke business ke liye best hai?</text>
+
+  <g transform="translate(50, 95)">
+    <!-- Column 1: Feature -->
+    <rect x="0" y="0" width="220" height="340" rx="8" fill="#f8fafc" stroke="#e2e8f0"/>
+    <rect x="0" y="0" width="220" height="45" rx="8" fill="#334155"/>
+    <text x="110" y="28" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">Feature / Parameter</text>
+    
+    <text x="15" y="75" font-size="13" font-weight="700" fill="#475569">1. Turnover Limit</text>
+    <text x="15" y="125" font-size="13" font-weight="700" fill="#475569">2. Tax Rates</text>
+    <text x="15" y="175" font-size="13" font-weight="700" fill="#475569">3. Tax Collection</text>
+    <text x="15" y="225" font-size="13" font-weight="700" fill="#475569">4. Input Tax Credit (ITC)</text>
+    <text x="15" y="275" font-size="13" font-weight="700" fill="#475569">5. Returns Filing</text>
+    <text x="15" y="325" font-size="13" font-weight="700" fill="#475569">6. Inter-State Sales</text>
+
+    <!-- Column 2: Composition Scheme -->
+    <rect x="235" y="0" width="275" height="340" rx="8" fill="#eff6ff" stroke="#93c5fd" stroke-width="2"/>
+    <rect x="235" y="0" width="275" height="45" rx="8" fill="#2563eb"/>
+    <text x="372" y="28" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">Composition Scheme (Sec 10)</text>
+
+    <text x="250" y="75" font-size="12.5" fill="#1e3a8a">Turnover up to ₹ 1.5 Crore (Special: 75L)</text>
+    <text x="250" y="125" font-size="12.5" fill="#1e3a8a">1% (Traders/Mfg), 5% (Restaurant), 6% (Serv)</text>
+    <text x="250" y="175" font-size="12.5" font-weight="700" fill="#b91c1c">❌ Customer se tax nahi le sakte</text>
+    <text x="250" y="225" font-size="12.5" font-weight="700" fill="#b91c1c">❌ Purchase par ITC claim nahi milta</text>
+    <text x="250" y="275" font-size="12.5" fill="#1e3a8a">Quarterly CMP-08 + Annual GSTR-4</text>
+    <text x="250" y="325" font-size="12.5" font-weight="700" fill="#b91c1c">❌ Inter-state supply bilkul mana hai</text>
+
+    <!-- Column 3: Regular Scheme -->
+    <rect x="525" y="0" width="275" height="340" rx="8" fill="#f0fdf4" stroke="#86efac" stroke-width="2"/>
+    <rect x="525" y="0" width="275" height="45" rx="8" fill="#16a34a"/>
+    <text x="662" y="28" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">Regular Scheme</text>
+
+    <text x="540" y="75" font-size="12.5" fill="#14532d">Koi maximum limit nahi (Any turnover)</text>
+    <text x="540" y="125" font-size="12.5" fill="#14532d">Normal GST Slabs (5%, 12%, 18%, 28%)</text>
+    <text x="540" y="175" font-size="12.5" font-weight="700" fill="#15803d">✔ Tax Invoice dekar tax collect karein</text>
+    <text x="540" y="225" font-size="12.5" font-weight="700" fill="#15803d">✔ Full ITC milta hai purchases par</text>
+    <text x="540" y="275" font-size="12.5" fill="#14532d">Monthly GSTR-1, GSTR-3B (ya QRMP)</text>
+    <text x="540" y="325" font-size="12.5" font-weight="700" fill="#15803d">✔ Pooray India me kahin bhi becho</text>
+  </g>
+</svg>

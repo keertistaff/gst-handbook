@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 480" width="100%" height="100%" style="background:#ffffff; border-radius:12px; font-family:system-ui, -apple-system, sans-serif;">
+  <text x="450" y="40" text-anchor="middle" font-size="24" font-weight="800" fill="#0f172a">GSTR-1 Tables Simplified: Kaunsa Bill Kahan Dalein?</text>
+  <text x="450" y="68" text-anchor="middle" font-size="14" fill="#64748b">Outward Supplies (Sales) ka return file karte waqt tables ka sahi chayan</text>
+
+  <g transform="translate(40, 95)">
+    <!-- Table 4: B2B -->
+    <rect x="0" y="0" width="250" height="150" rx="8" fill="#eff6ff" stroke="#93c5fd" stroke-width="2"/>
+    <rect x="0" y="0" width="250" height="35" rx="8" fill="#2563eb"/>
+    <text x="125" y="23" text-anchor="middle" font-size="14" font-weight="700" fill="#ffffff">Table 4: B2B Supplies</text>
+    <text x="15" y="60" font-size="12.5" font-weight="700" fill="#1e40af">Registered Buyer ko Sale</text>
+    <text x="15" y="82" font-size="11.5" fill="#334155">• Buyer ka GSTIN zaroori hai</text>
+    <text x="15" y="102" font-size="11.5" fill="#334155">• Invoice-by-invoice entry hogi</text>
+    <text x="15" y="122" font-size="11.5" fill="#334155">• Auto-flows to Buyer's GSTR-2B</text>
+    <text x="15" y="140" font-size="11" font-weight="600" fill="#0284c7">Local &amp; Inter-state dono</text>
+
+    <!-- Table 5: B2C Large -->
+    <rect x="280" y="0" width="250" height="150" rx="8" fill="#fefce8" stroke="#fde047" stroke-width="2"/>
+    <rect x="280" y="0" width="250" height="35" rx="8" fill="#ca8a04"/>
+    <text x="405" y="23" text-anchor="middle" font-size="14" font-weight="700" fill="#ffffff">Table 5: B2C Large</text>
+    <text x="295" y="60" font-size="12.5" font-weight="700" fill="#854d0e">Badi Inter-State Sale</text>
+    <text x="295" y="82" font-size="11.5" fill="#334155">• Unregistered customer ko sale</text>
+    <text x="295" y="102" font-size="11.5" fill="#334155">• Inter-state supply ho (doosra state)</text>
+    <text x="295" y="122" font-size="11.5" fill="#334155">• Invoice Value &gt; ₹ 2.5 Lakhs</text>
+    <text x="295" y="140" font-size="11" font-weight="600" fill="#a16207">Invoice-wise entry karni hogi</text>
+
+    <!-- Table 7: B2C Small -->
+    <rect x="560" y="0" width="250" height="150" rx="8" fill="#f0fdf4" stroke="#86efac" stroke-width="2"/>
+    <rect x="560" y="0" width="250" height="35" rx="8" fill="#16a34a"/>
+    <text x="685" y="23" text-anchor="middle" font-size="14" font-weight="700" fill="#ffffff">Table 7: B2C Others / Small</text>
+    <text x="575" y="60" font-size="12.5" font-weight="700" fill="#166534">Aam Local ya Chhoti Sale</text>
+    <text x="575" y="82" font-size="11.5" fill="#334155">• Local retail sales (same state)</text>
+    <text x="575" y="102" font-size="11.5" fill="#334155">• Inter-state sale ≤ ₹ 2.5 Lakhs</text>
+    <text x="575" y="122" font-size="11.5" fill="#334155">• Single consolidated entry per state</text>
+    <text x="575" y="140" font-size="11" font-weight="600" fill="#15803d">Bill-by-bill nahi dalna padta</text>
+
+    <!-- Table 9B: Credit / Debit Notes -->
+    <rect x="0" y="175" width="250" height="150" rx="8" fill="#faf5ff" stroke="#d8b4fe" stroke-width="2"/>
+    <rect x="0" y="175" width="250" height="35" rx="8" fill="#9333ea"/>
+    <text x="125" y="198" text-anchor="middle" font-size="14" font-weight="700" fill="#ffffff">Table 9B: CDN (Notes)</text>
+    <text x="15" y="235" font-size="12.5" font-weight="700" fill="#6b21a8">Credit &amp; Debit Notes</text>
+    <text x="15" y="257" font-size="11.5" fill="#334155">• Sales return ya rate correction</text>
+    <text x="15" y="277" font-size="11.5" fill="#334155">• Registered recipients ke liye</text>
+    <text x="15" y="297" font-size="11.5" fill="#334155">• Original invoice number link hoga</text>
+    <text x="15" y="315" font-size="11" font-weight="600" fill="#7e22ce">Tax liability adjust hoti hai</text>
+
+    <!-- Table 12: HSN Summary -->
+    <rect x="280" y="175" width="250" height="150" rx="8" fill="#fff1f2" stroke="#fecdd3" stroke-width="2"/>
+    <rect x="280" y="175" width="250" height="35" rx="8" fill="#e11d48"/>
+    <text x="405" y="198" text-anchor="middle" font-size="14" font-weight="700" fill="#ffffff">Table 12: HSN Summary</text>
+    <text x="295" y="235" font-size="12.5" font-weight="700" fill="#9f1239">HSN-Wise Summary</text>
+    <text x="295" y="257" font-size="11.5" fill="#334155">• Har HSN ka Total Quantity &amp; UQC</text>
+    <text x="295" y="277" font-size="11.5" fill="#334155">• Total Taxable Value &amp; Tax amount</text>
+    <text x="295" y="297" font-size="11.5" fill="#334155">• 4-Digit (Turnover ≤ 5Cr) ya 6-Digit</text>
+    <text x="295" y="315" font-size="11" font-weight="600" fill="#be123c">Table 4/5/7 ke total se match kare</text>
+
+    <!-- Table 13: Docs Issued -->
+    <rect x="560" y="175" width="250" height="150" rx="8" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2"/>
+    <rect x="560" y="175" width="250" height="35" rx="8" fill="#475569"/>
+    <text x="685" y="198" text-anchor="middle" font-size="14" font-weight="700" fill="#ffffff">Table 13: Doc Summary</text>
+    <text x="575" y="235" font-size="12.5" font-weight="700" fill="#1e293b">Invoices Track</text>
+    <text x="575" y="257" font-size="11.5" fill="#334155">• Serial number From - To</text>
+    <text x="575" y="277" font-size="11.5" fill="#334155">• Total Invoices issued</text>
+    <text x="575" y="297" font-size="11.5" fill="#334155">• Cancelled Invoices count</text>
+    <text x="575" y="315" font-size="11" font-weight="600" fill="#334155">Net count of documents filed</text>
+  </g>
+</svg>

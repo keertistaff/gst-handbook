@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 480" width="100%" height="100%" style="background:#ffffff; border-radius:12px; font-family:system-ui, -apple-system, sans-serif;">
+  <text x="450" y="40" text-anchor="middle" font-size="24" font-weight="800" fill="#0f172a">Tax Invoice Ka Standard Format &amp; Zaroori Niyam</text>
+  <text x="450" y="68" text-anchor="middle" font-size="14" fill="#64748b">Section 31 &amp; Rule 46 ke tehat Tax Invoice me kya-kya hona anivarya hai</text>
+
+  <!-- Invoice Container -->
+  <g transform="translate(60, 95)">
+    <rect width="780" height="355" rx="10" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2"/>
+    
+    <!-- Header of invoice -->
+    <rect x="0" y="0" width="780" height="55" rx="10" fill="#1e293b"/>
+    <text x="30" y="35" font-size="18" font-weight="800" fill="#ffffff">TAX INVOICE (Rule 46)</text>
+    <text x="750" y="35" text-anchor="end" font-size="13" fill="#94a3b8">ORIGINAL FOR RECIPIENT</text>
+
+    <!-- Supplier & Buyer info -->
+    <rect x="25" y="70" width="355" height="95" rx="6" fill="#ffffff" stroke="#e2e8f0"/>
+    <text x="40" y="93" font-size="13" font-weight="700" fill="#1e40af">SUPPLIER DETAILS (Bechne Wala):</text>
+    <text x="40" y="113" font-size="12" fill="#334155">• Name &amp; Full Address of Supplier</text>
+    <text x="40" y="131" font-size="12" fill="#334155">• 15-Digit GSTIN Number (Compulsory)</text>
+    <text x="40" y="150" font-size="12" fill="#334155">• State &amp; State Code (e.g. 27-Maharashtra)</text>
+
+    <rect x="400" y="70" width="355" height="95" rx="6" fill="#ffffff" stroke="#e2e8f0"/>
+    <text x="415" y="93" font-size="13" font-weight="700" fill="#1e40af">INVOICE &amp; BUYER DETAILS:</text>
+    <text x="415" y="113" font-size="12" fill="#334155">• Serial Number (Unique per FY, max 16 chars)</text>
+    <text x="415" y="131" font-size="12" fill="#334155">• Date of Issue &amp; Place of Supply (POS)</text>
+    <text x="415" y="150" font-size="12" fill="#334155">• Buyer ka GSTIN (B2B) ya Name/Address (B2C)</text>
+
+    <!-- Item Table Preview -->
+    <rect x="25" y="180" width="730" height="100" rx="6" fill="#ffffff" stroke="#e2e8f0"/>
+    <rect x="25" y="180" width="730" height="30" fill="#f1f5f9"/>
+    <text x="40" y="200" font-size="12" font-weight="700" fill="#475569">Description of Goods</text>
+    <text x="240" y="200" font-size="12" font-weight="700" fill="#475569">HSN / SAC</text>
+    <text x="350" y="200" font-size="12" font-weight="700" fill="#475569">Taxable Value</text>
+    <text x="470" y="200" font-size="12" font-weight="700" fill="#475569">CGST (9%)</text>
+    <text x="570" y="200" font-size="12" font-weight="700" fill="#475569">SGST (9%)</text>
+    <text x="670" y="200" font-size="12" font-weight="700" fill="#475569">Total (₹)</text>
+
+    <text x="40" y="235" font-size="12" fill="#1e293b">Electronics / Computer Parts</text>
+    <text x="240" y="235" font-size="12" fill="#1e293b">8471</text>
+    <text x="350" y="235" font-size="12" fill="#1e293b">₹ 50,000</text>
+    <text x="470" y="235" font-size="12" fill="#16a34a">₹ 4,500</text>
+    <text x="570" y="235" font-size="12" fill="#16a34a">₹ 4,500</text>
+    <text x="670" y="235" font-size="12" font-weight="700" fill="#1e40af">₹ 59,000</text>
+
+    <!-- Bottom verification note -->
+    <text x="40" y="315" font-size="12.5" font-weight="600" fill="#047857">✔ Time Limit Goods: Pehle ya removal/delivery ke waqt issue hona chahiye.</text>
+    <text x="40" y="335" font-size="12.5" font-weight="600" fill="#047857">✔ Time Limit Services: Service provide karne ke 30 din ke andar (Banks: 45 din).</text>
+  </g>
+</svg>

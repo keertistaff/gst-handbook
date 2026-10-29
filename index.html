@@ -1,12 +1,16 @@
 ﻿<!DOCTYPE html>
-<html lang="en">
+<html lang="hi-EN">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
-  <title>GST Complete Learning Handbook | G-TEC Nergy Vidya</title>
-  <meta name="description" content="Comprehensive Goods and Services Tax (GST) Complete Course Handbook - Modules 1 to 4 covering GST Evolution, Registration, Invoicing, E-Way Bills, GSTR-1, 2A/2B, 3B, CMP-08 and Tax Payments." />
+  <title>GST Complete Learning Handbook (Simple Hinglish) | G-TEC Nergy Vidya</title>
+  <meta name="description" content="GST complete course handbook in simple Hinglish with concept visual diagrams and practical return filing guide for Modules 1 to 4." />
   <meta name="theme-color" content="#2563eb" />
   <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>⚖️</text></svg>">
+  
+  <!-- FontAwesome 6 Free CDN -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  
   <link rel="stylesheet" href="style.css" />
 </head>
 <body class="theme-light">
@@ -14,32 +18,32 @@
   <header class="app-header">
     <div class="header-left">
       <button class="mobile-toggle-btn" id="mobileMenuBtn" aria-label="Toggle Navigation Menu">
-        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 6h16M4 12h16M4 18h16"/></svg>
+        <i class="fa-solid fa-bars"></i>
       </button>
       <div class="brand">
-        <div class="brand-badge">GST</div>
+        <div class="brand-badge"><i class="fa-solid fa-scale-balanced"></i> GST</div>
         <div class="brand-info">
-          <h1>GST Course Handbook</h1>
-          <span class="brand-sub">G-TEC Nergy Vidya • Modules 1–4</span>
+          <h1>GST Course Handbook <span class="lang-tag">Hinglish</span></h1>
+          <span class="brand-sub"><i class="fa-solid fa-graduation-cap"></i> G-TEC Nergy Vidya • Modules 1–4</span>
         </div>
       </div>
     </div>
 
     <!-- Search input in header -->
     <div class="header-search">
-      <svg class="search-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
-      <input type="text" id="globalSearchInput" placeholder="Search chapters, rules, GSTR forms..." aria-label="Search Handbook" />
+      <i class="fa-solid fa-magnifying-glass search-icon"></i>
+      <input type="text" id="globalSearchInput" placeholder="Khojein: GSTR-1, ITC, E-Way Bill, Registration..." aria-label="Search Handbook" />
       <kbd class="search-kbd">/</kbd>
       <div id="searchResultsDropdown" class="search-dropdown hidden"></div>
     </div>
 
     <div class="header-right">
       <button id="themeToggleBtn" class="action-btn theme-btn" title="Toggle Dark/Light Mode" aria-label="Toggle Theme">
-        <span class="theme-icon-light">☀️</span>
-        <span class="theme-icon-dark">🌙</span>
+        <i class="fa-solid fa-sun theme-icon-light"></i>
+        <i class="fa-solid fa-moon theme-icon-dark"></i>
       </button>
-      <a href="https://github.com/keertistaff/gst-handbook" target="_blank" rel="noopener noreferrer" class="action-btn github-btn" title="View on GitHub">
-        <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0 0 24 12c0-6.63-5.37-12-12-12z"/></svg>
+      <a href="https://github.com/keertistaff/gst-handbook" target="_blank" rel="noopener noreferrer" class="action-btn github-btn" title="GitHub Repository">
+        <i class="fa-brands fa-github"></i>
       </a>
     </div>
   </header>
@@ -52,12 +56,12 @@
     <!-- Sidebar Navigation -->
     <aside class="app-sidebar" id="appSidebar">
       <div class="sidebar-header">
-        <span class="sidebar-title">TABLE OF CONTENTS</span>
+        <span class="sidebar-title"><i class="fa-solid fa-book-open"></i> VISHAY SUCHEE (TOC)</span>
         <span class="sidebar-count" id="totalChaptersBadge">10 Chapters</span>
       </div>
 
       <div class="module-filter-bar">
-        <button class="filter-pill active" data-filter="all">All</button>
+        <button class="filter-pill active" data-filter="all"><i class="fa-solid fa-layer-group"></i> All</button>
         <button class="filter-pill" data-filter="1">Mod 1</button>
         <button class="filter-pill" data-filter="2">Mod 2</button>
         <button class="filter-pill" data-filter="3">Mod 3</button>
@@ -74,7 +78,7 @@
       <div class="content-container" id="contentContainer">
         <!-- Breadcrumb & Top Bar -->
         <div class="content-breadcrumb" id="contentBreadcrumb">
-          <span>Module 1</span> &gt; <span>Chapter 1</span>
+          <i class="fa-solid fa-house"></i> <span>Module 1</span> &gt; <span>Chapter 1</span>
         </div>
 
         <article class="chapter-article" id="chapterArticle">
@@ -84,11 +88,11 @@
         <!-- Chapter Navigation Footer -->
         <div class="chapter-nav-footer">
           <button id="prevChapterBtn" class="nav-chapter-btn prev">
-            <span class="nav-dir">&larr; Previous</span>
+            <span class="nav-dir"><i class="fa-solid fa-arrow-left"></i> Pichhla Chapter</span>
             <span class="nav-title" id="prevChapterTitle">None</span>
           </button>
           <button id="nextChapterBtn" class="nav-chapter-btn next">
-            <span class="nav-dir">Next &rarr;</span>
+            <span class="nav-dir">Agla Chapter <i class="fa-solid fa-arrow-right"></i></span>
             <span class="nav-title" id="nextChapterTitle">None</span>
           </button>
         </div>
@@ -97,14 +101,14 @@
 
     <!-- Table of Contents Mini-Nav (Desktop Right Column) -->
     <aside class="app-toc" id="appToc">
-      <div class="toc-header">IN THIS CHAPTER</div>
+      <div class="toc-header"><i class="fa-solid fa-list-ul"></i> IS CHAPTER MEIN</div>
       <ul class="toc-list" id="tocList">
         <!-- Dynamically populated from h2/h3 -->
       </ul>
     </aside>
   </div>
 
-  <!-- Lightbox Modal for Images/Screenshots -->
+  <!-- Lightbox Modal for Visuals/Diagrams -->
   <div id="imageLightbox" class="lightbox-modal">
     <span class="lightbox-close">&times;</span>
     <img id="lightboxImg" src="" alt="Expanded diagram preview" />
