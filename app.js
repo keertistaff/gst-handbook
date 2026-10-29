@@ -1,4 +1,4 @@
-﻿// GST Complete Course Handbook - Main Application Logic (Hinglish Version)
+﻿// GST Complete Course Handbook - Main Application Logic (Mobile-First Hinglish)
 (function () {
   // State
   let currentChapterIndex = 0;
@@ -24,6 +24,12 @@
   const lightboxImg = document.getElementById("lightboxImg");
   const lightboxCaption = document.getElementById("lightboxCaption");
   const filterPills = document.querySelectorAll(".filter-pill");
+  const mobileChapterSelect = document.getElementById("mobileChapterSelect");
+  const mobileSearchBtn = document.getElementById("mobileSearchBtn");
+  const mobileSearchOverlay = document.getElementById("mobileSearchOverlay");
+  const mobileSearchInput = document.getElementById("mobileSearchInput");
+  const closeMobileSearchBtn = document.getElementById("closeMobileSearchBtn");
+  const mobileSearchResults = document.getElementById("mobileSearchResults");
 
   // 1. Theme Initialization
   const savedTheme = localStorage.getItem("gst_theme") || "light";
@@ -45,7 +51,33 @@
   mobileMenuBtn.addEventListener("click", () => toggleDrawer());
   drawerBackdrop.addEventListener("click", () => toggleDrawer(false));
 
-  // 3. Module Filter
+  // 3. Mobile Chapter Dropdown Initial Population
+  function initMobileChapterSelect() {
+    mobileChapterSelect.innerHTML = "";
+    chapters.forEach((ch, idx) => {
+      const opt = document.createElement("option");
+      opt.value = idx;
+      opt.textContent = `Ch ${ch.num}: ${ch.title.replace(/^Chapter\s+\d+:\s*/i, "")}`;
+      mobileChapterSelect.appendChild(opt);
+    });
+    mobileChapterSelect.addEventListener("change", (e) => {
+      loadChapter(parseInt(e.target.value, 10));
+    });
+  }
+  initMobileChapterSelect();
+
+  // 4. Mobile Search Overlay
+  mobileSearchBtn.addEventListener("click", () => {
+    mobileSearchOverlay.classList.remove("hidden");
+    mobileSearchInput.value = "";
+    mobileSearchResults.innerHTML = "";
+    setTimeout(() => mobileSearchInput.focus(), 100);
+  });
+  closeMobileSearchBtn.addEventListener("click", () => {
+    mobileSearchOverlay.classList.add("hidden");
+  });
+
+  // 5. Module Filter
   filterPills.forEach((pill) => {
     pill.addEventListener("click", () => {
       filterPills.forEach((p) => p.classList.remove("active"));
@@ -55,7 +87,7 @@
     });
   });
 
-  // 4. Render Sidebar with FontAwesome Icons
+  // 6. Render Sidebar with FontAwesome Icons
   function renderSidebar() {
     sidebarNav.innerHTML = "";
     
@@ -105,7 +137,7 @@
     });
   }
 
-  // 5. Enhanced Markdown Parser with FontAwesome Callouts & Tables
+  // 7. Enhanced Markdown Parser with Mobile Scrollable Tables & Callouts
   function markdownToHtml(md) {
     if (!md) return "";
     let html = "";
@@ -119,7 +151,9 @@
       inTable = false;
       if (tableRows.length === 0) return;
       
-      let tableHtml = '<div class="table-wrapper"><table>';
+      let tableHtml = '<div class="table-wrapper">';
+      tableHtml += '<div class="table-scroll-hint"><i class="fa-solid fa-arrows-left-right"></i> Table ko baayein/daayein scroll karein</div>';
+      tableHtml += '<table>';
       const isHeaderRow = (r) => r.every(c => c.trim().startsWith("---") || c.trim().startsWith(":---"));
       
       let headerPassed = false;
@@ -266,11 +300,16 @@
     return div.innerHTML;
   }
 
-  // 6. Load Chapter
+  // 8. Load Chapter
   function loadChapter(index) {
     if (index < 0 || index >= chapters.length) return;
     currentChapterIndex = index;
     const ch = chapters[index];
+
+    // Update Mobile Dropdown
+    if (mobileChapterSelect) {
+      mobileChapterSelect.value = index;
+    }
 
     // Update Breadcrumb
     contentBreadcrumb.innerHTML = `
@@ -329,7 +368,7 @@
     window.scrollTo({ top: 0, behavior: "smooth" });
   }
 
-  // 7. Right Column TOC
+  // 9. Right Column TOC
   function buildToc() {
     tocList.innerHTML = "";
     const headings = chapterArticle.querySelectorAll(".content-body h2, .content-body h3");
@@ -355,7 +394,7 @@
     });
   }
 
-  // 8. Update Navigation Buttons
+  // 10. Update Navigation Buttons
   function updateNavButtons() {
     if (currentChapterIndex > 0) {
       prevChapterBtn.disabled = false;
@@ -381,19 +420,19 @@
     if (currentChapterIndex < chapters.length - 1) loadChapter(currentChapterIndex + 1);
   });
 
-  // 9. Lightbox Close
+  // 11. Lightbox Close
   imageLightbox.addEventListener("click", (e) => {
     if (e.target === imageLightbox || e.target.classList.contains("lightbox-close")) {
       imageLightbox.classList.remove("active");
     }
   });
 
-  // 10. Global Search
-  globalSearchInput.addEventListener("input", (e) => {
-    const q = e.target.value.trim().toLowerCase();
+  // 12. Search Implementation (Desktop + Mobile)
+  function searchHandbook(query, resultContainer, isMobile) {
+    const q = query.trim().toLowerCase();
     if (!q || q.length < 2) {
-      searchResultsDropdown.classList.add("hidden");
-      searchResultsDropdown.innerHTML = "";
+      resultContainer.innerHTML = "";
+      if (!isMobile) resultContainer.classList.add("hidden");
       return;
     }
 
@@ -419,9 +458,9 @@
     });
 
     if (matches.length === 0) {
-      searchResultsDropdown.innerHTML = `<div class="search-item"><div class="search-item-snippet"><i class="fa-solid fa-circle-exclamation"></i> "${escapeHtml(q)}" ke liye koi jankari nahi mili.</div></div>`;
+      resultContainer.innerHTML = `<div class="search-item"><div class="search-item-snippet"><i class="fa-solid fa-circle-exclamation"></i> "${escapeHtml(q)}" ke liye koi jankari nahi mili.</div></div>`;
     } else {
-      searchResultsDropdown.innerHTML = matches.slice(0, 8).map((m) => `
+      resultContainer.innerHTML = matches.slice(0, 8).map((m) => `
         <div class="search-item" data-index="${m.chapterIndex}">
           <span class="search-item-badge"><i class="fa-solid ${m.icon || 'fa-tag'}"></i> ${escapeHtml(m.badge)}</span>
           <div class="search-item-title">${escapeHtml(m.title)}</div>
@@ -429,31 +468,47 @@
         </div>
       `).join("");
 
-      searchResultsDropdown.querySelectorAll(".search-item").forEach((el) => {
+      resultContainer.querySelectorAll(".search-item").forEach((el) => {
         el.addEventListener("click", () => {
           const idx = parseInt(el.dataset.index, 10);
           loadChapter(idx);
-          searchResultsDropdown.classList.add("hidden");
-          globalSearchInput.value = "";
+          if (isMobile) {
+            mobileSearchOverlay.classList.add("hidden");
+          } else {
+            resultContainer.classList.add("hidden");
+            globalSearchInput.value = "";
+          }
         });
       });
     }
 
-    searchResultsDropdown.classList.remove("hidden");
+    if (!isMobile) resultContainer.classList.remove("hidden");
+  }
+
+  // Desktop search event
+  globalSearchInput.addEventListener("input", (e) => {
+    searchHandbook(e.target.value, searchResultsDropdown, false);
   });
 
-  // Close search dropdown on click outside
+  // Mobile search event
+  mobileSearchInput.addEventListener("input", (e) => {
+    searchHandbook(e.target.value, mobileSearchResults, true);
+  });
+
   document.addEventListener("click", (e) => {
     if (!e.target.closest(".header-search")) {
       searchResultsDropdown.classList.add("hidden");
     }
   });
 
-  // Search shortcut "/"
   document.addEventListener("keydown", (e) => {
-    if (e.key === "/" && document.activeElement !== globalSearchInput) {
+    if (e.key === "/" && document.activeElement !== globalSearchInput && document.activeElement !== mobileSearchInput) {
       e.preventDefault();
-      globalSearchInput.focus();
+      if (window.innerWidth <= 860) {
+        mobileSearchBtn.click();
+      } else {
+        globalSearchInput.focus();
+      }
     }
   });
 

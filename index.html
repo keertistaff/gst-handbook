@@ -2,7 +2,7 @@
 <html lang="hi-EN">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
   <title>GST Complete Learning Handbook (Simple Hinglish) | G-TEC Nergy Vidya</title>
   <meta name="description" content="GST complete course handbook in simple Hinglish with concept visual diagrams and practical return filing guide for Modules 1 to 4." />
   <meta name="theme-color" content="#2563eb" />
@@ -17,36 +17,50 @@
   <!-- Top Navigation Header -->
   <header class="app-header">
     <div class="header-left">
-      <button class="mobile-toggle-btn" id="mobileMenuBtn" aria-label="Toggle Navigation Menu">
+      <button class="mobile-toggle-btn" id="mobileMenuBtn" aria-label="Menu Kholein" title="Menu">
         <i class="fa-solid fa-bars"></i>
       </button>
       <div class="brand">
         <div class="brand-badge"><i class="fa-solid fa-scale-balanced"></i> GST</div>
         <div class="brand-info">
-          <h1>GST Course Handbook <span class="lang-tag">Hinglish</span></h1>
-          <span class="brand-sub"><i class="fa-solid fa-graduation-cap"></i> G-TEC Nergy Vidya • Modules 1–4</span>
+          <h1>GST Handbook <span class="lang-tag">Hinglish</span></h1>
+          <span class="brand-sub">G-TEC Nergy Vidya • Mod 1–4</span>
         </div>
       </div>
     </div>
 
-    <!-- Search input in header -->
-    <div class="header-search">
+    <!-- Desktop Search -->
+    <div class="header-search" id="desktopSearchBar">
       <i class="fa-solid fa-magnifying-glass search-icon"></i>
       <input type="text" id="globalSearchInput" placeholder="Khojein: GSTR-1, ITC, E-Way Bill, Registration..." aria-label="Search Handbook" />
       <kbd class="search-kbd">/</kbd>
       <div id="searchResultsDropdown" class="search-dropdown hidden"></div>
     </div>
 
+    <!-- Header Actions -->
     <div class="header-right">
-      <button id="themeToggleBtn" class="action-btn theme-btn" title="Toggle Dark/Light Mode" aria-label="Toggle Theme">
+      <button id="mobileSearchBtn" class="action-btn mobile-search-btn" title="Search Khojein" aria-label="Search">
+        <i class="fa-solid fa-magnifying-glass"></i>
+      </button>
+      <button id="themeToggleBtn" class="action-btn theme-btn" title="Dark/Light Mode" aria-label="Toggle Theme">
         <i class="fa-solid fa-sun theme-icon-light"></i>
         <i class="fa-solid fa-moon theme-icon-dark"></i>
       </button>
-      <a href="https://github.com/keertistaff/gst-handbook" target="_blank" rel="noopener noreferrer" class="action-btn github-btn" title="GitHub Repository">
+      <a href="https://github.com/keertistaff/gst-handbook" target="_blank" rel="noopener noreferrer" class="action-btn github-btn" title="GitHub Code">
         <i class="fa-brands fa-github"></i>
       </a>
     </div>
   </header>
+
+  <!-- Mobile Search Bar Overlay -->
+  <div id="mobileSearchOverlay" class="mobile-search-overlay hidden">
+    <div class="mobile-search-box">
+      <i class="fa-solid fa-magnifying-glass"></i>
+      <input type="text" id="mobileSearchInput" placeholder="Search GST topics, rules, forms..." />
+      <button id="closeMobileSearchBtn" class="close-search-btn"><i class="fa-solid fa-xmark"></i></button>
+    </div>
+    <div id="mobileSearchResults" class="mobile-search-results"></div>
+  </div>
 
   <!-- Mobile Drawer Backdrop -->
   <div id="drawerBackdrop" class="drawer-backdrop"></div>
@@ -56,7 +70,7 @@
     <!-- Sidebar Navigation -->
     <aside class="app-sidebar" id="appSidebar">
       <div class="sidebar-header">
-        <span class="sidebar-title"><i class="fa-solid fa-book-open"></i> VISHAY SUCHEE (TOC)</span>
+        <span class="sidebar-title"><i class="fa-solid fa-book-open"></i> VISHAY SUCHEE</span>
         <span class="sidebar-count" id="totalChaptersBadge">10 Chapters</span>
       </div>
 
@@ -76,7 +90,15 @@
     <!-- Main Content Reader -->
     <main class="app-main" id="appMain">
       <div class="content-container" id="contentContainer">
-        <!-- Breadcrumb & Top Bar -->
+        <!-- Mobile Quick Chapter Switcher -->
+        <div class="mobile-quick-picker">
+          <label for="mobileChapterSelect"><i class="fa-solid fa-book-bookmark"></i> Chapter:</label>
+          <select id="mobileChapterSelect" class="mobile-chapter-select">
+            <!-- Populated dynamically -->
+          </select>
+        </div>
+
+        <!-- Breadcrumb -->
         <div class="content-breadcrumb" id="contentBreadcrumb">
           <i class="fa-solid fa-house"></i> <span>Module 1</span> &gt; <span>Chapter 1</span>
         </div>
