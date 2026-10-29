@@ -1,0 +1,1139 @@
+{
+  "id": "module-4",
+  "number": 4,
+  "title": "Module 4: Filings Under GST",
+  "file": "GST - Module 4 - Filings Under GST.pdf",
+  "totalPages": 97,
+  "chapters": [
+    {
+      "id": "ch6",
+      "title": "Chapter 6: E-filing of GSTR-1",
+      "pageStart": 4,
+      "pageEnd": 38
+    },
+    {
+      "id": "ch7",
+      "title": "Chapter 7: E-filing of GSTR-2A & 2B",
+      "pageStart": 39,
+      "pageEnd": 52
+    },
+    {
+      "id": "ch8",
+      "title": "Chapter 8: E-filing of GSTR-3B",
+      "pageStart": 53,
+      "pageEnd": 72
+    },
+    {
+      "id": "ch9",
+      "title": "Chapter 9: E-filing of GSTR CMP-08",
+      "pageStart": 73,
+      "pageEnd": 84
+    },
+    {
+      "id": "ch10",
+      "title": "Chapter 10: Payment of Tax",
+      "pageStart": 85,
+      "pageEnd": 97
+    }
+  ],
+  "pages": [
+    {
+      "page": 1,
+      "text": "<mark>GST  EXECUTIVE</mark>"
+    },
+    {
+      "page": 2,
+      "text": "# _Special Thanks & Compilation Credit_ \n\n#### **VIVEK VM. CPA** \n\n(MBA, M.COM, CFE, GSTP) \n\nBeing a commerce aficionado with dual post-graduation in Finance from reputed universities, he started his career in the academic platform and served as an Assistant Professor at Kannur University. He bagged a Forensic Certificate from the USA, all credit to his smart and passionate style of work. His exemplary passion for finance and accounting soon guided him to the world-renowned and sought-after Professional Accounting  Certificate, CPA from AICPA. He is also an accredited member of the State Board of Accountancy, North Dakota. Aside from all his accolades, he is a seasoned GST Practitioner with a clear-cut vision for the future. \n\nReviewed by \n\n###### 1. CA SARATH \n\nA spirited Chartered Accountancy graduate with an ardent and unceasing interest in the field of commerce. \n\n###### 2. CMA RAHUL CHANDRAN \n\nCost and Management Accounting graduate with unfaltering energy and passion to learn, unlearn and grow."
+    },
+    {
+      "page": 3,
+      "text": "#### **<mark>About this book</mark>** \n\nThe pursuit of continuous learning is a necessity for individuals to excel in the finance industry, particularly consultants and accountants, who desire to acquire and develop their knowledge and skills. India’s tax structure can be complex and overwhelming for many. Understanding the concept of tax and the GST system is crucial for businesses and individuals alike. The purpose of this book is to provide valuable insights into the core concepts of the Goods and Services Tax (GST) and its relevance to the Indian economy. The structure of GST, its applicability, and the dual GST model are only a few of the subjects covered in the book. Moreover, it explores GST's benefits and industry practices. \n\nThis book aims to act as a comprehensive manual that not only imparts essential knowledge but also facilitates the development of practical skills to operate effectively in the field."
+    },
+    {
+      "page": 4,
+      "text": "Module 1 Chapter 1 – Introduction of GST in India Chapter 2 – Concepts and Application of GST Module 1 Chapter 1 – Introduction of GST in India Chapter 2 – Concepts and Application of GST Module 2 Chapter 3 – GST Registration Module 3 Chapter 4 – Tax Invoice Chapter 5 – E-Way Bill \n\n|Module 4||i|\n|---|---|---|\n||Chapter 6 -|E-filing of GSTR-1<br>i|\n||Chapter 7 -|E-filing of GSTR2A & 2B<br>i|\n||Chapter 8 -|E-filing of GSTR 3B<br>i|\n||Chapter 9 -|E-filing of GSTR CMP 08|\n||Chapter 10 -|Payment of tax|\n\n\n\nModule 2"
+    },
+    {
+      "page": 5,
+      "text": "DETAILED CONTENT Pg. No \n\n### **CHAPTER 6 - E-FILING OF GSTR-1** \n\n|6.1|Introduction to types of returns ......................................|6.1|\n|---|---|---|\n|6.2|Different types of GST returns ........................................|6.1|\n|6.3|GSTR-1 .............................................................................|6.2|\n|6.4|Forms under GSTR-1  ......................................................<br>i|6.3|\n|6.5|Online filing of GSTR-1 ....................................................|6.5|\n|6.6|Table 4A, 4B, 6B, 6C – B2B invoices ..............................|6.6|\n|6.7|Table 5A, 5B – B2C (large) invoices ...............................|6.11|\n|6.8|Table 6A – export invoices .............................................|6.13|\n|6.9|Table 7 B2C (others) .......................................................|6.16|\n|6.10|Table 8A, 8B, 8C, 8D - nil rated supplies .........................|6.19|\n|6.11|Table 9B - credit / debit notes (registered)  ...................|6.20|\n|6.12|Table 9B - credit / debit notes (unregistered)  ...............|6.23|\n|6.13|Table 11A(1), 11A(2) - tax liability||\n||(advances received) ........................................................|6.26|\n|6.14|Table 11B(1), 11B(2) - adjustment of advances ............|6.29|\n|6.15|Table 12 - HSN-wise summary of outward supplies .....|6.31|\n|6.16|Table 13 - documents issued .........................................|6.34|\n|6.17|Preview form GSTR-1 ......................................................|6.35|\n|6.18|File Form GSTR-1 with DSC/ EVC ...................................|6.36|\n|**GS**<br>7.1|**TR2A & 2B**<br>GSTR2A & 2B ......................................................................|7.1|\n|7.2|view inward supplies details in form GSTR-2A  .............|7.1|\n|7.3|B2B invoices  .......................................................................|7.5|\n|7.4|Amendments to B2B invoices ..........................................|7.6|\n|7.5|Credit/debit notes and amendments to||\n||credit/debit notes ..............................................................|7.7|\n|7.6|Input service distributor - ISD credits...............................|7.8|\n|7.7|Tax deducted at source - TDS credits .............................|7.8|\n|7.8|TCS credits ..........................................................................|7.9|\n\n\n\n### **CHAPTER 7 - GSTR2A & 2B**"
+    },
+    {
+      "page": 6,
+      "text": "GST  EXECUTIVE \n\n\n\n## DETAILED CONTENT \n\nPg. No \n\n### **CHAPTER 8 - GSTR 3B** \n\n|8.1|GSTR 3B ...............................................................................<br>i|8.1|\n|---|---|---|\n|8.2|Online filing of GSTR3B .....................................................|8.2|\n|8.3|Tax on outward and reverse charge inward supplies ....|8.4|\n|8.4|Inter-state supplies ............................................................|8.5|\n|8.5|Eligible ITC ...........................................................................|8.7|\n|8.6|Exempt, nil and non-GST inward supplies ......................|8.9|\n|8.7|Interest and late fee for previous tax period ..................|8.9|\n|8.8|Payment of tax ....................................................................|8.12|\n|8.9|File GSTR-3B .......................................................................|8.17|\n|8.10|View return status ..............................................................|8.20|\n|**E-F**<br>9.1|**ILING OF GSTR CMP 08**<br>GST CMP 08 ........................................................................|9.1|\n|9.2|Requirement for filing Form GST CMP-08 ......................|9.2|\n|9.3|Output of GST CMP 08 filing .............................................|9.2|\n|9.4|Online filing of GST CMP 08 .............................................|9.2|\n\n\n\n### **CHAPTER 9 - E-FILING OF GSTR CMP 08** \n\n### **CHAPTER 10 - E-FILING OF GSTR CMP 08** \n\n|10.1|Payment of tax ....................................................................|10.1|\n|---|---|---|\n|10.2|Electronic cash ledger .......................................................|10.2|\n|10.3|Electronic credit ledger .....................................................|10.2|\n|10.4|Electronic liability register .................................................|10.6|\n|10.5|Interest on delayed payment of tax .................................|10.9|"
+    },
+    {
+      "page": 7,
+      "text": "GST  EXECUTIVE \n\n### **CHAPTER 6 - E-FILING OF GSTR-1** \n\n#### **Unit objective** \n\nAfter studying this module, the students shall be able to understand; \n\n   - Applicability of filing of GST returns \n\n   - Understand inward and outward supply \n\n   - Learn to file GSTR-1 \n\n- **6.1 Introduction to type of returns** \n\nReturns under GST is a document, or a form used to record information about the income and its sources. The businesses that are registered with GST are required to file returns on a monthly, quarterly and annual basis depending on the type of business, through the  GST portal run by the Government of India. Along with the tax that was collected and paid, they must provide the specifics of the sales and purchases of goods and services. \n\n- **6.2 Different types of GST returns** \n\n\n\n\n\n6.1"
+    },
+    {
+      "page": 8,
+      "text": "GST  EXECUTIVE \n\n##### **6.3 GSTR1** \n\n\n\nForm GSTR-1 is a monthly Statement of Outward Supplies to be furnished by all normal and casual registered taxpayers making outward supplies of goods and services or both and contains details of outward supplies of goods and services. \n\n|**Descriptions**|**Frequency**|**Due Date**|\n|---|---|---|\n|Details of outward supplies|||\n|(Sales) of taxable goods and/<br>or services affected|Monthly|11th of the Next Month|\n\n\n\n###### **The following details of a tax period have to be furnished in Form GSTR-1:** \n\n- Invoice level details of supplies to registered persons including those having UIN; \n\n- Invoice level details of Inter- State supplies of invoice value greater than ₹ 2,50,000 to unregistered persons (consumers); \n\n- Details of Credit/Debit Notes issued by the supplier against invoices; \n\n- Details of export of goods and services including deemed exports (SEZ); \n\n- Summarised state level details of supplies to unregistered persons (consumers); \n\n- Summary Details of Advances received in relation to future supply and their adjustment; \n\n- Details of any amendments effected to the reported information for either of the above categories; \n\n- Nil- rated, exempted, and non-GST supplies; and \n\n- HSN/SAC wise summary of outward supplies. \n\n###### **The following taxpayers are not required to file Form GSTR-1:** \n\n- Taxpayers under the Composition Scheme \n\n- Non-resident foreign tax payers \n\n- Online information database and access retrieval service provider \n\n- Input Service Distributors (ISD) \n\n- Tax Deducted at Source (TDS) (deductors); and \n\n- E-commerce operators collecting TCS \n\n**DSC is mandatory for filing in case of all Public & Private Limited Companies, Limited Liability Partnerships (LLPs), and Foreign Limited Liability Partnerships (FLLPs)** \n\n6.2"
+    },
+    {
+      "page": 9,
+      "text": "GST  EXECUTIVE \n\n� **Total Invoice Value** The ‘Total Invoice Value’ column in Form GSTR-1 is for the invoice value inclusive of taxes. \n\n- **What are B2B supplies** B2B supply refers to supply transactions between registered taxable entities/ persons(Business-to-Business supplies). \n\n- **What are B2C supplies** \n\nB2C supply refers to supply transactions between a Registered Supplier and an Unregistered Buyer (Business-to-Consumer) \n\n##### **6.4 Forms Under GSTR1** \n\n\n\n- **4A, 4B, 6B, 6C – B2B, SEZ, DE Invoices** \n\nIn this table, you can add details of taxable outward supplies made to registered person. Additionally, invoices auto-populated from e-invoices will be available in this table. \n\nThis page provides you the receiver-wise summary of the already added invoices. In the processed invoices table, you can click the hyperlink – ‘Receiver GSTIN’ or ‘No. of invoices’ to navigate to B2B invoices-summary page. **‘ADD DETAILS’** - You can add invoice details for taxable outward supplies made to a registered person. \n\n- **5A-B2C (Large) Invoices** \n\nAll outward supplies made to a consumer and the invoice value is more than Rs 2.5 lakh has to be entered in this tile. \n\n6.3"
+    },
+    {
+      "page": 10,
+      "text": "GST  EXECUTIVE \n\n- **6A-Exports Invoices** \n\nAn export invoice is nothing but an invoice created by an exporter for exporting goods and services. That is, supplying goods and services to a recipient outside India in a foreign currency. The export invoice in its format as well as particulars is same as the normal tax invoice under GST. \n\n- **B2C (Others)** \n\nAll supplies that are B2C and the amount is less than Rs 2.5 lakh, the details of those invoices have to be entered here. \n\n- **8A, 8B, 8C, 8D – Nil Rated Supplies** \n\nAll supplies made which attract nil rate of GST should be entered in this tile \n\n- **9B-Credit/Debit Notes (Unregistered)** \n\nCredit note/debit note issued to unregistered persons (B2C supplies): It must be declared in Table ‘9B – Credit/Debit Notes (Unregistered) \n\n- **11A(1), 11A(2) – Tax Liability ( Advances received)** \n\nAny advance received by a taxpayer for which invoice is not issued should be mentioned in Table11A of GSTR1. Details of each advance need not be given, a cumulative figure of all the advances received has to be provided. \n\n- **11B(1), 11B(2) – Adjustment of advances** \n\nDetails of all the invoices raised in the month for which return is being filed but advance was \n\nreceived and tax was already paid in the previous months has to be entered here. \n\n- **12-HSN-Wise summary of outward supplies** \n\nThe GSTR-1 return requires a dealer to provide HSN-wise summary of outward supplies and rate wise along with quantitative details. \n\n- **13-Documents issued** \n\nEvery taxpayer is required to provide details of the total document issued during a month. \n\nThere are 12 categories of documents. Enter the serial no. of invoice issued, Total number of invoices issued and cancelled invoices in respective fields. The net invoices field will be auto populated. \n\n6.4"
+    },
+    {
+      "page": 11,
+      "text": "GST  EXECUTIVE \n\n##### **6.5 Online Filing of GSTR1** \n\n1. Access the www.gst.gov.in URL. The GST Home page is displayed. Login to the GST Portal with valid credentials. Click the Services > Returns > Returns Dashboard option. \n\n\n\n2. The File Returns page is displayed. Select the Financial Year, Quarter and Period (Month) for which you want to file the return from the drop-down list. Click the SEARCH button. \n\n3. In the GSTR1 tile, click the PREPARE ONLINE button if you want to prepare the return by making entries on the GST Portal. \n\n\n\n6.5"
+    },
+    {
+      "page": 12,
+      "text": "GST  EXECUTIVE \n\n\n\n##### **6.6 Table 4A, 4B, 4C, 6B, 6C - B2B Invoices** \n\nTo add an invoice for taxable outwards supplies to a registered person, perform the following steps: \n\n1. Click the 4A, 4B, 6B, 6C - B2B Invoices tile to enter the invoice details for B2B transactions (goods/ services sold to a registered taxpayer). \n\nB2B Invoices will have following 3 tabs: \n\n- Recipient wise count- This tab displays details of records added by tax payer including \n\nhyperlinked counts of Processed and Pending/Errored Records. \n\n- Document wise details- After clicking the hyperlink on the count of processed records, \n\ndocument wise details tab will open. This tab displays the details of processed records \n\n(invoices) of a particular recipient added by the taxpayer. \n\n- Pending/Errored Records- After clicking the hyperlink on the count of pending/ errored records, Pending/Errored records tab will open. This tab displays the details of pending/errored records (invoices) of a particular recipient added by the taxpayer. \n\n6.6"
+    },
+    {
+      "page": 13,
+      "text": "GST  EXECUTIVE \n\n\n\n2. The B2B Invoices- Recipient wise count tab is displayed. Click the ADD RECORD button to add a new invoice for any recipient. \n\n\n\n- The B2B – Add Invoice page is displayed. In the Receiver GSTIN/UIN field, enter the GSTIN or UIN of the receiver. \n\n- Select the checkbox for Deemed Exports or SEZ Supplies with payment or SEZ supplies without payment as applicable. Select the Supply attract Reverse Charge checkbox, in case supply made to the taxpayer is covered under the reverse charge mechanism. Select the checkbox provided Is the supply eligible to be taxed at a differential percentage (%) of the existing rate of tax, as notified by the Government?, in case supply is eligible to be taxed at a differential percentage of the existing rate of tax. \n\n- In the Invoice No., Invoice Date and Total Invoice Value fields, enter the Invoice number, date of the invoice and value of the total invoice. \n\n(a) In case of Intra-State transaction: In case the POS (place of supply) of the goods/ services is the same state as that of the supplier, the transaction is an Intra-State transaction. Notice, fields for Central Tax and State/UT Tax will appear. In the Taxable Value field against the rates, enter the taxable value of the goods or services. In the Cess field, enter the cess amount. \n\n6.7"
+    },
+    {
+      "page": 14,
+      "text": "GST  EXECUTIVE \n\n\n\n(b) In case of Inter-State transaction: In case the POS (place of supply) of the goods/ services is different from the state of the supplier, the transaction is an Inter-State transaction. \n\nNotice, field for Integrated Tax will appear. In the Taxable Value field against the rates, enter the taxable value of the goods or services. In the Cess field, enter the cess amount. \n\n6.8"
+    },
+    {
+      "page": 15,
+      "text": "GST  EXECUTIVE \n\n###### 3. Click the SAVE button to save the invoice details. \n\n\n\n6.9"
+    },
+    {
+      "page": 16,
+      "text": "GST  EXECUTIVE \n\n4. You will be directed to the previous page. You can add invoice of the particular receiver by clicking on the green button in the Add Invoice column. Click the BACK button to go back to the Form GSTR 1. \n\n\n\n5. Click on hyperlink of Processed Records to edit processed records in Document wise details tab. \n\n\n\n6. Document wise details tab is displayed. Details of processed records added by taxpayer like recipient details, legal name and invoice details will be displayed. Click the BACK button to go to Recipient wise count page. \n\n\n\n6.10"
+    },
+    {
+      "page": 17,
+      "text": "GST  EXECUTIVE \n\n7. You will be directed to the GSTR-1 landing page and the B2B Invoices tile in Form GSTR-1 will reflect the number of processed and errored invoices added. \n\nNote: If there are invoices processed with error, the table will be marked in red. \n\n\n\n- **6.7 Table 5A, 5B - B2C (Large) Invoices** \n\nTo add an invoice for taxable outwards supplies to a consumer, where place of supply is other than the State where supplier is located (Inter-state supplies) and invoice value is more than ₹ 2.5 lakh, perform the following steps: \n\n1. Click the 5A, 5B - B2C (Large) Invoices tile to enter the invoice details for inter-state taxable outward supplies made to a consumer of value greater than 2.5 lacs. \n\n\n\n2. The B2C (Large) Invoices – Summary page is displayed. Click the ADD RECORD button to add a new invoice for any receiver. \n\n\n\n- The B2C (Large) Invoices – Details page is displayed. In the POS field, select the place of supply (state code) where the supplies were delivered. \n\n- In the Invoice No. field, enter the Invoice number issued to the consumer of that POS. \n\n6.11"
+    },
+    {
+      "page": 18,
+      "text": "GST  EXECUTIVE \n\n- In the Invoice Date  field, enter the date on which the invoice was generated. \n\n- In the Total Invoice Value field, enter the total amount for which the goods or services are supplied. \n\n- Select the checkbox provided Is the supply eligible to be taxed at a differential percentage (%) of the existing rate of tax, as notified by the Government?, in case supply is eligible to be taxed at a differential percentage of the existing rate of tax. \n\n- In the Taxable Value field against the rates, enter the taxable value of the goods or services. In the Cess field, enter the cess amount. \n\n3. Click the SAVE button to save the invoice details. \n\n\n\n6.12"
+    },
+    {
+      "page": 19,
+      "text": "GST  EXECUTIVE \n\n4. Click the BACK button to go back to the Processed Records page. \n\n\n\n5. Click on the back button to go to GSTR-1 landing page and the B2C (large) Invoices tile in Form GSTR-1 will reflect the number of invoices added. \n\n\n\n- **6.8 Table 6A - Exports Invoices** \n\nTo add an invoice for supplies exported, perform the following steps: \n\n1. Click the 6A- Export Invoices tile to enter the invoice details for supplies exported. \n\n\n\n2. The Exports – Invoices Summary page is displayed. Click the ADD DETAILS to add a new invoice. \n\n6.13"
+    },
+    {
+      "page": 20,
+      "text": "GST  EXECUTIVE \n\n\n\n- The Exports – Add Details page is displayed. In the Invoice No. field, enter the Invoice number issued against exports sales. \n\n- In the Invoice Date field, enter the date on which the invoice was generated. \n\n- In the Port Code field, enter the port code. \n\n- In the Shipping Bill No./Bill of Export No. field, enter the unique number of the shipping bill with location code generated while shipping. \n\n- In the Shipping Bill Date/ Bill of Export Date field, enter the date on which the shipping bill was issued. \n\n- In the Total Invoice Value field, enter the total amount of all the goods or services supplied. \n\nNote: Shipping Bill No./Bill of Export No. should be minimum 3 and maximum 15 digit numeric. \n\n- From the GST Payment drop-down list, select whether the GST is paid against the invoice or not. \n\n- In the Taxable Value field against the rates, enter the taxable value of the goods or services. \n\n3. Click the SAVE button to save the details. \n\n6.14"
+    },
+    {
+      "page": 21,
+      "text": "GST  EXECUTIVE \n\n\n\n4. Click the BACK button to go back to the Processed Records page. \n\n6.15"
+    },
+    {
+      "page": 22,
+      "text": "GST  EXECUTIVE \n\n\n\n5. Click on the BACK button to go to the GSTR-1 landing page and the Export Invoices tile in GSTR-1 will reflect the number of invoices added. \n\n\n\n##### **6.9 Table 7- B2C Others** \n\nTo add details of taxable outwards supplies to a customer where invoice value is less than ₹ 2.5 lakh and intra-state supplies to customers, perform the following steps: \n\n1. Click the B2C (Others) tile to enter the details for B2C transactions. \n\n\n\n6.16"
+    },
+    {
+      "page": 23,
+      "text": "GST  EXECUTIVE \n\n2. The B2C (Others) Details – Summary page is displayed. Click the ADD DETAILS button to add the line item details. \n\n\n\n- In the POS field, select the Place of Supply (State Code) where the supplies were delivered. Based on the state selected in POS, Supply Type field is auto-populated. In the Taxable Value field, enter the collated amount of all the unique goods or services supplied. In the Rate field, enter the applicable Rate. \n\n(a) In case of Intra-State transaction: In case the POS (place of supply) of the goods/ services is the same state as that of the supplier, the transaction is an Intra-State transaction. Notice, fields for Central Tax and State/UT Tax will appear. In the Taxable Value field against the rates, enter the taxable value of the goods or services. In the Cess field, enter the cess amount. \n\n\n\n(b) In case of Inter-State transaction: In case the POS (place of supply) of the goods/ services is different from the state of the supplier, the transaction is an Inter-State transaction. \n\nNotice, field for Integrated Tax will appear. In the Taxable Value field against the rates, enter the taxable value of the goods or services. In the Cess field, enter the cess amount. \n\n3. Click the SAVE button to save the invoice details. \n\n6.17"
+    },
+    {
+      "page": 24,
+      "text": "GST  EXECUTIVE \n\n\n\n\n\n<!-- Start of picture text -->\n4. Click the BACK button to go back to the Processed Records page.<br><!-- End of picture text -->\n\n\n\n5. Click on the back button to go to GSTR-1 landing page and the B2C Others tile in Form GSTR-1 will reflect the number of invoices added. \n\n\n\n6.18"
+    },
+    {
+      "page": 25,
+      "text": "GST  EXECUTIVE \n\n##### **6.10 Table 8A, 8B, 8C, 8D - Nil Rated Supplies** \n\nTo add an invoice for Nil Rated Supplies, Exempted and Non-GST Outward supplies, perform the following steps: \n\n1. Click the Nil Rated Supplies tile to enter the details for Nil rated supplies. \n\n\n\n2. The Nil Rated Supplies page is displayed. Enter the data in Nil Rated Supplies, Exempted (Other than Nil rated/non-GST supply), and Non-GST Supplies Amount fields for the following categories of transactions: \n\n   - Inter-state supplies to registered person \n\n   - Inter-state supplies to unregistered person \n\n   - Intra-state supplies to registered person \n\n   - Intra-state supplies to unregistered person \n\n3. Click the SAVE button to save the details. \n\n\n\n4. A message is displayed that Request accepted successfully. Click the BACK button to go back to the GSTR-1 page. \n\n6.19"
+    },
+    {
+      "page": 26,
+      "text": "GST  EXECUTIVE \n\n\n\n5. You will be directed to the GSTR-1 landing page and the Nil Rated Supplies tile in GSTR-1 will reflect the Total Nil Amount, Total Exempted Amount and Total Non-GST Amount. \n\n\n\n- **6.11 Table 9B - Credit / Debit Notes (Registered)** \n\n   - To add details of credit or debit notes for the registered user, perform the following steps: \n\n   1. Click the 9B - Credit / Debit Notes (Registered) tile to enter the details of credit or debit notes issued to the registered recipients. \n\n\n\n6.20"
+    },
+    {
+      "page": 27,
+      "text": "GST  EXECUTIVE \n\n2. The Credit/Debit Notes (Registered) – Recipient wise count tab is displayed. Click the ADD RECORD button to add credit or debit note details. \n\n\n\n- The Credit / Debit Notes (Registered) – Add Note page is displayed. In the Receiver GSTIN/UIN field, enter the GSTIN of the receiver (registered taxpayer) to whom supply is made. \n\n- Select the checkbox for Deemed Exports or SEZ Supplies with payment or SEZ supplies without payment as applicable. Select the Supply attract Reverse Charge checkbox, in case supply made to the taxpayer is covered under the reverse charge mechanism. Select the checkbox provided Is the supply eligible to be taxed at a differential percentage (%) of the existing rate of tax, as notified by the Government?, in case supply is eligible to be taxed at a differential percentage of the existing rate of tax. \n\n- In the Debit/Credit Note No. field, enter the debit or credit note number. \n\n- In the Debit/Credit Note Date field, enter the date on which the debit or credit Note was issued. \n\n- From the Note Type drop-down list, select whether the details added are for a Debit or Credit Note. \n\n- In the Note Value field, enter the value of the note. \n\n(a) In case of Intra-State transaction: In case the POS (place of supply) of the goods/ services is the same state as that of the supplier, the transaction is an Intra-State transaction. Notice, fields for Central Tax and State/UT Tax will appear. In the Taxable Value field against the rates, enter the taxable value of the goods or services. In the Cess field, enter the cess amount. \n\n6.21"
+    },
+    {
+      "page": 28,
+      "text": "GST  EXECUTIVE \n\n\n\n3.  Click the SAVE button to save the details. \n\n6.22"
+    },
+    {
+      "page": 29,
+      "text": "GST  EXECUTIVE \n\n4. You will be directed to the previous page. You can add note of the particular receiver by clicking on the green button in the Add Note column. Click the BACK icon/button to go back to the Form GSTR 1. \n\n\n\n5. You will be directed to the GSTR-1 landing page and the 9B- Credit/ Debit Notes (Registered) tile in GSTR-1 will reflect the number of credit/debit notes added. \n\n\n\n##### **6.12 Table 9B - Credit / Debit Notes (Unregistered)** \n\nTo add details of credit or debit notes or refund vouchers issued to unregistered persons, perform the following steps: \n\n1. Click the 9B - Credit / Debit Notes (Unregistered) tile to enter the details of credit or debit notes issued to the unregistered recipients. \n\n\n\n6.23"
+    },
+    {
+      "page": 30,
+      "text": "GST  EXECUTIVE \n\n- The Credit/Debit Notes (Unregistered) - Summary page is displayed. Click the button to add credit or debit note. \n\n\n\n- The Credit / Debit Notes (Unregistered) – Add Note page is displayed. Select the checkbox provided Is the supply eligible to be taxed at a differential percentage (%) of the existing rate of tax, as notified by the Government?, in case supply is eligible to be taxed at a differential percentage of the existing rate of tax. \n\n- From the Type drop-down list, select the appropriate choice like B2CL, exports without payment and exports with payment. \n\n- In the Debit/Credit Note No. field, enter the debit or credit note number. \n\n- In the Debit/Credit Note Date field, enter the date on which the debit or credit Note was issued. \n\n- \n\n   - In the Note Value field, enter the value of the note. \n\n- From the Note Type drop-down list, select whether the details are added for a Debit or Credit Note. \n\n- In Credit/Debit Notes (Unregistered) if UR type is B2CL, then POS will be inter-state always. In case if UR type is Exports, then POS filed will not be shown, Hence, supply type will be always inter-state and non-editable. Notice, fields for Integrated Tax appear. In the Taxable Value field against the rates, enter the taxable value of the goods or services. In the Cess field, enter the cess amount. \n\n2. Click the SAVE button to save the details. \n\n6.24"
+    },
+    {
+      "page": 31,
+      "text": "GST  EXECUTIVE \n\n\n\n3. Click the BACK button to go back to the Processed Records page. \n\n6.25"
+    },
+    {
+      "page": 32,
+      "text": "GST  EXECUTIVE \n\n\n\n4. You will be directed to the GSTR-1 landing page and the 9B- Credit/ Debit Notes (Unregistered) tile in GSTR-1 will reflect the number of credit/debit notes added along with, Total Taxable Value and tax amount which will be the net of debit notes and credit notes. \n\n\n\n##### **6.13 Table 11A(1), 11A(2) - Tax Liability (Advances Received)** \n\nTo add details of Tax Liability (Advances Received) arising on account of Time of Supply without issuance of Invoice in the same period, perform the following steps: \n\n1. Click the Tax Liability (Advances Received) tile to enter the tax liability details \n\n\n\n2. The Tax Liability (Advance Received) Summary page is displayed. Click the ADD STATE WISE DETAILS button to add the advance tax receipt and related liability details. \n\n6.26"
+    },
+    {
+      "page": 33,
+      "text": "GST  EXECUTIVE \n\n\n\n- In the POS field, select the State code of the place of supply applicable for the advances received. \n\n- In case of Intra-State transaction: Notice, fields for Central Tax, State/UT Tax & CESS will appear in the screen. In the Gross Advance Received field, enter the amount paid by the receiver to the supplier for the goods/service provided by the supplier without issuing of any invoice for the goods/services against the applicable Rate (%). In the Central Tax, State/UT Tax field, system will auto-populate the Central Tax and State/ UT Tax amount. The same will be editable. In the CESS field, enter the CESS amount. \n\n\n\n6.27"
+    },
+    {
+      "page": 34,
+      "text": "GST  EXECUTIVE \n\n- In case of Inter-State transaction: Notice, fields for Integrated Tax & CESS will appear in the screen. In the Gross Advance Received field, enter the amount paid by the receiver to the supplier for the goods/service provided by the supplier without issuing of any invoice for the goods/services against the applicable Rate (%). In the Integrated Tax field, system will auto-populate the Integrated Tax amount. This will be an editable field. In the CESS field, enter the CESS amount. \n\n3. Click the SAVE button. \n\n\n\n4. You will be directed to the previous page and a message is displayed that Request accepted successfully. Click the BACK button to go back to the GSTR-1 page. \n\n6.28"
+    },
+    {
+      "page": 35,
+      "text": "GST  EXECUTIVE \n\n\n\n5. You will be directed to the GSTR-1 landing page and the Tax Liability (Advance Received) tile in GSTR-1 will reflect the updated total Gross Advance Received and Total Tax Liability. \n\n\n\n##### **6.14 Table 11B(1), 11B(2) - Adjustment of Advances** \n\nTo fill details of Adjustment of Advances on invoices issued in the current period, perform the following steps. \n\n1. Click the 11B(1), 11B(2)- Adjustment of Advances tile to enter the details of tax already paid on invoices issued in the current period. \n\n\n\n2. The Tax already paid on invoices issued in the current period – Summary page is \n\n6.29"
+    },
+    {
+      "page": 36,
+      "text": "GST  EXECUTIVE \n\ndisplayed. Click the ADD STATE WISE DETAILS button to add details for invoices issued in the current period on which tax has already been paid. \n\n\n\n3. The Tax already paid on invoices issued in the current period - Add Details page is displayed. Select the POS from the drop-down list. \n\n- In case of Intra-State transaction: Notice, fields for Central Tax, State/UT Tax & CESS will appear in the screen. In the Gross Advance Adjusted (excluding tax) field, enter the amount paid by the receiver to the supplier for the goods/service provided by the supplier without issuing of any invoice for the goods/services against the applicable Rate (%). In the Central Tax, State/UT Tax field, system will auto-populate the Central Tax and State/UT Tax amount. The same will be editable. In the CESS field, enter the CESS amount. \n\n\n\n6.30"
+    },
+    {
+      "page": 37,
+      "text": "GST  EXECUTIVE \n\n4. Click the SAVE button. \n\n5. You will be directed to the previous page and a message is displayed that Request accepted successfully. Click the BACK button to go back to the GSTR-1 page. \n\n\n\n6. You will be directed to the GSTR-1 landing page and the Adjustment of Advances tile in GSTR-1 will reflect the updated total Gross Advance Adjusted and Total Tax Liability. \n\n\n\n##### **6.15 Table 12 - HSN-wise-summary of outward supplies** \n\nTo furnish the HSN-wise summary of outward supplies along with rate and quantitative details, perform the following steps: \n\n1. Click the HSN-wise summary of outward supplies tile to furnish the summarized details of all outward supplies HSN-wise along with rate and quantitative details. \n\n\n\n6.31"
+    },
+    {
+      "page": 38,
+      "text": "GST  EXECUTIVE \n\n2. The HSN summary of outward supplies – Add/Edit Details page is displayed. \n\n� In the HSN field, enter the HSN/SAC code of the outward supplies. Taxpayer can select HSN code by entering at least 2 digits or 4 characters in the field for HSN. When taxpayer enters digits/characters  in HSN field, related details will appear in the drop-down list. Taxpayer can select the relevant  HSN code from the drop down and description will be auto-populated. \n\n\n\n\n\n3.  click the SAVE button. \n\n6.32"
+    },
+    {
+      "page": 39,
+      "text": "GST  EXECUTIVE \n\n\n\n4. A message is displayed that Request accepted successfully. upon clicking on save, records will move to processed table from added/edited invoices to be saved table. Click the BACK button to go back to the Form GSTR-1 page. \n\n\n\nYou will be directed to the Form GSTR-1 landing page and the HSN summary of outward supplies tile in Form GSTR-1 will reflect the number of invoices added along with Total Value, Total Taxable Value and Total Tax Liability. \n\n6.33"
+    },
+    {
+      "page": 40,
+      "text": "GST  EXECUTIVE \n\n##### **6.16 Table 13 - Documents Issued** \n\nTo Upload the details of Documents issued perform the following steps. \n\n1. Click the Documents Issued tile to add the details of document issued during the current tax period. \n\n\n\n2. To update the document for Invoices for outward supply, Click on Add Document: \n\n\n\n3. Add the details for different categories. You can click ADD DOCUMENT button to add more rows for each category. \n\n4. Click SAVE at the end of the page. \n\n6.34"
+    },
+    {
+      "page": 41,
+      "text": "GST  EXECUTIVE \n\n##### **6.17 Preview Form GSTR-1** \n\n1. Click the Proceed to File/Summary button to view the table-wise consolidated summary of added records. \n\n\n\n2. The consolidated summary page will be displayed. The consolidated summary page will also provide recipient-wise summary, containing the total value of the supplies & the total tax involved in such supplies. To view download the summary, click the Download Summary (PDF) button. \n\n6.35"
+    },
+    {
+      "page": 42,
+      "text": "GST  EXECUTIVE \n\n\n\n- **6.18 File Form GSTR-1 with DSC/ EVC** \n\n   1. Refresh the page and the status of Form GSTR-1 changes to Submitted. Click the FILE RETURN button. \n\n\n\n6.36"
+    },
+    {
+      "page": 43,
+      "text": "GST  EXECUTIVE \n\n2. The Returns Filing for GST GSTR1 page is displayed. Select the Declaration checkbox. In the Authorised Signatory drop-down list, select the authorized signatory. Click the FILE WITH DSC or FILE WITH EVC button to file GSTR-1. \n\n\n\n###### � FILE WITH DSC: \n\n   - Click the PROCEED button. \n\n   - Select the certificate and click the SIGN button. \n\n- FILE WITH EVC: \n\n   - Enter the OTP sent on email and mobile number of the Authorized Signatory registered at the GST Portal and click the VERIFY button. \n\n\n\n6.37"
+    },
+    {
+      "page": 44,
+      "text": "GST  EXECUTIVE \n\n3. The success message is displayed and ARN is displayed. Status of the GSTR-1 return changes to “Filed”. \n\n\n\n6.38"
+    },
+    {
+      "page": 45,
+      "text": "GST  EXECUTIVE \n\n### **CHAPTER 7 - E-FILING OF GSTR2A & 2B** \n\n#### **Unit objective** \n\nAfter studying this module, the students shall be able to understand; \n\n- Understand and identify inward supply \n\n- Acquire the 2A & 2B forms \n\n##### **7.1 GSTR2A & 2B** \n\nGSTR 2A is a purchase-related dynamic tax return that the GST portal generates automatically for each business. When a supplier files their GSTR-1, the data is recorded in GSTR 2A. It obtains information about goods and/or services purchased in a specific month from the seller’s GSTR1. \n\nAs a GST registered buyer, you may refer to the GSTR-2A for details on input tax credit when filing GSTR-3B and GSTR-9. \n\n\n\n- **7.2 View inward supplies details in form GSTR-2A** \n\n   - To view the Inward Supplies details in Form GSTR-2A, perform the following steps: \n\n      1. Access the www.gst.gov.in URL. The GST Home page is displayed. Login to the GST Portal with valid credentials. Click the Services > Returns > Returns Dashboard option. \n\n\n\n7.1"
+    },
+    {
+      "page": 46,
+      "text": "GST  EXECUTIVE \n\n2. The File Returns page is displayed. Select the Financial Year & Return Filing Period for which you want to view Form GSTR-2A from the drop-down list. Click the SEARCH button. GSTR2A tile is displayed. \n\n\n\n- View GSTR-2A \n\n- Download GSTR-2A \n\n3. If number of invoices in Form GSTR-2A is more than 500, then you need to download the invoices by clicking the DOWNLOAD button. \n\n\n\n- Click the GENERATE JSON FILE TO DOWNLOAD or GENERATE EXCEL FILE TO DOWNLOAD button to generate data in the JSON or Excel format. The generated JSON file can be opened in Returns Offline Tool. \n\n7.2"
+    },
+    {
+      "page": 47,
+      "text": "GST  EXECUTIVE \n\n- Once the file is generated, the link will appear to download. Download the JSON file by clicking the link. \n\n\n\n4. View GSTR-2A \n\n   - In the Form GSTR-2A tile, click the VIEW tile to view the details directly on GST Portal. \n\n\n\n- The Form GSTR-2A – AUTO DRAFTED DETAILS page is displayed. \n\n7.3"
+    },
+    {
+      "page": 48,
+      "text": "GST  EXECUTIVE \n\n\n\n###### PART- A \n\n- B2B Invoices \n\n- Amendments to B2B INVOICES \n\n- Credit/Debit Notes \n\n- Amendments to Credit/Debit Notes \n\n- PART-B \n\n- ISD Credits \n\n- Amendments to ISD Credits \n\n- PART-C \n\n- TDS Credits \n\n- Amendments to TDS Credits \n\n- TCS Credits \n\n###### PART-D \n\n- Import of goods from overseas on bill of entry \n\n- Import of goods from SEZ units / developers on bill of entry \n\n7.4"
+    },
+    {
+      "page": 49,
+      "text": "GST  EXECUTIVE \n\n##### **7.3 B2B invoices** \n\nPart A - 1. B2B Invoices \n\nB2B invoices displays all the invoices added by the supplier through their Form GSTR-1 and/ or Form GSTR 5. The B2B section of PART-A of Form GSTR-2A is auto-populated on uploading or saving of invoices by the supplier in their respective returns - Form GSTR-1 and Form GSTR-5. \n\n1. Click the B2B Invoices tile. \n\n\n\n2. In supplier wise details, you can view invoices uploaded by the supplier. Click the Supplier GSTIN hyperlink to navigate to view B2B Invoice summary. \n\n\n\n3. Click the Invoice Number hyperlink to view the invoice details. \n\n\n\n7.5"
+    },
+    {
+      "page": 50,
+      "text": "GST  EXECUTIVE \n\n4. The item details are displayed. \n\n\n\n##### **7.4 Amendments to B2B invoices** \n\n###### Part A - 2. Amendments to B2B Invoices \n\nAmended B2B invoices section covers the invoices which are amended by the supplier in their returns of Form GSTR-1/5 respectively. \n\n1. Click the Amendments to B2B Invoices tile. \n\n\n\n2. In supplier wise details, you can view amended B2B invoices uploaded by the supplier. Click the Supplier GSTIN hyperlink to navigate to view amended B2B Invoice summary. \n\n\n\n7.6"
+    },
+    {
+      "page": 51,
+      "text": "GST  EXECUTIVE \n\n3. Click the Invoice Number hyperlink to view the invoice details. \n\n\n\n- **7.5 Credit/debit notes and amendments to credit/debit notes** \n\n###### Part A - 3. Credit/Debit Notes and Amendments to Credit/Debit Notes \n\n1. Click the Credit/Debit Notes tile. \n\n\n\nIn supplier wise details, you can view auto-drafted credit or debit notes, consolidated on basis of the supplier’s GSTIN. Click the Supplier’s GSTIN hyperlink to navigate to credit/ debit note wise details and view the credit/debit notes received from the said supplier. \n\n2. Click the Amendments to Credit/Debit Notes tile. \n\n\n\nIn supplier wise details, you can view auto-drafted amended credit or debit notes, consolidated on basis of the supplier’s GSTIN. Click the Supplier GSTIN hyperlink to navigate to amended credit/debit note wise details and view the amended credit/debit notes received from the said supplier. \n\n7.7"
+    },
+    {
+      "page": 52,
+      "text": "GST  EXECUTIVE \n\n- **7.6 Input service distributor - ISD credits** \n\nPart B - 1. Input Service Distributor - ISD Credits \n\nThe details of ISD Credits distributed by the Input Service Distributor, for credits available for Services among several GSTINs linked by common PAN, are auto populated to Form GSTR-2A on submission of Form GSTR-6 by ISDs. \n\n1. Click the ISD Credits tile. \n\n\n\n- **7.7 Tax deducted at source - TDS credits** \n\nPart C - 1. Tax Deducted at Source - TDS Credits \n\nThe details of advance tax deducted by the recipient from the supplier i.e. Tax Deducted at Source Credits, are auto populated in Form GSTR-2A of the recipient, after filing of Form GSTR-7 by TDS Deductor. \n\n1. Click the TDS Credits tile. \n\n\n\n2. The TDS Credit Received - Summary page is displayed. \n\n\n\n7.8"
+    },
+    {
+      "page": 53,
+      "text": "GST  EXECUTIVE \n\n##### **7.8 TCS credits** \n\nPart C - D. TCS Credits \n\nThe details of Tax Collected at Source from the supplier by E Commerce Operators, towards supplies undertaken through them, i.e. TCS Credits, are auto populated in Form GSTR-2A of the recipient, after filing of Form GSTR-8 by TCS Collectors. \n\n1. Click the  Credits tile. \n\n\n\n2. The TCS Credit Received - Summary page is displayed. \n\n\n\n7.9"
+    },
+    {
+      "page": 54,
+      "text": "GST  EXECUTIVE \n\n### **CHAPTER 8 - E-FILING OF GSTR 3B** \n\n#### **Unit objective** \n\nAfter studying this module, the students shall be able to understand; \n\n- Understand filing of GSTR-3B \n\n- Applicability to fill various tiles under GSTR-3B \n\n- Identify the payments for GST \n\n##### **8.1 GSTR 3B** \n\nGSTR-3B is a self-declared summary GST return filed every month (quarterly for the QRMP scheme). Taxpayers need to report the summary figures of sales, ITC claimed, and net tax payable in GSTR-3B. A separate GSTR-3B must be filed for every GSTIN. \n\n|**GSTR Forms**|**Purpose**|**Due Date**|\n|---|---|---|\n|GSTR3B|To be filed by all the normal taxpayers<br>declaring their summary GST liabilities<br>for the applicable tax period|Monthly, 20th of the<br>succeeding month|\n\n\n\nGSTR-3 form has to be filed by a registered taxpayer with details that are automatically populated by from GSTR-1 and GSTR-2 returns forms. The taxpayer has to verify and make modifications, if any. GSTR-3 return form will contain the following details: \n\n- Details about Input Tax Credit, liability, and cash ledger. \n\n- Details of tax paid under CGST, SGST, and IGST. \n\n- Claim a refund of excess payment or request to carry forward the credit. \n\n\n\n8.1"
+    },
+    {
+      "page": 55,
+      "text": "GST  EXECUTIVE \n\n##### **8.2 Online filing of GSTR3B** \n\n###### **Login and Navigate to Form GSTR-3B – Monthly Return page** \n\n1. Access the www.gst.gov.in URL. The GST Home page is displayed. \n\n2. Login to the GST Portal with valid credentials. \n\n3. Click the Services > Returns > Returns Dashboard command. \n\n\n\n4. The File Returns page is displayed. Select the Financial Year & Return Filing Period (Month) for which you want to file the return from the drop-down list. \n\n5. Click the SEARCH button. \n\n6. The File Returns page is displayed. This page displays the due date of filing the returns, which the taxpayer is required to file using separate tiles. \n\n   - In the Form GSTR-3B tile, click the PREPARE ONLINE button. \n\n\n\n8.2"
+    },
+    {
+      "page": 56,
+      "text": "GST  EXECUTIVE \n\n7. A list of questions is displayed. You need to answer the questions to show the relevant sections applicable to you. Select No for option A ‘Do you want to file Nil return?’. \n\n\n\n8. To file Non-Nil return: The System Generated Summary for GSTR-3B is displayed. This page displays the details of GSTR-3B table, Source Form, Form Status, Summary Status and advisory.   Click the CLOSE button to view Form GSTR-3B – Monthly Return page. \n\n\n\n8.3"
+    },
+    {
+      "page": 57,
+      "text": "GST  EXECUTIVE \n\n9. The Form GSTR-3B – Monthly Return page is displayed. Click the SYSTEM GENERATED GSTR-3B button to download and view system-computed details from Forms GSTR-1 & GSTR-2B (monthly or quarterly) in Form GSTR-3B. \n\n\n\n- **8.3 Tax on outward and reverse charge inward supplies** \n\n\n\n- Click the CONFIRM button. \n\n8.4"
+    },
+    {
+      "page": 58,
+      "text": "GST  EXECUTIVE \n\n\n\n##### **8.4 Inter-state supplies** \n\nTo provide details of inter-State supplies made to unregistered persons, composition taxable persons and UIN holders and taxes thereon, perform the following steps: \n\nInter-State supplies the details are auto-drafted from Form GSTR-1. You can add/ modify the auto-drafted details if required. In case the edited details are in downward variance, then such fields will be highlighted in red colour. \n\n1.  Click the 3.2 Inter-State supplies tile to add/ modify the auto-drafted details. \n\n\n\n8.5"
+    },
+    {
+      "page": 59,
+      "text": "GST  EXECUTIVE \n\n###### Supplies made to Unregistered Persons \n\n- In the section Supplies made to Unregistered Persons, from the Place of Supply (State/UT) drop-down list, select the place of supply. \n\n- In the Total Taxable Value field, enter the total taxable value for each State/UT. \n\n- In the Amount of Integrated Tax field, enter the amount of integrated tax. Please ensure that the integrated tax amount provided here do not exceed the integrated tax liability declared \n\n- Only integrated tax amount has to be declared, cess amount is not required to be mentioned. \n\n2. Click the ADD button to provide details of such supplies for another State. Delete the row if nothing is to be reported after clicking ADD button. \n\n\n\n3. Once all details are added, click the CONFIRM button. \n\n8.6"
+    },
+    {
+      "page": 60,
+      "text": "GST  EXECUTIVE \n\n##### **8.5 Eligible ITC** \n\n**Enter ITC Details in Section - 4. Eligible ITC** \n\nTo provide details of eligible ITC claimed, perform the following steps: \n\n1. Click the 4. Eligible ITC tile. \n\n\n\n2. The details of ITC claimed/ ITC reversed in table 4A and 4B (2) are auto-populated from Form GSTR-2B in Form GSTR-3B. If, you want to add/ modify the auto-populated details, you can add/ modify the details if required. Click the CONFIRM button. \n\n\n\n8.7"
+    },
+    {
+      "page": 61,
+      "text": "GST  EXECUTIVE \n\n\n\n3. You will be directed to the Form GSTR-3B landing page and the 4. Eligible ITC tile in Form GSTR-3B will reflect the total value of Integrated Tax, Central Tax, State/UT Tax and Cess net ITCs. \n\n\n\n8.8"
+    },
+    {
+      "page": 62,
+      "text": "GST  EXECUTIVE \n\n- **8.6 Exempt, nil and Non-GST inward supplies** \n\n   - To add values of exempt, Nil and Non-GST inward supplies, perform the following steps: 1. Click the 5. Exempt, nil and Non-GST inward supplies tile. \n\n\n\n2. Enter the Inter-state and Intra-state supplies under respective Nature of Supplies head. Click the CONFIRM button. \n\n\n\n- **8.7 Interest and Late Fee for Previous Tax Period** \n\nThe details of Interest and Late fee for previous tax period are computed and auto-drafted on the basis of values declared in the previous period return. In case you want to add/ modify the auto-drafted details of the Interest and Late fee payable, perform the following steps: \n\n1. Click the 5.1 Interest and Late fee for previous tax period tile. \n\n\n\n8.9"
+    },
+    {
+      "page": 63,
+      "text": "GST  EXECUTIVE \n\n- Select the checkbox for declaration in case you wish to declare any interest liability. The interest values will be computed by the system and auto-populated on the basis of the tax-period wise breakup of tax liability declared in previous return period. \n\n- The late fee would also be system computed based on the number of days elapsed after the due date of filing GSTR-3B for previous return period. \n\n2. Click on SYSTEM GENERATED GSTR-3B button to view and download the pending liability breakup. \n\n\n\nNote: You can click on View Your Turnover button to view turnover details of the GSTIN. \n\n\n\n8.10"
+    },
+    {
+      "page": 64,
+      "text": "GST  EXECUTIVE \n\n3. Click on CONFIRM button to proceed filing GSTR-3B. \n\n\n\n4. Once all details are added, click the SAVE GSTR3B button at the bottom of the page to save the Form GSTR-3B details. \n\n\n\n8.11"
+    },
+    {
+      "page": 65,
+      "text": "GST  EXECUTIVE \n\n##### **8.8 Payment of Tax** \n\nTo pay the taxes and offset the liability, perform the following steps: \n\n1. Click the PROCEED TO PAYMENT button. \n\n\n\n8.12"
+    },
+    {
+      "page": 66,
+      "text": "GST  EXECUTIVE \n\n\n\n2. Clicking the PAYMENT MADE IN QUARTER button displays the payment details in the following format. \n\n\n\n- The cash available as on date and ITC available (considering ITC of current tax period) are shown in below table. \n\n\n\n8.13"
+    },
+    {
+      "page": 67,
+      "text": "GST  EXECUTIVE \n\n- Use the scroll bar to move to the right to view the Credit Ledger Balance. \n\n\n\n- Please provide the amount of credit to be utilized from the respective available credit heads to pay off the liabilities, so as the cash. \n\n\n\n8.14"
+    },
+    {
+      "page": 68,
+      "text": "GST  EXECUTIVE \n\n- Use the scroll bar to move to the right to view the additional cash required for paying liability. \n\n3. Click the MAKE PAYMENT/POST CREDIT TO LEDGER button to pay off the liabilities or to claim credit in case of no liabilities. \n\n\n\n8.15"
+    },
+    {
+      "page": 69,
+      "text": "GST  EXECUTIVE \n\n###### **Create Challan** \n\n4. In case of insufficient balance, “You do not have sufficient balance in Electronic Cash Ledger. Do you want to Create challan?” pop-up message is displayed. Click the YES button. \n\n\n\n- The Create Challan page is displayed. \n\n\n\n5. Once the payment is done, a confirmation message is displayed. Click the YES button. \n\n\n\n8.16"
+    },
+    {
+      "page": 70,
+      "text": "GST  EXECUTIVE \n\n##### **8.9 File GSTR-3B** \n\n1. Click the PROCEED TO FILE button. \n\n\n\n2. You can provide liability breakup of previous periods by selecting it from the drop-down or add/remove additional periods by clicking on the edit buttons. Click SAVE to continue filing GSTR-3B. \n\nThis breakup will be used to compute the interest liability which will be auto-populated in tile 5.1 of the next period as Interest and Late fee for previous tax period. \n\n8.17"
+    },
+    {
+      "page": 71,
+      "text": "GST  EXECUTIVE \n\n\n\n3. Select the checkbox for declaration. From the Authorised Signatory drop-down list, select the authorized signatory. Click the FILE GSTR-3B WITH DSC or FILE GSTR-3B WITH EVC button. \n\n\n\n8.18"
+    },
+    {
+      "page": 72,
+      "text": "GST  EXECUTIVE \n\n- **i. FILE GSTR-3B WITH DSC:** \n\n   - Click the PROCEED button. \n\n\n\n- Select the certificate and click the SIGN button. \n\n###### **ii. FILE GSTR-3B WITH EVC:** \n\n- Enter the OTP sent on email and mobile number of the Authorized Signatory registered at the GST Portal and click the VERIFY button. \n\n\n\n8.19"
+    },
+    {
+      "page": 73,
+      "text": "GST  EXECUTIVE \n\n- The success message is displayed. Click the OK button. \n\n\n\n      - The status of Form GSTR-3B is changed to Filed. \n\n   **4.     Download Filed Return** \n\n- Click the DOWNLOAD FILED GSTR-3B button to download the filed return. \n\n\n\n- The PDF file generated would now bear watermark of final Form GSTR-3B. \n\n##### **8.10 View Return Status** \n\n1. Click the Back button. The File Returns page is displayed. Select the Financial Year & Return Filing Period (Month) for which you want to view the return from the drop-down list. Click the SEARCH button. \n\n\n\n8.20"
+    },
+    {
+      "page": 74,
+      "text": "GST  EXECUTIVE \n\n2. Status of the Form GSTR-3B return changes to “Filed”. You can click the VIEW GSTR3B button to view the Form GSTR-3B return. \n\n\n\n8.21"
+    },
+    {
+      "page": 75,
+      "text": "GST  EXECUTIVE \n\n### **CHAPTER 9 - E-FILING OF GSTR CMP 08** \n\n#### **Unit objective** \n\nAfter studying this module, the students shall be able to understand; \n\n- Knowledge to access the requirements for composit tax payers. \n\n- Understand the purpose of GSTR CMP 08. \n\n- File GSTR CMP 08. \n\n##### **9.1 GST CMP 08** \n\nApplicable for Composite Taxpayer \n\nForm GST CMP-08 is used to declare the details or summary of self-assessed tax which is payable for a given quarter by taxpayers who are registered as composition taxable person or taxpayer who have opted for composition levy. \n\n\n\n|**GSTR Forms**|**Purpose**|**Due Date**|\n|---|---|---|\n|GST CMP 08|The form contains details of<br>tax liability on sales and<br>purchases|18th of the next month from<br>the end of the quarter|\n\n\n\n9.1"
+    },
+    {
+      "page": 76,
+      "text": "GST  EXECUTIVE \n\n##### **9.2 Requirement for filing Form GST CMP-08** \n\nWhat are the pre-conditions for filing Form GST CMP-08 \n\n- Taxpayer must be registered as Composition Taxpayer or have opted for Composition scheme and should have an active GSTIN. \n\n- Taxpayer must have valid User ID and password. \n\n- Taxpayer must also have valid & non-expired/non-revoked digital signature (DSC), in case of taxpayer who wish to file it by digital signature. \n\n- Taxpayer must have filed all the applicable GST CMP-08 for the previous quarter(s) \n\n##### **9.3 Output of GST CMP 08 filing** \n\nWhat happens after Form GST CMP-08 is filed \n\n      - ARN will be generated on successful filing of the Form. \n\n      - Status of GST CMP-08 will be changed to ‘Filed’ from ‘Not filed’. \n\n      - An SMS and email will be sent to the mobile number of the authorized signatory on the successful filing of Form GST CMP-08. \n\n      - Electronic Cash Ledger and Electronic Liability Register Part-I will get updated after filing of Form GST CMP-08. \n\n      - Negative liability adjustment table will be updated, if required. \n\n- 9.4 Online filing of GST CMP 08 \n\n   1. Access the www.gst.gov.in URL. The GST Home page is displayed. \n\n   2. Login to the GST Portal with valid credentials. \n\n   3. Click the Services > Returns > Returns Dashboard command. \n\n\n\n4. The File Returns page is displayed. Select the Financial Year & Return Filing Period (Quarter) for which you want to file the statement from the drop-down list. \n\n5. Click the SEARCH button. \n\n6. The File Returns page is displayed. In the GST CMP-08 tile, click the PREPARE ONLINE button. \n\n9.2"
+    },
+    {
+      "page": 77,
+      "text": "GST  EXECUTIVE \n\n\n\n\n\n<!-- Start of picture text -->\n7. The Statement for payment of self-assessed tax is displayed.<br><!-- End of picture text -->\n\n\n\n9.3"
+    },
+    {
+      "page": 78,
+      "text": "GST  EXECUTIVE \n\n###### 8. Enter details in Table 3 and click on ‘SAVE’ to save details. \n\n\n\n9. A success message will appear on clicking ‘SAVE’. Click OK. \n\n\n\n9.4"
+    },
+    {
+      "page": 79,
+      "text": "GST  EXECUTIVE \n\n10. Click PREVIEW DRAFT GST CMP-08 and a pdf file will be downloaded on your machine. \n\n\n\n11. Click on PROCEED TO FILE to file GST CMP-08. \n\n\n\n9.5"
+    },
+    {
+      "page": 80,
+      "text": "GST  EXECUTIVE \n\n12. A message will appear in a green box above the table to check the status in sometime. \n\n\n\n13. Refresh the screen after sometime and Payment of Tax page is displayed. Available cash balance as on date in Electronic Cash Ledger is shown to the taxpayer in “Cash Ledger Balance” table. \n\n\n\n9.6"
+    },
+    {
+      "page": 81,
+      "text": "GST  EXECUTIVE \n\n###### 14. Generate Challan \n\n\n\n\n\n9.7"
+    },
+    {
+      "page": 82,
+      "text": "GST  EXECUTIVE \n\n15. Select the Payment Modes as E-Payment/ Over the Counter/ NEFT/RTGS. \n\n16. Click the GENERATE CHALLAN button. \n\n\n\n17. The Challan is generated. Click on DOWNLOAD button to download the challan. \n\n\n\n9.8"
+    },
+    {
+      "page": 83,
+      "text": "GST  EXECUTIVE \n\n###### 18. Downloaded challan is displayed here. Click on MAKE PAYMENT button. \n\n\n\nIn case of successful payment, you will be re-directed to the GST Portal where the transaction status will be displayed. \n\n9.9"
+    },
+    {
+      "page": 84,
+      "text": "GST  EXECUTIVE \n\n19. Go to Returns Dashboard again, note the Additional Cash required is Nil now. \n\n20. Declaration Select the checkbox against the Choose the Authorised Signatory from the drop-down. \n\n\n\n9.10"
+    },
+    {
+      "page": 85,
+      "text": "GST  EXECUTIVE \n\n###### 21. Click on FILE GST CMP-08. \n\n\n\n22. Click the YES button. \n\n\n\n9.11"
+    },
+    {
+      "page": 86,
+      "text": "GST  EXECUTIVE \n\n23. The Submit Application page is displayed. Click the FILE WITH DSC or FILE WITH EVC button. \n\n\n\n###### 24. FILE WITH EVC: \n\nEnter the OTP sent on email and mobile number of the Authorized Signatory registered at the GST Portal and click the VALIDATE OTP button. \n\n\n\n9.12"
+    },
+    {
+      "page": 87,
+      "text": "GST  EXECUTIVE \n\n25. The success message is displayed and ARN is displayed. Status of the Form GST CMP-08 changes to “Filed”. Go BACK to download filed GST CMP-08. \n\n\n\n26. Download the filed GST CMP-08 by clicking on DOWNLOAD FILED GST CMP-08. \n\n9.13"
+    },
+    {
+      "page": 88,
+      "text": "GST  EXECUTIVE \n\n### **CHAPTER 10 - PAYMENT OF TAX** \n\n#### **Unit objective** \n\nAfter studying this module, the students shall be able to understand; \n\n- State about tax payment \n\n- Access Electronic Cash Ledger \n\n- Familiarize with electronic credit ledger \n\n- Discuss the late filing of GSTR \n\n##### **10.1 Payment of Tax** \n\nA GST tax payment is the periodic remittance of an amount payable by the registered business. According to the guidelines, on the 20th of every month a registered taxpayer must make the GST submission along with the returns. \n\n\n\n\n\n\n\n\n\n\n\n10.1"
+    },
+    {
+      "page": 89,
+      "text": "GST  EXECUTIVE \n\n##### **10.2 Electronic Cash Ledger** \n\n\n\nElectronic Cash Ledger is an account maintained by the GST system reflecting the cash deposits in recognized Banks, and payments of taxes as well as other dues made by the taxpayer. The introduction of this technology aims at educating and equipping people with various payment options, such as UPI apps that hold wallets. \n\nThe Electronic Cash Ledger contains a summary of all the deposits/payments made by a taxpayer. For convenience of the user, information is kept minor and head-wise for each major head in the ledger. Examples include; IGST, CGST, SGST/UTGST, and CESS. Each major head is divided into five minor heads namely Tax, Interest, Penalty, Fee, and Others. The same can be accessed under the post-login mode on the GST portal under Services > Ledgers > Electronic Cash Ledger. \n\n##### **10.3 Electronic Credit Ledger** \n\nThe Electronic Credit Ledger holds the input tax credit available for the taxpayer. Hence, every input tax credit that taxpayer is eligible for gets credited to this ledger. \n\n- **Blocked Credit Balance** \n\nWhen a concerned jurisdiction officer decides to temporarily block the ITC that is available to a taxpayer, when an investigation in revenue is required. This is called a Blocked Credit Balance. The officer in such cases can completely or partly block CGST, SGST, IGST and Cess balance. \n\n###### **How can I view the Electronic Credit Ledger?** \n\nThe Electronic Credit Ledger enables taxpayers to view the credit balance as on date and Provisional Credit Balance and Blocked Credit Balance details. \n\n**To view the Electronic Credit Ledger, follow the steps below:** \n\n1. Access the https://www.gst.gov.in/ URL. The GST Home page is displayed. Login to the GST portal with valid credentials. \n\nClick the Services > Ledgers > Electronic Credit Ledger option. \n\n\n\n10.2"
+    },
+    {
+      "page": 90,
+      "text": "GST  EXECUTIVE \n\n2. The Electronic Credit Ledger page is displayed. The credit balance as of current date, Provisional Credit Balance and Blocked Credit Balance is displayed. \n\n\n\n###### **2.(a)  Electronic Credit Ledger:** \n\n1. Click the Electronic Credit Ledger link. This enables the taxpayer to view various credit ledger related details further. \n\nNote: Negative amounts in Electronic Credit Ledger cannot be utilized for payment of liabilities. \n\n\n\n2. Select the From and To date using the calendar to select the period for which you want to view the transactions of Electronic Credit Ledger. Click on the GO button. \n\n\n\n3. The Electronic Credit Ledger details are then displayed. \n\n\n\n4. Scroll to the right to view further details. \n\n10.3"
+    },
+    {
+      "page": 91,
+      "text": "GST  EXECUTIVE \n\nNote: \n\n- If Tax Officials block an amount in the excess of balance credit available in the Electronic Credit Ledger of the taxpayer, then a debit entry for such amount will be posted in the Electronic Credit Ledger of that taxpayer. The balance of the Electronic Credit Ledger for such cases will become negative. \n\n- If a credit entry is subsequently posted in the Electronic Credit ledger, then the amount would be adjusted against such negative balance and the Electronic Credit Ledger will be updated accordingly. \n\n- For Example: Balance in the Electronic Credit Ledger is **₹** 100. Tax Officials intend to block **₹** 120. In this case, Electronic Credit Ledger will show a balance of -20. Subsequently, if an amount of **₹** 30 is credited to the Electronic Credit Ledger, the entry of Rs 30 credit will be adjusted against the negative balance and the net balance available would become **₹** 10. \n\n- Negative amounts in Electronic Credit Ledger cannot be utilized for payment of liabilities. \n\n\n\n5. Click the SAVE AS PDF and SAVE AS EXCEL button to save the Electronic Credit Ledger in the pdf and excel format in your machine. \n\n6. Click the Description (Unblocked/Blocked) hyperlink to view details of Tax Official who has blocked/unblocked the credit amount. Click OK to close the window. \n\n\n\n10.4"
+    },
+    {
+      "page": 92,
+      "text": "GST  EXECUTIVE \n\n###### **2.(b)  Provisional Credit Balance:** \n\n1. Click the Provisional Credit Balance link. \n\n2. The Provisional Credit Balance details are displayed. \n\n3. Click the SAVE AS PDF and SAVE AS EXCEL button to save the Provisional Credit Balance in the pdf and excel format. \n\n\n\n- **2.(c)  Blocked Credit Balance:** \n\n   1. To view ITC amount available in your Electronic Credit Ledger, which has been blocked by Jurisdictional Tax Officer, click the Blocked Credit Balance link. \n\n\n\n2. Select the From and To date using the calendar to select the period for which you want to view the blocked Credit Balance. \n\n\n\n3. The blocked Credit Balance details are displayed. \n\n10.5"
+    },
+    {
+      "page": 93,
+      "text": "GST  EXECUTIVE \n\n\n\n##### **10.4 Electronic Liability Register** \n\nAn electronic liability register is used to keep track of all the taxable person’s obligation under GST. This register displays any amount owing on the common portal including taxes, interest, penalty, late fees. \n\nTherefore, all the sums owned by registered taxable persons are deducted from the electronic liability record. \n\n**How can I view the Electronic Liability Register?** \n\nAll the liabilities that the taxpayer has accumulated is shown in an Electronic Liability Register. The register also displays payments made from the Electronic Cash Ledger and/or credit used to pay off liabilities. \n\n###### **To view the Electronic Liability Register, perform the following steps:** \n\n1. Access the https://www.gst.gov.in/ URL. The GST Home page is displayed. \n\n2. Login to the GST Portal with valid credentials. \n\n3. Click the Services > Ledgers > Electronic Liability Register command. \n\n\n\nThe Electronic Liability Register page is displayed. \n\n10.6"
+    },
+    {
+      "page": 94,
+      "text": "GST  EXECUTIVE \n\n- Part - 1 Return related liabilities \n\n4.   Select the Part - 1 Return related liabilities link. \n\n\n\n- a. The Electronic Liability Register page is displayed. From the Financial Year and Month drop-down list, select the financial year and month for which you want to view the electronic liability register. \n\n\n\n- b. Click the GO button. The Electronic Liability register details are displayed. \n\n\n\n10.7"
+    },
+    {
+      "page": 95,
+      "text": "GST  EXECUTIVE \n\n###### **Part- II: Other than return related liabilities** \n\n3. Select the Part – II: Other than return related liabilities link. \n\n\n\n- a. The Electronic Liability Register page is displayed. \n\n- b. Select from the appropriate choice from the Stay Status drop down. \n\n\n\n- c. Click the GO button \n\n\n\n10.8"
+    },
+    {
+      "page": 96,
+      "text": "GST  EXECUTIVE \n\n- d. The Electronic Liability Ledger is open which displays the Electronic Liability Register details. \n\n\n\n##### **10.5 Interest on delayed Payment of Tax** \n\nIf you fail to file the GST returns on time that are required by law, late fees will apply for each day that you are late. Furthermore, if any tax is due, interest at the rate of 18% per annum will be charged on the tax liability. \n\n**In case of nil GSTR-1 and GSTR-3B filing, the maximum late fee charged shall be capped at ₹ 500 per return (i.e., ₹ 250 each for CGST & SGST).** \n\n|**Name of the Act**|**Late fees for every day of delay**|\n|---|---|\n|Central Goods and Services Act, 2017|₹25|\n|Respective State Goods and Services Act, 2017 (or) Union|₹25|\n|TerritoryGoods and Services Act, 2017||\n|Total late fees to be paid per day|₹50|\n\n\n\n10.9"
+    },
+    {
+      "page": 97,
+      "text": "GST  EXECUTIVE \n\n###### **The Nil return filers must pay the below mentioned late fee** \n\n|**Name of the Act**|**Late fees for every day of delay**|\n|---|---|\n|CGST ACT|₹10|\n|SGST ACT|₹10|\n|Total|₹20|\n\n\n\n###### **For GST Annual Return GSTR9** \n\n|**Name of the Act**|**Late fees for every day of delay**|\n|---|---|\n|CGST ACT|₹100|\n|SGST ACT|₹100|\n|Total|₹200|\n\n\n\n###### **For GST CMP 08 (Composite Taxpayer)** \n\n|**Name of the Act**|**Late fees for every day of delay**|\n|---|---|\n|CGST ACT|₹100|\n|SGST ACT|₹100|\n|Total|₹200|\n\n\n\n###### For GSTR4 (Annual Return for Composite Taxpayer) \n\n|**Name of the Act**|**Late fees for every day of delay**|\n|---|---|\n|CGST ACT|₹25|\n|SGST ACT|₹25|\n|Total|₹50|\n\n\n\n10.10"
+    }
+  ],
+  "images": [
+    {
+      "page": 1,
+      "filename": "mod4_p1_img1.png"
+    },
+    {
+      "page": 2,
+      "filename": "mod4_p2_img1.png"
+    },
+    {
+      "page": 4,
+      "filename": "mod4_p4_img1.png"
+    },
+    {
+      "page": 5,
+      "filename": "mod4_p5_img1.png"
+    },
+    {
+      "page": 6,
+      "filename": "mod4_p6_img1.png"
+    },
+    {
+      "page": 7,
+      "filename": "mod4_p7_img1.jpeg"
+    },
+    {
+      "page": 7,
+      "filename": "mod4_p7_img2.jpeg"
+    },
+    {
+      "page": 8,
+      "filename": "mod4_p8_img1.png"
+    },
+    {
+      "page": 9,
+      "filename": "mod4_p9_img1.jpeg"
+    },
+    {
+      "page": 11,
+      "filename": "mod4_p11_img1.png"
+    },
+    {
+      "page": 11,
+      "filename": "mod4_p11_img2.png"
+    },
+    {
+      "page": 12,
+      "filename": "mod4_p12_img1.jpeg"
+    },
+    {
+      "page": 13,
+      "filename": "mod4_p13_img1.jpeg"
+    },
+    {
+      "page": 13,
+      "filename": "mod4_p13_img2.jpeg"
+    },
+    {
+      "page": 14,
+      "filename": "mod4_p14_img1.jpeg"
+    },
+    {
+      "page": 15,
+      "filename": "mod4_p15_img1.jpeg"
+    },
+    {
+      "page": 16,
+      "filename": "mod4_p16_img1.jpeg"
+    },
+    {
+      "page": 16,
+      "filename": "mod4_p16_img2.jpeg"
+    },
+    {
+      "page": 16,
+      "filename": "mod4_p16_img3.jpeg"
+    },
+    {
+      "page": 17,
+      "filename": "mod4_p17_img1.jpeg"
+    },
+    {
+      "page": 17,
+      "filename": "mod4_p17_img2.jpeg"
+    },
+    {
+      "page": 17,
+      "filename": "mod4_p17_img3.jpeg"
+    },
+    {
+      "page": 18,
+      "filename": "mod4_p18_img1.jpeg"
+    },
+    {
+      "page": 19,
+      "filename": "mod4_p19_img1.jpeg"
+    },
+    {
+      "page": 19,
+      "filename": "mod4_p19_img2.jpeg"
+    },
+    {
+      "page": 19,
+      "filename": "mod4_p19_img3.jpeg"
+    },
+    {
+      "page": 20,
+      "filename": "mod4_p20_img1.jpeg"
+    },
+    {
+      "page": 21,
+      "filename": "mod4_p21_img1.jpeg"
+    },
+    {
+      "page": 22,
+      "filename": "mod4_p22_img1.jpeg"
+    },
+    {
+      "page": 22,
+      "filename": "mod4_p22_img2.jpeg"
+    },
+    {
+      "page": 22,
+      "filename": "mod4_p22_img3.jpeg"
+    },
+    {
+      "page": 23,
+      "filename": "mod4_p23_img1.jpeg"
+    },
+    {
+      "page": 23,
+      "filename": "mod4_p23_img2.jpeg"
+    },
+    {
+      "page": 24,
+      "filename": "mod4_p24_img1.jpeg"
+    },
+    {
+      "page": 24,
+      "filename": "mod4_p24_img2.jpeg"
+    },
+    {
+      "page": 24,
+      "filename": "mod4_p24_img3.jpeg"
+    },
+    {
+      "page": 25,
+      "filename": "mod4_p25_img1.jpeg"
+    },
+    {
+      "page": 25,
+      "filename": "mod4_p25_img2.jpeg"
+    },
+    {
+      "page": 26,
+      "filename": "mod4_p26_img1.jpeg"
+    },
+    {
+      "page": 26,
+      "filename": "mod4_p26_img2.jpeg"
+    },
+    {
+      "page": 26,
+      "filename": "mod4_p26_img3.jpeg"
+    },
+    {
+      "page": 27,
+      "filename": "mod4_p27_img1.jpeg"
+    },
+    {
+      "page": 28,
+      "filename": "mod4_p28_img1.jpeg"
+    },
+    {
+      "page": 29,
+      "filename": "mod4_p29_img1.jpeg"
+    },
+    {
+      "page": 29,
+      "filename": "mod4_p29_img2.jpeg"
+    },
+    {
+      "page": 29,
+      "filename": "mod4_p29_img3.jpeg"
+    },
+    {
+      "page": 30,
+      "filename": "mod4_p30_img1.jpeg"
+    },
+    {
+      "page": 31,
+      "filename": "mod4_p31_img1.jpeg"
+    },
+    {
+      "page": 32,
+      "filename": "mod4_p32_img1.jpeg"
+    },
+    {
+      "page": 32,
+      "filename": "mod4_p32_img2.jpeg"
+    },
+    {
+      "page": 32,
+      "filename": "mod4_p32_img3.jpeg"
+    },
+    {
+      "page": 33,
+      "filename": "mod4_p33_img1.jpeg"
+    },
+    {
+      "page": 33,
+      "filename": "mod4_p33_img2.jpeg"
+    },
+    {
+      "page": 34,
+      "filename": "mod4_p34_img1.jpeg"
+    },
+    {
+      "page": 35,
+      "filename": "mod4_p35_img1.jpeg"
+    },
+    {
+      "page": 35,
+      "filename": "mod4_p35_img2.jpeg"
+    },
+    {
+      "page": 35,
+      "filename": "mod4_p35_img3.jpeg"
+    },
+    {
+      "page": 36,
+      "filename": "mod4_p36_img1.jpeg"
+    },
+    {
+      "page": 36,
+      "filename": "mod4_p36_img2.jpeg"
+    },
+    {
+      "page": 37,
+      "filename": "mod4_p37_img1.jpeg"
+    },
+    {
+      "page": 37,
+      "filename": "mod4_p37_img2.jpeg"
+    },
+    {
+      "page": 37,
+      "filename": "mod4_p37_img3.jpeg"
+    },
+    {
+      "page": 38,
+      "filename": "mod4_p38_img1.png"
+    },
+    {
+      "page": 38,
+      "filename": "mod4_p38_img2.jpeg"
+    },
+    {
+      "page": 39,
+      "filename": "mod4_p39_img1.jpeg"
+    },
+    {
+      "page": 39,
+      "filename": "mod4_p39_img2.jpeg"
+    },
+    {
+      "page": 40,
+      "filename": "mod4_p40_img1.jpeg"
+    },
+    {
+      "page": 40,
+      "filename": "mod4_p40_img2.jpeg"
+    },
+    {
+      "page": 41,
+      "filename": "mod4_p41_img1.jpeg"
+    },
+    {
+      "page": 42,
+      "filename": "mod4_p42_img1.jpeg"
+    },
+    {
+      "page": 42,
+      "filename": "mod4_p42_img2.jpeg"
+    },
+    {
+      "page": 43,
+      "filename": "mod4_p43_img1.jpeg"
+    },
+    {
+      "page": 43,
+      "filename": "mod4_p43_img2.png"
+    },
+    {
+      "page": 44,
+      "filename": "mod4_p44_img1.png"
+    },
+    {
+      "page": 45,
+      "filename": "mod4_p45_img1.jpeg"
+    },
+    {
+      "page": 45,
+      "filename": "mod4_p45_img2.png"
+    },
+    {
+      "page": 46,
+      "filename": "mod4_p46_img1.png"
+    },
+    {
+      "page": 46,
+      "filename": "mod4_p46_img2.png"
+    },
+    {
+      "page": 47,
+      "filename": "mod4_p47_img1.png"
+    },
+    {
+      "page": 47,
+      "filename": "mod4_p47_img2.png"
+    },
+    {
+      "page": 47,
+      "filename": "mod4_p47_img3.png"
+    },
+    {
+      "page": 48,
+      "filename": "mod4_p48_img1.png"
+    },
+    {
+      "page": 49,
+      "filename": "mod4_p49_img1.png"
+    },
+    {
+      "page": 49,
+      "filename": "mod4_p49_img2.png"
+    },
+    {
+      "page": 49,
+      "filename": "mod4_p49_img3.png"
+    },
+    {
+      "page": 50,
+      "filename": "mod4_p50_img1.png"
+    },
+    {
+      "page": 50,
+      "filename": "mod4_p50_img2.png"
+    },
+    {
+      "page": 50,
+      "filename": "mod4_p50_img3.png"
+    },
+    {
+      "page": 51,
+      "filename": "mod4_p51_img1.png"
+    },
+    {
+      "page": 51,
+      "filename": "mod4_p51_img2.png"
+    },
+    {
+      "page": 51,
+      "filename": "mod4_p51_img3.png"
+    },
+    {
+      "page": 52,
+      "filename": "mod4_p52_img1.png"
+    },
+    {
+      "page": 52,
+      "filename": "mod4_p52_img2.png"
+    },
+    {
+      "page": 52,
+      "filename": "mod4_p52_img3.png"
+    },
+    {
+      "page": 53,
+      "filename": "mod4_p53_img1.png"
+    },
+    {
+      "page": 53,
+      "filename": "mod4_p53_img2.png"
+    },
+    {
+      "page": 54,
+      "filename": "mod4_p54_img1.jpeg"
+    },
+    {
+      "page": 55,
+      "filename": "mod4_p55_img1.png"
+    },
+    {
+      "page": 55,
+      "filename": "mod4_p55_img2.png"
+    },
+    {
+      "page": 56,
+      "filename": "mod4_p56_img1.png"
+    },
+    {
+      "page": 56,
+      "filename": "mod4_p56_img2.png"
+    },
+    {
+      "page": 57,
+      "filename": "mod4_p57_img1.png"
+    },
+    {
+      "page": 57,
+      "filename": "mod4_p57_img2.png"
+    },
+    {
+      "page": 58,
+      "filename": "mod4_p58_img1.png"
+    },
+    {
+      "page": 58,
+      "filename": "mod4_p58_img2.png"
+    },
+    {
+      "page": 59,
+      "filename": "mod4_p59_img1.jpeg"
+    },
+    {
+      "page": 60,
+      "filename": "mod4_p60_img1.png"
+    },
+    {
+      "page": 60,
+      "filename": "mod4_p60_img2.jpeg"
+    },
+    {
+      "page": 61,
+      "filename": "mod4_p61_img1.png"
+    },
+    {
+      "page": 61,
+      "filename": "mod4_p61_img2.png"
+    },
+    {
+      "page": 62,
+      "filename": "mod4_p62_img1.png"
+    },
+    {
+      "page": 62,
+      "filename": "mod4_p62_img2.png"
+    },
+    {
+      "page": 62,
+      "filename": "mod4_p62_img3.png"
+    },
+    {
+      "page": 63,
+      "filename": "mod4_p63_img1.png"
+    },
+    {
+      "page": 63,
+      "filename": "mod4_p63_img2.jpeg"
+    },
+    {
+      "page": 64,
+      "filename": "mod4_p64_img1.jpeg"
+    },
+    {
+      "page": 64,
+      "filename": "mod4_p64_img2.png"
+    },
+    {
+      "page": 65,
+      "filename": "mod4_p65_img1.png"
+    },
+    {
+      "page": 66,
+      "filename": "mod4_p66_img1.jpeg"
+    },
+    {
+      "page": 66,
+      "filename": "mod4_p66_img2.jpeg"
+    },
+    {
+      "page": 66,
+      "filename": "mod4_p66_img3.jpeg"
+    },
+    {
+      "page": 67,
+      "filename": "mod4_p67_img1.png"
+    },
+    {
+      "page": 67,
+      "filename": "mod4_p67_img2.jpeg"
+    },
+    {
+      "page": 68,
+      "filename": "mod4_p68_img1.jpeg"
+    },
+    {
+      "page": 69,
+      "filename": "mod4_p69_img1.png"
+    },
+    {
+      "page": 69,
+      "filename": "mod4_p69_img2.jpeg"
+    },
+    {
+      "page": 69,
+      "filename": "mod4_p69_img3.png"
+    },
+    {
+      "page": 70,
+      "filename": "mod4_p70_img1.jpeg"
+    },
+    {
+      "page": 71,
+      "filename": "mod4_p71_img1.jpeg"
+    },
+    {
+      "page": 71,
+      "filename": "mod4_p71_img2.png"
+    },
+    {
+      "page": 72,
+      "filename": "mod4_p72_img1.png"
+    },
+    {
+      "page": 72,
+      "filename": "mod4_p72_img2.png"
+    },
+    {
+      "page": 73,
+      "filename": "mod4_p73_img1.png"
+    },
+    {
+      "page": 73,
+      "filename": "mod4_p73_img2.jpeg"
+    },
+    {
+      "page": 73,
+      "filename": "mod4_p73_img3.png"
+    },
+    {
+      "page": 74,
+      "filename": "mod4_p74_img1.png"
+    },
+    {
+      "page": 75,
+      "filename": "mod4_p75_img1.jpeg"
+    },
+    {
+      "page": 76,
+      "filename": "mod4_p76_img1.png"
+    },
+    {
+      "page": 77,
+      "filename": "mod4_p77_img1.png"
+    },
+    {
+      "page": 77,
+      "filename": "mod4_p77_img2.jpeg"
+    },
+    {
+      "page": 78,
+      "filename": "mod4_p78_img1.png"
+    },
+    {
+      "page": 78,
+      "filename": "mod4_p78_img2.jpeg"
+    },
+    {
+      "page": 79,
+      "filename": "mod4_p79_img1.jpeg"
+    },
+    {
+      "page": 79,
+      "filename": "mod4_p79_img2.jpeg"
+    },
+    {
+      "page": 80,
+      "filename": "mod4_p80_img1.png"
+    },
+    {
+      "page": 80,
+      "filename": "mod4_p80_img2.png"
+    },
+    {
+      "page": 81,
+      "filename": "mod4_p81_img1.jpeg"
+    },
+    {
+      "page": 81,
+      "filename": "mod4_p81_img2.jpeg"
+    },
+    {
+      "page": 82,
+      "filename": "mod4_p82_img1.jpeg"
+    },
+    {
+      "page": 82,
+      "filename": "mod4_p82_img2.png"
+    },
+    {
+      "page": 83,
+      "filename": "mod4_p83_img1.png"
+    },
+    {
+      "page": 84,
+      "filename": "mod4_p84_img1.png"
+    },
+    {
+      "page": 85,
+      "filename": "mod4_p85_img1.jpeg"
+    },
+    {
+      "page": 85,
+      "filename": "mod4_p85_img2.png"
+    },
+    {
+      "page": 86,
+      "filename": "mod4_p86_img1.png"
+    },
+    {
+      "page": 86,
+      "filename": "mod4_p86_img2.png"
+    },
+    {
+      "page": 87,
+      "filename": "mod4_p87_img1.jpeg"
+    },
+    {
+      "page": 89,
+      "filename": "mod4_p89_img1.jpeg"
+    },
+    {
+      "page": 89,
+      "filename": "mod4_p89_img2.jpeg"
+    },
+    {
+      "page": 90,
+      "filename": "mod4_p90_img1.jpeg"
+    },
+    {
+      "page": 90,
+      "filename": "mod4_p90_img2.jpeg"
+    },
+    {
+      "page": 90,
+      "filename": "mod4_p90_img3.png"
+    },
+    {
+      "page": 90,
+      "filename": "mod4_p90_img4.jpeg"
+    },
+    {
+      "page": 91,
+      "filename": "mod4_p91_img1.jpeg"
+    },
+    {
+      "page": 91,
+      "filename": "mod4_p91_img2.png"
+    },
+    {
+      "page": 92,
+      "filename": "mod4_p92_img1.jpeg"
+    },
+    {
+      "page": 92,
+      "filename": "mod4_p92_img2.png"
+    },
+    {
+      "page": 92,
+      "filename": "mod4_p92_img3.png"
+    },
+    {
+      "page": 93,
+      "filename": "mod4_p93_img1.jpeg"
+    },
+    {
+      "page": 93,
+      "filename": "mod4_p93_img2.jpeg"
+    },
+    {
+      "page": 94,
+      "filename": "mod4_p94_img1.jpeg"
+    },
+    {
+      "page": 94,
+      "filename": "mod4_p94_img2.jpeg"
+    },
+    {
+      "page": 94,
+      "filename": "mod4_p94_img3.jpeg"
+    },
+    {
+      "page": 95,
+      "filename": "mod4_p95_img1.jpeg"
+    },
+    {
+      "page": 95,
+      "filename": "mod4_p95_img2.jpeg"
+    },
+    {
+      "page": 95,
+      "filename": "mod4_p95_img3.jpeg"
+    },
+    {
+      "page": 96,
+      "filename": "mod4_p96_img1.jpeg"
+    }
+  ]
+}

@@ -1,0 +1,291 @@
+{
+  "id": "module-2",
+  "number": 2,
+  "title": "Module 2: Registration under GST",
+  "file": "GST - Module 2 - Registration under GST.pdf",
+  "totalPages": 28,
+  "chapters": [
+    {
+      "id": "ch3",
+      "title": "Chapter 3: GST Registration",
+      "pageStart": 4,
+      "pageEnd": 28
+    }
+  ],
+  "pages": [
+    {
+      "page": 1,
+      "text": "<mark>GST  EXECUTIVE</mark>"
+    },
+    {
+      "page": 2,
+      "text": "# _Special Thanks & Compilation Credit_ \n\n#### **VIVEK VM. CPA** \n\n(MBA, M.COM, CFE, GSTP) \n\nBeing a commerce aficionado with dual post-graduation in Finance from reputed universities, he started his career in the academic platform and served as an Assistant Professor at Kannur University. He bagged a Forensic Certificate from the USA, all credit to his smart and passionate style of work. His exemplary passion for finance and accounting soon guided him to the world-renowned and sought-after Professional Accounting  Certificate, CPA from AICPA. He is also an accredited member of the State Board of Accountancy, North Dakota. Aside from all his accolades, he is a seasoned GST Practitioner with a clear-cut vision for the future. \n\nReviewed by \n\n###### 1. CA SARATH \n\nA spirited Chartered Accountancy graduate with an ardent and unceasing interest in the field of commerce. \n\n###### 2. CMA RAHUL CHANDRAN \n\nCost and Management Accounting graduate with unfaltering energy and passion to learn, unlearn and grow."
+    },
+    {
+      "page": 3,
+      "text": "#### **<mark>About this book</mark>** \n\nThe pursuit of continuous learning is a necessity for individuals to excel in the finance industry, particularly consultants and accountants, who desire to acquire and develop their knowledge and skills. India’s tax structure can be complex and overwhelming for many. Understanding the concept of tax and the GST system is crucial for businesses and individuals alike. The purpose of this book is to provide valuable insights into the core concepts of the Goods and Services Tax (GST) and its relevance to the Indian economy. The structure of GST, its applicability, and the dual GST model are only a few of the subjects covered in the book. Moreover, it explores GST's benefits and industry practices. \n\nThis book aims to act as a comprehensive manual that not only imparts essential knowledge but also facilitates the development of practical skills to operate effectively in the field."
+    },
+    {
+      "page": 4,
+      "text": "Module 1 Chapter 1 – Introduction of GST in India Chapter 2 – Concepts and Application of GST Module 2 Chapter 3 – GST Registration Module 3 Chapter 4 – Tax Invoice Chapter 5 – E-Way Bill Module 4 Chapter 6 - E-filing of GSTR-1 Chapter 7 - E-filing of GSTR2A & 2B Chapter 8 - E-filing of GSTR 3B Chapter 9 - E-filing of GSTR CMP 08 Chapter 10 - Payment of tax"
+    },
+    {
+      "page": 5,
+      "text": "DETAILED CONTENT Pg. No \n\n## **CHAPTER 3 - GST REGISTRATION** \n\n|3.1|Introduction to GST Registration ....................................|3.1|\n|---|---|---|\n|3.2|Structure of GSTIN ..........................................................<br>i|3.2|\n|3.3|Benefits of Registration ..................................................|3.2|\n|3.4|Applicability of Registration ...........................................|3.3|\n|3.5|Exemption of GSTIN .......................................................|3.3|\n|3.6|Documents for GSTIN .....................................................|3.3|\n|3.7|Online application of GSTIN ...........................................|3.4|"
+    },
+    {
+      "page": 6,
+      "text": "GST  EXECUTIVE \n\n## **CHAPTER 3 - REGISTRATION – GSTIN** \n\n#### **Unit objective** \n\nAfter studying this module, the students shall be able to understand ; \n\n- Understand structure of registration \n\n- Identify the benefits of GSTIN \n\n- Learn the methods of registration process \n\n### **3.1 Introduction to GST registration** \n\n\n\nBeneath any taxation law, registration is the foremost essential necessity for identification of taxpayers, ensuring tax compliance within the economy. \n\nRegistration lawfully recognizes an individual as the supplier of goods and services, and legitimately authorizes them to gather taxes from their clients and pass on the credit of the taxes paid on the goods or services supplied to the recipient. \n\nThey can claim the input tax credit of taxes paid and can utilize the same for payment of taxes due on supply of goods or services. Registration guarantees that there is a consistent flow of input tax credit from suppliers to recipients on a national level. \n\nUnder GST law, a supplier is required to get state-wise registration. There is no concept of centralized registration under GST. A supplier must obtain registration in each State/ UT from where they make a taxable supply, provided their total turnover surpasses an indicated threshold. \n\n3.1"
+    },
+    {
+      "page": 7,
+      "text": "GST  EXECUTIVE \n\n### **3.2 Structure of GSTIN** \n\nBusinesses must be registered under GST and have a unique 15-digit Goods and Services Tax Identification Number (GSTIN).  This is a unique code assigned to each taxpayer, based on their PAN, and is state-wise. \n\nThe 15-digit GSTIN indicates the following: \n\n- The first two digits represent the state or union territory code. \n\n- The next ten digits are the PAN number of the taxpayer or business house. \n\n- The 13th digit indicates the number of registrations in a state for the same PAN. It is alpha-numeric (first 1-9 and then A-Z) \n\n- The 14th digit is the alphabet ‘Z’ by default \n\n- The last digit is a check to detect errors. It can be an alphabet or a number \n\n\n\n### **3.3 Benefit of Registration** \n\n- Business Loan Process : \n\nState and central government is providing different financial assistance to young entrepreneurs. To avail this facility by the government, the company must register and have a GSTIN. \n\n- ITC (Input Tax Credit) Benefit : \n\nWhen a product is given to an enterprise, the cost of purchase will not include the GST rate, and this helps the business reduce the product cost. \n\n- Helps to Start E-commerce business, such as Amazon, Flipkart seller. \n\n- Enables inter-state business transactions \n\n- Lawful recognition as a supplier of goods and services. \n\n- Eligible to claim various benefits under GST law. \n\n- Proper accounting of taxes paid on goods and services, or both, can be used to pay the GST the company pays when it delivers the goods or services. \n\n3.2"
+    },
+    {
+      "page": 8,
+      "text": "GST  EXECUTIVE \n\n### **3.4 Applicability of Registration** \n\n- Indirect Tax registered person \n\n- Casual Taxable person \n\n- E-commerce operator (for goods) \n\n- Crossing the turnover of 40 lakh (goods) \n\n- Crossing the turnover of 20 lakh (service) \n\n- Interstate supplier of goods and services \n\n- Non-resident taxable person \n\n- Agent of the supplier \n\n- Taxpayer under RCM \n\n- Transfer or demerged business \n\n### **3.5 Exemption of GSTIN** \n\n- Full time educational institution \n\n- Public transport services \n\n- Agriculture product services \n\n- Electricity & hospital \n\n- Fresh meat and fish \n\n- Nil rated supplies \n\n- Alcoholic liquor for human consumption \n\n### **3.6 Documents for GSTIN** \n\n|Sole – Proprietorship|Partnership (including LLP)|\n|---|---|\n|Aadhar & PAN card of the owner|Photograph of all partners|\n|Photograph of the owner|PAN card of all partners|\n|Address Proof|Aadhar card of authorized signatory|\n|Property Tax / Electricity|Address proof of partners|\n|Email Id & phone Number|Name of Business|\n|NOC (No-objection Certificate) (if applicable)|Registered office address proof|\n|Bank account details|Signature|\n||Proof of appointment of authorized signatory|\n||Bank account details|\n||Registration certificate in case of LLP|\n\n\n\n3.3"
+    },
+    {
+      "page": 9,
+      "text": "GST  EXECUTIVE \n\n##### **3.7 Online Application of GSTIN** \n\n###### **Mainly there are 2 types of Registration** \n\n\n\n**Normal Taxpayer Registration (Form GST REG-01)** \n\nThe Application form is divided into 2 parts as \n\n|**PART- A**|**PART- B**|\n|---|---|\n|PAN and other details|Business Details|\n\n\n\n###### **PART- A (PAN and Other details)** \n\n1. Access the https://www.gst.gov.in/ URL. The GST Home page is displayed. \n\n2. Click the Services > Registration > New Registration \n\n\n\n3. The New Registration page is displayed. Select the New Registration option. \n\n4. In the I am a drop-down list, select Taxpayer as the type of taxpayer to be registered. \n\n5. In the State/UT and District drop down list, select the state for which registration is required and district. \n\n6. In the Legal Name of the Business (As mentioned in PAN) field, enter the legal name of your business/ entity as mentioned in the PAN database. \n\n7. In the Permanent Account Number (PAN) field, enter PAN of your business or PAN of the Proprietor. \n\n- PAN is mandatory for registration with GST \n\n- In case you don’t have PAN, you can apply for PAN. To do so, click the **here** link \n\n8. In the Email Address field, enter the email address of the Primary Authorized Signatory. \n\n9. In the Mobile Number field, enter the valid Indian mobile number of the Primary Authorized Signatory \n\n3.4"
+    },
+    {
+      "page": 10,
+      "text": "GST  EXECUTIVE \n\nDifferent One Time Password (OTP) will be sent on your email address and mobile number mentioned for authentication \n\n10. In the Type the characters you see in the image below field, enter the captcha text and click the PROCEED button. \n\n\n\n11. The OTP Verification page is displayed. In the Mobile OTP field, enter the OTP you received on your mobile number. OTP is valid only for 10 minutes. \n\n12. In the Email OTP field, enter the OTP you received on your email address. OTP is valid only for 10 minutes. \n\nOTP sent to mobile number and email address are different \n\n3.5"
+    },
+    {
+      "page": 11,
+      "text": "GST  EXECUTIVE \n\n###### 13. Click the PROCEED button. \n\n\n\n###### 14. The system generated Temporary Reference Number (TRN) is displayed. Click the PROCEED button. \n\n\n\n3.6"
+    },
+    {
+      "page": 12,
+      "text": "GST  EXECUTIVE \n\n###### **PART – B (Business details)** \n\n1. The New Registration page is displayed. Select the Temporary Reference Number (TRN). \n\n2. In the Temporary Reference Number (TRN) field, enter the TRN generated and enter the captcha text as shown on the screen and click the PROCEED button. \n\n3. The OTP Verification page is displayed. You will receive same OTP on mobile and Email. \n\n\n\n4. In the Mobile / Email OTP field, enter the OTP received on your mobile number and email address. OTP is valid only for 10 minutes. \n\n5. Click the PROCEED button. \n\n\n\n6. The My Saved Application page is displayed. Under the Action column, click the Edit icon (icon in blue square with white pen). \n\n\n\n3.7"
+    },
+    {
+      "page": 13,
+      "text": "GST  EXECUTIVE \n\n7. The Registration Application form with various tabs is displayed. On the top of the page, there are ten tabs as \n\n   - Business Details \n\n   - Promoter/ Partners \n\n   - Authorized Signatory \n\n   - Authorized Representative \n\n   - Principal Place of Business \n\n   - Additional Places of Business \n\n   - Goods and Services \n\n   - State Specific Information \n\n   - Aadhaar Authentication and \n\n   - Verification. \n\nClick each tab one by one to enter the details. \n\n\n\n- **Business Details tab:** \n\nThe Business Details tab is selected by default. This tab displays the information to be filled for the business details required for registration. \n\n1. In the Trade Name field, enter the trade name of your business. \n\n2. In the Constitution of Business drop-down list, select the type of constitution of your business. \n\n3. In the District drop-down list, select the district of your business. \n\n4. In the Option for Composition field, select Yes in case you want to opt for the Composition Levy, or else select No \n\nNote: In case of Yes \n\ni. Select the checkbox for category of registered person. \n\nii. Select the checkbox for accepting the declaration for opting for Composition Levy. \n\n\n\n5. Select the Date of commencement of Business using the calendar. \n\n6. Select the Date on which liability to register arises using the calendar. \n\n3.8"
+    },
+    {
+      "page": 14,
+      "text": "GST  EXECUTIVE \n\n7. In the Are you applying for registration as a casual taxable person? field, select Yes in case you are a casual taxpayer, or else select No. \n\n\n\n8. In the Reason to obtain registration drop-down list, select the reason to obtain registration for your business. \n\n\n\n9. Click the Choose File button to upload LOA/LOP issued by SEZ Authority, Government of India by choosing Letter of Approval or Letter of Permission issued. \n\n3.9"
+    },
+    {
+      "page": 15,
+      "text": "GST  EXECUTIVE \n\n\n\n10. Click the SAVE & CONTINUE button. \n\n\n\n11. You will notice a blue tick on the Business Details section indicating the completion of the tab information and notice the Profile indicating the percentage completion of the application form. \n\n\n\n3.10"
+    },
+    {
+      "page": 16,
+      "text": "GST  EXECUTIVE \n\n- **Promotors / Partners** \n\nThis tab page displays the details of the stakeholders chosen in the constitution of business detail. You can enter details of up to 10 Promoters or Partners. \n\n\n\n3.11"
+    },
+    {
+      "page": 17,
+      "text": "GST  EXECUTIVE \n\n1. In the Personal Information section, enter the personal details of the stakeholder like name, date of birth, address, mobile number, email address and gender. \n\n2. In the Identity Information section, enter the official information of the stakeholder. \n\n   - In the Designation / Status field, enter the designation of the stakeholder. \n\n   - In the Director Identification Number (DIN) field, enter the DIN of the stakeholder issued by Ministry of Corporate Affairs. This number is not mandatory in case of proprietorship. \n\nNote: DIN number is mandatory in case of: \n\n- Private Limited Company \n\n- Public Limited Company \n\n- Public Sector Undertaking \n\n- Unlimited Company \n\n- Foreign Company registered in India \n\n- In case you are a citizen of India, select Yes or else select No. In case of NO, In the Passport \n\n- Number field, enter the passport number \n\n- In the Permanent Account Number (PAN) field, enter the PAN of the stakeholder. \n\n- In the Aadhaar Number field, enter the Aadhaar number of the stakeholder \n\n   3. In the Residential Address in India section, enter the address details of the stakeholder. \n\n   4. In the Document Upload section, click the Choose file button. Navigate and upload the photograph of the stakeholder. \n\n   5. In case the promoter or partner is also the authorized signatory, select the Also Authorized Signatory as Yes and details will be auto-populated in the authorized signatory tab. \n\n   6. Click the SAVE & CONTINUE button. \n\nNote: To add more details of promoter or partner, click the ADD NEW button and repeat the steps each time after adding the details of the stakeholder \n\n- **Authorized Signatory tab:** \n\nEnter your details in the Authorized signatory tab. Attach the relevant document also. \n\n1. In case you are the Primary Authorized Signatory, select the checkbox for Primary Authorized Signatory. \n\n2. In the Personal Information section, enter the personal details of the authorized signatory like name, date of birth, mobile number, email address and gender. \n\n3. In the Identity Information section, enter the details of the authorized signatory like PAN number, designation, Aadhar number and DIN number (if applicable). Click Yes, to Are you a citizen/resident of India. \n\n4. In the Residential Address section, enter the address details of the authorized signatory. Based on the state selected, select the district and enter the corresponding pin code. \n\n5. In the Document Upload section, click the Choose file button. Navigate and select the Proof of Appointment and upload photograph of the authorized signatory. \n\n3.12"
+    },
+    {
+      "page": 18,
+      "text": "GST  EXECUTIVE \n\n6. Click the SAVE & CONTINUE button. \n\n\n\n3.13"
+    },
+    {
+      "page": 19,
+      "text": "GST  EXECUTIVE \n\n- **Authorized Representative** \n\nThis tab page displays the details of the authorized representative. \n\n1. Select Yes on the radio button, in the Do you have any Authorized Representative? field. \n\n2. If the Type of Authorised Representative is GST Practitioner, then; \n\n   - In the Enrolment ID field, enter the enrolment ID of the authorized representative. \n\n   - Click the SEARCH button. \n\n3. If the Type of Authorised Representative is Other, then; \n\nIn the Name of Person section, enter the name, designation, mobile number and email address of the authorized representative. \n\n4. Proceed to click on the SAVE & CONTINUE button. \n\n\n\n- **Principal Place of Business tab:** \n\nThis tab page displays the details of the principal place of the business. Principal Place of Business is the primary location of the business within the state. The principal place of business is generally the address where the business’s books of accounts and records are kept and is often where the head of the firm or at least top management is located. \n\n1. In the Address section of Principal Place of Business, enter the address details. Based on the State selected, select the district and enter the corresponding pin code. In the District and \n\n   - Sector/ Circle / Ward / Charge/ Unit drop-down list, select the district and sector/ circle/ward/charge/unit number of your business. In the Commissionerate Code, Division Code and Range Code drop-down list, select the appropriate choice. \n\n2. In the Contact Information section, enter the official contact details like, Email address, telephone number (with STD Code), mobile number and fax number (with STD Code). \n\n3. In the Nature of Possession of Premises drop-down list, select the nature of possession of premises. \n\n3.14"
+    },
+    {
+      "page": 20,
+      "text": "GST  EXECUTIVE \n\n4. In the Document Upload section, click the Choose file button. Navigate and select the proof of Principal Place of Business document. \n\n5. In the Proof of SEZ Unit/SEZ Developer approval for the premises section, click the Choose File button to upload the proof of SEZ unit or SEZ developer approval for the premises. \n\n6. Select the checkbox for Nature of Business activities being carried out at above mentioned premises. \n\n7. In case you have additional place of business, select Yes for Have Additional Place of Business. \n\n8. Click the SAVE & CONTINUE button. \n\n\n\n3.15"
+    },
+    {
+      "page": 21,
+      "text": "GST  EXECUTIVE \n\n- **Additional Places of Business** \n\nIn order to add additional places of business, click the ADD NEW button and proceed to add the additional places of business by entering the details in provided fields. The details required will be similar to Principal Place of Business. \n\n\n\n3.16"
+    },
+    {
+      "page": 22,
+      "text": "GST  EXECUTIVE \n\n- **Goods and services** \n\nThe Goods and Services tab page displays all the details of the goods and services supplied by the business. \n\n\n\n1. Goods Tab: In the Goods tab, you will see a search option. In some cases, you may know the HSN Code, and in some cases, you might not know the HSN Code. Follow the steps given below to fill the HSN Code. \n\n\n\n2. Services Tab: Now under the Service tab, you will once again see a search button. In some cases, you may know the Service Classification Code, and in some cases, you might not know the Service Classification Code. Follow the steps given below to fill the Service Classification Code. \n\nIf you do know the Service Classification Code: \n\nFor instance, if you are to add the Service Classification Code 995478 (example) to the \n\n3.17"
+    },
+    {
+      "page": 23,
+      "text": "GST  EXECUTIVE \n\nfield. At first, enter the first four digits 9954 from the Service Classification Code in the Search Service Classification Code field. Now your Service Classification Code is successfully added. \n\nIf you do not know the Service Classification Code: \n\nLet us take a dealer for example. A dealer who deals with other building completion and such finishing services. In this case, go to the Search HSN Chapter by Name or Code field, and type other building; here the related Service Classification Code list is displayed. From the displayed list, scroll and select the appropriate option (in this case 995478). Service Classification Code is successfully added. \n\n\n\n- Click the SAVE & CONTINUE button. \n\n\n\n- **State specific information** \n\nThe State Specific Information tab page displays the details of the state. \n\n1. In the Professional Tax Employee Code (EC) No. field, enter professions tax E.C number. \n\n2. In the Professional Tax Registration Certificate (RC) No. field, enter professions tax R.C number. \n\n3. In the State Excise License No. field, enter state excise license number. \n\n4. In the Name of the person in whose name Excise License is held field, enter the name of the person in whose name the excise license is registered. \n\n5. Proceed to click on the SAVE & CONTINUE button. \n\n3.18"
+    },
+    {
+      "page": 24,
+      "text": "GST  EXECUTIVE \n\n\n\n- **Aadhar authentication** \n\nThe Aadhar authentication tab page displays the details required for Aadhaar authentication. You can either opt for a Yes or No for Aadhaar authentication of Promoters/ Partners, or Authorized Signatories. \n\nAadhaar authentication is based on constitution of business (COB). The following table explains and lists the Aadhaar authentication for different constitution of business: \n\n|**S.No.**|**Constitution of**<br>**Business**|**Nature of Person**|**Aadhaar Authentication Required**|\n|---|---|---|---|\n|1|Pihi C|<sup>Proprietor</sup>|Yes (only 1 Proprietor + Primary|\n||ropretorsp oncern|Authorized Signatory|Authorized Signatory)|\n|||Partners|Yes (only 1 Partner + Primary|\n|2|Partnership Firm|Authorized Signatory|Authorized Signatory)|\n|||Karta|Yes (1 Karta + Primary Authorized|\n|3|HUF|Authorized Signatory|Signatory)|\n||Company (Public,|Authorized Signatory|Yes(PrimaryAuthorized Signatory)|\n|4|Private,Unlimited)|Directors|One Director only|\n||Coman (Forein|Authorized Signatory|Yes(PrimaryAuthorized Signatory)|\n|5|py g<br>Limited)|Authorized Person in<br>charge in India|Yes|\n|6|Limited Liability|Designated Partners|One Partner only|\n||Partnership|Authorized Signatory|Yes(PrimaryAuthorized Signatory)|\n|7|Society/Club/Trust/<br>|Members of Managing<br>Committee|One member only|\n||Association of Person|Authorized Signatory|Yes(PrimaryAuthorized Signatory)|\n|||Person in Charge|Oneperson only|\n|8|Other|Authorized Signatory|Yes(PrimaryAuthorized Signatory)|\n\n\n\n3.19"
+    },
+    {
+      "page": 25,
+      "text": "GST  EXECUTIVE \n\nIf you have opted for a yes then, from the list displayed on the Aadhaar Authentication tab, select at least one person for Aadhaar authentication and proceed to click on the SAVE & CONTINUE button. \n\n\n\nIn case, you have opted for a No: \n\nIf you do not want to opt for Aadhaar authentication of Promoters/ Partners, Authorized Signatories you can opt for a no. You will receive a warning message that you have opted No for Aadhaar authentication and proceed to click OK. \n\nNote: In case, you have opted “No” for Aadhaar authentication, while registering on the GST Portal, Registration application will not be deemed approved within 7 Working days. Registration will be marked for mandatory site visit and approval thereafter, by the tax official. \n\n\n\nYou can upload E-KYC documents under Type of E-KYC Document for Primary Authorized Signatory and at least one Promoter/Partner. \n\n3.20"
+    },
+    {
+      "page": 26,
+      "text": "GST  EXECUTIVE \n\nNote: File in a PDF or a JPEG format is only allowed. The maximum size for upload is 2 MB. In addition to that, ensure that the E-KYC documents selected for upload have your name as spelled in PAN/CBDT database. \n\n\n\n\n\nThe Aadhaar Enrolment ID for the promoter/partner and the Authorized Signatoryneeds to be different, otherwise, an error message will be displayed. \n\n\n\n3.21"
+    },
+    {
+      "page": 27,
+      "text": "GST  EXECUTIVE \n\n- Click the SAVE & CONTINUE button. \n\nNote: You can click the DELETE button to delete the uploaded documents, if required. \n\n\n\n- Verification \n\nThe verification tab page displays the details of Promoters/ Partners, Authorized Signatories for getting the Aadhaar authentication link. \n\n1. Select the Verification checkbox. \n\n2. In the Name of Authorized Signatory drop-down list, select the name of authorized signatory. \n\n3. In the Place field, enter the place where the form is filed. \n\n4. After filling the enrolment application, you need to digitally sign the application using Digital Signature Certificate (DSC)/, E-Signature or EVC. \n\nNote: Digitally signing using DSC is mandatory in case of LLP and Companies. \n\n3.22"
+    },
+    {
+      "page": 28,
+      "text": "GST  EXECUTIVE \n\n###### In Case you’re using EVC: \n\n- Click the SUBMIT WITH EVC button. \n\n\n\n- Enter the OTP sent to email and mobile number of the Authorized Signatory registered at the GST Portal and click the VALIDATE OTP button. \n\n\n\n- You will receive the acknowledgement in the next 15 minutes on your registered e-mail address and mobile phone number. Application Reference Number (ARN) receipt is sent to your e-mail address and mobile phone number. \n\n\n\n3.23"
+    }
+  ],
+  "images": [
+    {
+      "page": 1,
+      "filename": "mod2_p1_img1.png"
+    },
+    {
+      "page": 2,
+      "filename": "mod2_p2_img1.png"
+    },
+    {
+      "page": 4,
+      "filename": "mod2_p4_img1.png"
+    },
+    {
+      "page": 5,
+      "filename": "mod2_p5_img1.png"
+    },
+    {
+      "page": 6,
+      "filename": "mod2_p6_img1.jpeg"
+    },
+    {
+      "page": 7,
+      "filename": "mod2_p7_img1.jpeg"
+    },
+    {
+      "page": 9,
+      "filename": "mod2_p9_img1.jpeg"
+    },
+    {
+      "page": 9,
+      "filename": "mod2_p9_img2.png"
+    },
+    {
+      "page": 10,
+      "filename": "mod2_p10_img1.png"
+    },
+    {
+      "page": 11,
+      "filename": "mod2_p11_img1.png"
+    },
+    {
+      "page": 11,
+      "filename": "mod2_p11_img2.png"
+    },
+    {
+      "page": 12,
+      "filename": "mod2_p12_img1.png"
+    },
+    {
+      "page": 12,
+      "filename": "mod2_p12_img2.png"
+    },
+    {
+      "page": 12,
+      "filename": "mod2_p12_img3.png"
+    },
+    {
+      "page": 13,
+      "filename": "mod2_p13_img1.png"
+    },
+    {
+      "page": 13,
+      "filename": "mod2_p13_img2.png"
+    },
+    {
+      "page": 14,
+      "filename": "mod2_p14_img1.png"
+    },
+    {
+      "page": 14,
+      "filename": "mod2_p14_img2.png"
+    },
+    {
+      "page": 15,
+      "filename": "mod2_p15_img1.png"
+    },
+    {
+      "page": 15,
+      "filename": "mod2_p15_img2.png"
+    },
+    {
+      "page": 15,
+      "filename": "mod2_p15_img3.png"
+    },
+    {
+      "page": 16,
+      "filename": "mod2_p16_img1.jpeg"
+    },
+    {
+      "page": 18,
+      "filename": "mod2_p18_img1.jpeg"
+    },
+    {
+      "page": 19,
+      "filename": "mod2_p19_img1.png"
+    },
+    {
+      "page": 20,
+      "filename": "mod2_p20_img1.jpeg"
+    },
+    {
+      "page": 21,
+      "filename": "mod2_p21_img1.jpeg"
+    },
+    {
+      "page": 22,
+      "filename": "mod2_p22_img1.jpeg"
+    },
+    {
+      "page": 22,
+      "filename": "mod2_p22_img2.png"
+    },
+    {
+      "page": 23,
+      "filename": "mod2_p23_img1.jpeg"
+    },
+    {
+      "page": 23,
+      "filename": "mod2_p23_img2.jpeg"
+    },
+    {
+      "page": 24,
+      "filename": "mod2_p24_img1.jpeg"
+    },
+    {
+      "page": 25,
+      "filename": "mod2_p25_img1.png"
+    },
+    {
+      "page": 25,
+      "filename": "mod2_p25_img2.png"
+    },
+    {
+      "page": 26,
+      "filename": "mod2_p26_img1.png"
+    },
+    {
+      "page": 26,
+      "filename": "mod2_p26_img2.jpeg"
+    },
+    {
+      "page": 26,
+      "filename": "mod2_p26_img3.jpeg"
+    },
+    {
+      "page": 27,
+      "filename": "mod2_p27_img1.jpeg"
+    },
+    {
+      "page": 28,
+      "filename": "mod2_p28_img1.jpeg"
+    },
+    {
+      "page": 28,
+      "filename": "mod2_p28_img2.jpeg"
+    },
+    {
+      "page": 28,
+      "filename": "mod2_p28_img3.png"
+    }
+  ]
+}

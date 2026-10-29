@@ -1,0 +1,98 @@
+[
+  {
+    "id": "module-1",
+    "number": 1,
+    "title": "Module 1: Introduction to GST and its Applications",
+    "totalPages": 30,
+    "chapters": [
+      {
+        "id": "ch1",
+        "title": "Chapter 1: Introduction of GST in India",
+        "pageStart": 4,
+        "pageEnd": 13
+      },
+      {
+        "id": "ch2",
+        "title": "Chapter 2: Concepts and Application of GST",
+        "pageStart": 14,
+        "pageEnd": 30
+      }
+    ],
+    "imageCount": 36
+  },
+  {
+    "id": "module-2",
+    "number": 2,
+    "title": "Module 2: Registration under GST",
+    "totalPages": 28,
+    "chapters": [
+      {
+        "id": "ch3",
+        "title": "Chapter 3: GST Registration",
+        "pageStart": 4,
+        "pageEnd": 28
+      }
+    ],
+    "imageCount": 40
+  },
+  {
+    "id": "module-3",
+    "number": 3,
+    "title": "Module 3: Invoices under GST",
+    "totalPages": 20,
+    "chapters": [
+      {
+        "id": "ch4",
+        "title": "Chapter 4: Tax Invoice",
+        "pageStart": 4,
+        "pageEnd": 12
+      },
+      {
+        "id": "ch5",
+        "title": "Chapter 5: E-Way Bill",
+        "pageStart": 13,
+        "pageEnd": 20
+      }
+    ],
+    "imageCount": 18
+  },
+  {
+    "id": "module-4",
+    "number": 4,
+    "title": "Module 4: Filings Under GST",
+    "totalPages": 97,
+    "chapters": [
+      {
+        "id": "ch6",
+        "title": "Chapter 6: E-filing of GSTR-1",
+        "pageStart": 4,
+        "pageEnd": 38
+      },
+      {
+        "id": "ch7",
+        "title": "Chapter 7: E-filing of GSTR-2A & 2B",
+        "pageStart": 39,
+        "pageEnd": 52
+      },
+      {
+        "id": "ch8",
+        "title": "Chapter 8: E-filing of GSTR-3B",
+        "pageStart": 53,
+        "pageEnd": 72
+      },
+      {
+        "id": "ch9",
+        "title": "Chapter 9: E-filing of GSTR CMP-08",
+        "pageStart": 73,
+        "pageEnd": 84
+      },
+      {
+        "id": "ch10",
+        "title": "Chapter 10: Payment of Tax",
+        "pageStart": 85,
+        "pageEnd": 97
+      }
+    ],
+    "imageCount": 177
+  }
+]

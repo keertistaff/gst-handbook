@@ -1,0 +1,177 @@
+{
+  "id": "module-3",
+  "number": 3,
+  "title": "Module 3: Invoices under GST",
+  "file": "GST - Module 3 - Invoices under GST.pdf",
+  "totalPages": 20,
+  "chapters": [
+    {
+      "id": "ch4",
+      "title": "Chapter 4: Tax Invoice",
+      "pageStart": 4,
+      "pageEnd": 12
+    },
+    {
+      "id": "ch5",
+      "title": "Chapter 5: E-Way Bill",
+      "pageStart": 13,
+      "pageEnd": 20
+    }
+  ],
+  "pages": [
+    {
+      "page": 1,
+      "text": "<mark>GST  EXECUTIVE</mark>"
+    },
+    {
+      "page": 2,
+      "text": "# _Special Thanks & Compilation Credit_ \n\n#### **VIVEK VM. CPA** \n\n(MBA, M.COM, CFE, GSTP) \n\nBeing a commerce aficionado with dual post-graduation in Finance from reputed universities, he started his career in the academic platform and served as an Assistant Professor at Kannur University. He bagged a Forensic Certificate from the USA, all credit to his smart and passionate style of work. His exemplary passion for finance and accounting soon guided him to the world-renowned and sought-after Professional Accounting  Certificate, CPA from AICPA. He is also an accredited member of the State Board of Accountancy, North Dakota. Aside from all his accolades, he is a seasoned GST Practitioner with a clear-cut vision for the future. \n\nReviewed by \n\n###### 1. CA SARATH \n\nA spirited Chartered Accountancy graduate with an ardent and unceasing interest in the field of commerce. \n\n###### 2. CMA RAHUL CHANDRAN \n\nCost and Management Accounting graduate with unfaltering energy and passion to learn, unlearn and grow."
+    },
+    {
+      "page": 3,
+      "text": "#### **<mark>About this book</mark>** \n\nThe pursuit of continuous learning is a necessity for individuals to excel in the finance industry, particularly consultants and accountants, who desire to acquire and develop their knowledge and skills. India’s tax structure can be complex and overwhelming for many. Understanding the concept of tax and the GST system is crucial for businesses and individuals alike. The purpose of this book is to provide valuable insights into the core concepts of the Goods and Services Tax (GST) and its relevance to the Indian economy. The structure of GST, its applicability, and the dual GST model are only a few of the subjects covered in the book. Moreover, it explores GST's benefits and industry practices. \n\nThis book aims to act as a comprehensive manual that not only imparts essential knowledge but also facilitates the development of practical skills to operate effectively in the field."
+    },
+    {
+      "page": 4,
+      "text": "Module 1 Chapter 1 – Introduction of GST in India Chapter 2 – Concepts and Application of GST \n\nModule 2 \n\nChapter 3 – GST Registration \n\nModule 3 Chapter 4 – Tax Invoice Chapter 5 – E-Way Bill \n\nModule 4 Chapter 6 - E-filing of GSTR-1 Chapter 7 - E-filing of GSTR2A & 2B Chapter 8 - E-filing of GSTR 3B Chapter 9 - E-filing of GSTR CMP 08 Chapter 10 - Payment of tax"
+    },
+    {
+      "page": 5,
+      "text": "DETAILED CONTENT Pg. No \n\n## **CHAPTER 4 - TAX INVOICE** \n\n|4.1|Introduction to Tax Invoice .............................................|4.1|\n|---|---|---|\n|4.2|Types of Invoices ............................................................|4.2|\n|4.3|Introduction to E-Invoicing ..............................................|4.4|\n|4.4|Advantages of E-Invoicing  .............................................|4.4|\n|4.5|Generation of E-Invoice ..................................................|4.5|\n|4.6|Delivery Challan ...............................................................|4.5|\n|4.7|Credit & Debit Notes ........................................................|4.6|\n|4.8|Revised Tax Invoices .......................................................|4.7|\n|4.9|At a Glance ......................................................................|4.8|\n|**CHAPTER 5 - E-W**|**AY BILL**||\n|**(EL**|**ECTRONIC WAYBILL)**||\n|5.1|Introduction to E-Way Bill ..................................................|5.1|\n|5.2|Purpose of E-Way Bill ........................................................|5.1|\n|5.3|Exceptions to E-Way Bill Requirement ............................|5.1|\n|5.4|Registration of E-Way Bill ..................................................|5.2|"
+    },
+    {
+      "page": 6,
+      "text": "GST  EXECUTIVE \n\n## **CHAPTER 4 - TAX INVOICES** \n\n#### **Unit objective** \n\nAfter studying this module, the students shall be able to understand; \n\n- Understand the types of invoices and its applicability. \n\n- Learn the advantages and generation of E-invoices. \n\n- Get to know the applicability and creation of delivery challan, debit and credit notes. \n\n### **4.1 Introduction to Tax invoice** \n\nA tax invoice can be designed as a commercial instrument that is used to identify the parties involved in the trade. An invoice holds a list and description of the goods sold and services supplied and is issued by a supplier of goods/services to a recipient. It also quantifies the items sold, details of the date of shipment, mode of transport, prices or discounts given, and the delivery and payment terms (in case of supply of goods). A tax invoice is generally issued to charge the tax and pass on the input tax credit. \n\nThe various mandatory fields under a GST invoice are as follows: \n\n- Invoice number and date \n\n- Customer name \n\n- Shipping and billing address \n\n- Customer and taxpayer’s GSTIN (if registered) \n\n- Place of supply \n\n- HSN Code / SAC code \n\n- Item details i.e., description, quantity (number), unit (meter, kg etc.), total value \n\n- Taxable value and discounts \n\n- Rate and amount of taxes i.e., CGST/ SGST/ IGST \n\n- Whether GST is payable on reverse charge basis \n\n- Signature of the supplier \n\nIf the recipient is not registered and the value in picture is more than ₹ 50,000 then the invoice should carry: \n\n- Name and address of the recipient \n\n- Address of delivery \n\n- State name and state code \n\n4.1"
+    },
+    {
+      "page": 7,
+      "text": "GST  EXECUTIVE \n\n\n\n\n\n### **4.2 Types of Invoices** \n\n1. Bill of supply \n\nA Bill of Supply is a document that is different from a tax invoice as it does not hold any tax information. This is issued by a GST registered business and is used by composition vendors and businesses dealing with exempted goods. \n\n4.2"
+    },
+    {
+      "page": 8,
+      "text": "GST  EXECUTIVE \n\n\n\n2. Aggregate invoice \n\nIn cases where the buyer is unregistered and the value of multiple invoices is less than ₹ 200, the seller can issue an aggregate or bulk invoice for the multiple invoices on a daily basis. \n\nFor example, you may have issued 3 invoices in a day of ₹ 80, ₹ 90 and ₹ 120. In such a case, you can issue a single invoice, totalling ₹ 290, to be called an aggregate invoice. \n\n3. Reverse charge Invoice \n\nA taxpayer who is liable to pay tax under Reverse Charge Mechanism (RCM) has to issue an invoice for goods and services that is received by them. The receiver shall mention that the tax is paid under RCM, and they must issue a payment voucher while making payment to the supplier. \n\n4. Debit and Credit Note \n\nWhen a tax invoice has a lower tax value in comparison to the original amount, a debit note is issued by the seller. When the amount payable by the buyer towards the seller increases, a debit note comes in handy. \n\n4.3"
+    },
+    {
+      "page": 9,
+      "text": "GST  EXECUTIVE \n\nA credit note is issued by the seller when the value of invoice decreases. A credit note can be used under the following circumstances: \n\n- Tax invoice has a higher taxable value than the original amount. \n\n- Buyer refunds the goods to the supplier. \n\n- Services deemed to be deficient. \n\n### **4.3 Introduction to E- invoicing** \n\nThe concept of E-invoicing has been introduced for reporting business to business (B2B) invoices to the GST system for a certain notified category of taxpayers. All registered businesses with an aggregate turnover (based on PAN) in any proceeding financial year greater than 50 crores will be required to issue e-invoices. E-invoicing is not voluntary and only a notified person can report invoices on an Invoice Registration Person. \n\n### **4.4 Advantages of e-invoicing** \n\nE-invoicing has various advantages to a business, and one such advantage is auto reporting of invoices into GST return and auto generation of e-waybill. Under e-invoicing, business must report the B2B invoice data only once in the e-invoice form and the same is reported in multiple forms (GSTR1, e-way bill etc.). E-way bills can be autogenerated using invoice data. GSTR1 can also be auto-populated with the e-invoice data. \n\n\n\n4.4"
+    },
+    {
+      "page": 10,
+      "text": "GST  EXECUTIVE \n\n##### **4.5 Generation of E-invoice** \n\n- The taxpayer creates the invoice using their own ERP/accounting / bill system or manual system. \n\n- The taxpayer uploads or reports the invoice details to the Invoice Registration Portal (IRP). The taxpayers’ supply transaction is thus registered on IRP. \n\n- The IRP will then validate and generate an IRN and authenticate the file for any duplicate against the GST central registry. The IRN will be the E-unique invoice’s identifier for the entire financial year. \n\n- After successful verification, the invoice will be updated with IRP’s digital signature on the invoice data, and a QR code shall be added to the JSON file, \n\n- The uploaded information will be transmitted with the E-way bill and GST systems, where it will be used to auto populate GST annexures. \n\n- The portal will return to the seller the digitally signed JSON, along with the IRN and QR code. The invoice would also be mailed to the buyer’s registered email address. \n\n\n\n##### **4.6 Delivery challan** \n\nA Delivery Challan is a formal document that is created when goods are transported from one location to another, which might or might not result in sales. \n\nExample: When  goods are transferred from the headquarters  to its branches. Delivery Challans are sent with consignments of goods to record the shipment details. \n\n- Delivery challan in Triplicate \n\nThe delivery challan can be prepared in TRIPLICATE, in the event of supply of goods, in the following manner: \n\n\n\n4.5"
+    },
+    {
+      "page": 11,
+      "text": "GST  EXECUTIVE \n\n- Declaration in E-way bill \n\nWhere goods are transported on a delivery challan rather than on invoice, the same must be stated in the e-way bill. \n\n- Tax invoice to be issued after delivery of goods \n\nWhere the goods are transported for the purpose of supply to the recipient, but a tax invoice cannot be issued at the time of transfer of goods for the purpose of supply, the supplier issues a tax invoice after the goods are delivered. \n\n- Goods transported in SKD/CKD condition or in batches or lots \n\nSKD/CKD are referred to as Semi Knocked Down (SKD) or Completely Knocked Down (CKD) goods. In  such cases, the goods are  supplied under the cover of a single invoice, but  multiple vehicles  are used for the transport. \n\n##### **4.7 Credit and Debit notes** \n\n- **i. Debit Notes** \n\nA debit note, often referred to as a debit memo, is a document that the seller sends to the buyer to alert them of their current debt responsibility. It may also be sent by the buyer to the seller as a proof when returning unacceptable goods. \n\nExample: \n\nKapoor Pvt Ltd supplied goods worth ₹ 20,000 units @ ₹ 20 per unit to M/s Sharma Traders on April 1, 2017. The GST charged on such a supply is 5% which is ₹ 20,000. However, on selling the goods, Kapoor Pvt Ltd realizes that the price charged for each unit was Rs 22 and not ₹ 20. As is evident, the amount charged in the tax invoice was less than the amount of goods delivered. Thus, Kapoor Pvt Ltd issued a debit note in favour of M/s Sharma Ltd. \n\nSuch a debit note would notify M/s Sharma traders that a debit needs to be made in their own account. In other words, debit note is an intimation to M/s Sharma Traders that it still owes Kapoor Pvt Ltd an amount equal to ₹ 40,000 ( ₹ 2 x 20,000) and GST of ₹ 2000 under original invoice. \n\n- When are Debit notes issued? \n\nWhen a registered person supplies goods or services, they need to issue a tax invoice. Uponissuing the tax invoice, a registered supplier is required to issue a debit note to the recipient, in the event of any of the following cases: \n\n- The supplier charges value of goods or services in the invoice that is less than the actual value of such goods or services. \n\n- Supplier charges a lower rate of tax than what is applicable on goods or services supplied. \n\n- The quantity of goods or services received by the recipient is more than what has been declared in the original tax invoice. \n\n   - » The buyer returns any purchases after buying. \n\n   - » When the buyer receives any incomplete or damaged goods. \n\n   - » When the customer believes that the seller overcharged him and agreed to a discount. \n\n4.6"
+    },
+    {
+      "page": 12,
+      "text": "GST  EXECUTIVE \n\n###### **ii. Credit notes** \n\nA credit note is a written confirmation that the buyer has received the credit for the appropriate amount and that the seller has registered the products as return. \n\nFor example, this could be done for a return of goods, where the value of the goods is credited back to the customer’s account. \n\n- When are credit notes issued? \n\n   - The taxable value declared by the supplier in the tax invoice is more than the actual taxable value of the goods or services supplied. For example, if a product originally priced at ₹ 100 is incorrectly invoiced at ₹ 150, then a credit note of ₹ 50 will be issued by the vendor. \n\n   - The tax rate furnished in the tax invoice is more than the actual tax rate levied on the supply. For example, if a product categorised under the 12% GST slab is invoiced at 18%, then a credit note should be issued. \n\n   - The quantity of the supply received by the customer is less than the quantity declared in the tax invoice. \n\n   - The goods or services supplied are of inferior quality or are found unsatisfactory by the recipient, leading to a partial or complete reimbursement. \n\n   - The recipient returns the goods or services to the supplier. \n\n   - A registered person may issue a consolidated credit note for multiple invoices issued throughout a financial year. \n\n##### **4.8 Revised Tax Invoices** \n\nWhile doing a business, it is typical that a GST invoice be issued incorrectly, or a few invoices may need modification.  The invoices must be corrected in these circumstances and reported in the monthly returns. This process is called the rectification of invoices. Rectification of tax invoices can take various different forms, and it may produce revised invoice or a supplementary invoice. \n\n- When to issue a revised invoice under GST \n\nAll taxable dealers will be required to apply for provisional registration under the GST and complete all requirements to receive a certificate of permanent registration. After obtaining the GST registration certificate, the taxpayer will need to  provide amended invoices for all the invoices issued between the period of the; \n\n- Date of implementation of GST \n\n- Date of issue of registration certificate \n\nThe revised invoice will have to be issued within one month from the date of issue of the registration certificate. \n\n**Format of revised invoices** \n\n- Nature of the invoice, i.e., “Revised Invoice” or “Supplementary Invoice”, indicated prominently. \n\n- Name, address and GSTIN of the supplier. \n\n- An alpha-numeric serial number for the invoice, specific to the financial year. \n\n4.7"
+    },
+    {
+      "page": 13,
+      "text": "GST  EXECUTIVE \n\n- Invoice date. \n\n- Name, address and GSTIN (if registered) of the recipient. \n\n- Name, address of the delivery place, and its respective state and code (if the recipient is an unregistered person). \n\n- The original invoice serial number and date against which the revised/ supplementary invoice is being issued. \n\n- A signature or digital signature of the supplier or authorised person. \n\n##### **4.9 At a glance** \n\n- **Who can raise the tax invoices** \n\n\n\n<!-- Start of picture text -->\nSupplying Taxable<br>goods or Services<br>Registered Person<br>Receiving taxable goods or<br>services from unregistred<br>supplier<br>� Time limit for issuance of invoices<br>Taxable Supply<br>Goods Services<br><!-- End of picture text -->\n\n- **Workflow of e-invoice** \n\n\n\n<!-- Start of picture text -->\nWithin 30 days<br>Insurance,<br>Services<br>from supply of<br>Banking 45days<br>services<br><!-- End of picture text -->\n\n4.8"
+    },
+    {
+      "page": 14,
+      "text": "GST  EXECUTIVE \n\n\n\n<!-- Start of picture text -->\nGoods<br>Involving  No<br>Sale or return<br>movement movement<br>supplies<br>of goods of goods<br>At the time  At the time  Before or at the time<br>of removal of delivery of supply or within<br>6 months<br>Taxpavers create GST<br>invoices on their own Taxpavers upload the<br>Accounting/Billine/ERP e-invoice scheme IRP generates IRN<br>systems as per to IRP<br>e-Invoice scheme<br>Supplier shares the IRP digitally signs the<br>IRP returns<br>e-invoice with e-invoicing and<br>e-invoice to supplier<br>receiver add QR code<br><!-- End of picture text -->\n\n4.9"
+    },
+    {
+      "page": 15,
+      "text": "GST  EXECUTIVE \n\n## **CHAPTER 5 - E-WAY BILL (ELECTRONIC WAYBILL)** \n\n#### **Unit objective** \n\nAfter studying this module, the students shall be able to understand; \n\n- Applicability of E-way bill \n\n- Understand requirement and purpose of E-way bill \n\n- Identify the method of  E-way bill registration \n\n- Applicability of E-way bill in unregistered individuals \n\n##### **5.1 Introduction** \n\nE-way bill can be described as an electronic document generated on the GST portal in order to evidence movement of goods such as shipping or transporting. Under the GST regime, the E-way bill has two classifications, comprising of Part A & Part B. Part A, here, holds details of the GSTIN of recipients, the place of delivery (PIN Code), invoice or challan number and date, value of goods, HSN code, transport document number (Goods Receipt Number, or Railway Receipt Number, or Airway Bill Number, or Bill of Lading Number) and reasons for transportation. \n\n\n\nMeanwhile, Part B holds transporter detail such as the vehicle number, which helps in the generation of  the E-way bill. According to the  Rule 138  of  the CGST Act, 2017, every  registered  person responsible for the movement of goods which may or may not account to supply, worth a consignment value of more than ₹ 50000/is required to furnish the information in part A of E-way bill, as mentioned above. \n\n##### **5.2 Purpose of E-way Bill** \n\nE-way bill enables tracking of movement of goods. It also ensures that the goods being transported follow GST law. It is an effective tool to check for tax evasion, as movement of goods are being recorded and maintained. \n\n\n\n##### **5.3 Exceptions to e-way bill requirement** \n\n- Goods being transported by a non-motorised conveyance. \n\n- Goods being transported from the port, airport, air cargo complex and land customs station to an inland container depot or a container freight station for clearance by Customs. \n\n5.1"
+    },
+    {
+      "page": 16,
+      "text": "GST  EXECUTIVE \n\n- Consignment value less than ₹ 50,000/-. \n\n- Goods transported are alcoholic liquor for human consumption, petroleum crude, high-speed diesel, petrol, natural gas or aviation turbine fuel. \n\n- Goods other than de-oiled cake being transported; \n\n   - Curd, lassi, buttermilk \n\n   - Fresh milk \n\n   - Vegetables \n\n   - Fruits \n\n   - Live animals, plants and trees \n\n   - Meat \n\n- E-way Bill is optional for goods of value less than ₹ 50,000 (except in cases of mandatory  e-way bill provisions like the movement of Handicraft goods and movement of goods for Interstate Job work). \n\n##### **5.4 Registration of E-way bill** \n\n\n\n<!-- Start of picture text -->\nRegistered Person<br>E-way bill<br>Un-registered Person<br><!-- End of picture text -->\n\nE-way bill registration procedure for Registered Person \n\n1. Log on to https://ewaybill.nic.in \n\n2. Click on E-way Bill Registration. \n\n3. Enter GSTIN and click on Go. \n\n4. Once the request is submitted, you will be redirected to the e-way bill registration form. \n\n5. In the form, Applicant Name, Trade Name, Address and Mobile Number are auto-populated. \n\n\n\n5.2"
+    },
+    {
+      "page": 17,
+      "text": "GST  EXECUTIVE \n\n6. Click on Send OTP. You will now receive an OTP on the registered mobile number. \n\n7. Once you receive the OTP, enter the OTP  and click on Verify OTP. This action will validate OTP and verify the entered information. \n\n8. Provide a User ID or User Name, in order to operate the newly created account on the e-way bill portal. \n\n9. Once a request is submitted, the e-way bill portal will validate if the given User ID or User Name already exists. \n\n10. Once the e-way bill approves the User ID or User Name, it would ask to provide a Password. \n\n11. Once the User ID / User Name and Password are validated and approved; the final registration request is submitted. \n\n12. If all is fine, the system will create User ID / User Name and Password and complete registration process with the e-way bill portal. \n\n**E-way bill registration online for unregistered businesses** \n\nSince an unregistered taxpayer does not have a GSTIN, to register for e-way bill on the portal, they would need to use an alternative method of e-way bill registration, i.e., utilizing the business details. \n\nSteps for unregistered transporters to register for e-way bill are as follows: \n\nStep 1 – Keep the business details handy and Log on to https://ewaybill.nic.in Step 2 – Click on Enrolment for Transporters. \n\nStep 3 – This will launch an e-way bill registration form. The form contains some mandatory fields will be (marked as *) and some non-mandatory fields. You will be requested to fill in the following business details in the form: \n\n\n\n- Select your state* (Select from a drop-down menu) \n\n- Legal Name* (Enter Name as per PAN) \n\n- Trade Name, if any \n\n- PAN* – After entering the PAN No., click on Validate. You will now receive an option to fill in the remaining details \n\n- Type of Enrolment* (Warehouse/Depot, Go down, Cold Storage OR Transport Services) \n\n5.2"
+    },
+    {
+      "page": 18,
+      "text": "GST  EXECUTIVE \n\n- Constitution of Business* (Foreign Company, Partnership, Proprietorship, Public Limited,VPrivate Limited, Unlimited or  Others) \n\n- Particulars of Principal Place of Business \n\n\n\n**Particulars of Principal Place of Business and Contact Information** \n\n- Building No. / Flat No.* \n\n- Floor No.* \n\n- Name of the Premises / Building* \n\n- Road / Street* \n\n- City / Town / Locality / Village* \n\n- Taluka / Block* \n\n- District* \n\n- PIN Code* \n\n- State* \n\n- Latitude \n\n- Longitude \n\n\n\n5.4"
+    },
+    {
+      "page": 19,
+      "text": "GST  EXECUTIVE \n\n- Email Address \n\n- Telephone Number with STD \n\n- Fax Number with STD \n\n- Nature of Premises (Own, Leased, Rented, Consent, Shared or Others) \n\nNote: The email address and mobile number will be used for authentication in the e-way bill portal \n\n###### **Aadhar card information** \n\n- Do you have Aadhar number of Proprietor or Main person of Company / Firm (Select Yes or No) \n\n- If “Yes” is selected, tick a box authorising the GSTN to obtain one’s details from UIDAI for the purpose of verification \n\n- Aadhar No* (Prop. or Main person of Company / Firm) \n\n- Name*(As per Aadhar) \n\n- Mobile No* (As per Aadhar) \n\n- Click on Verify Detail & Send OTP button, post which an OTP will be sent to the registered mobile number \n\n- Verify OTP Received from Aadhar* \n\n- Once the OTP is entered, click on Verify OTP button, which will complete the Aadhar verification process \n\n\n\n###### **Upload** \n\n- Address Proof – Click Choose file to browse and then click Upload \n\n- ID Proof – Click on Choose file to browse and then click Upload \n\nNote – There is no specific file format or file size specified, however either PDF or JPEG can be uploaded. \n\n5.5"
+    },
+    {
+      "page": 20,
+      "text": "GST  EXECUTIVE \n\nLogin Details \n\n- User Name* \n\n- Password* \n\n- Confirm Password* \n\n###### **Verification** \n\nTick the checkbox confirming that information provided are correct Click on Save \n\n- Step 4 – Once you submit the form, the e-way bill portal will generate a 15-digit Transporter ID or TRANS ID along with the user credentials, thus completing the process of e-way bill registration. \n\n- Step 5 – Now the transporter can provide this 15-digit Transporter ID to their clients to include in their e-way bill. The transporter will now be able to access the same on the e-way bill portal and enter vehicle number for movement of the consignment. \n\n5.6"
+    }
+  ],
+  "images": [
+    {
+      "page": 1,
+      "filename": "mod3_p1_img1.png"
+    },
+    {
+      "page": 2,
+      "filename": "mod3_p2_img1.png"
+    },
+    {
+      "page": 4,
+      "filename": "mod3_p4_img1.png"
+    },
+    {
+      "page": 4,
+      "filename": "mod3_p4_img2.png"
+    },
+    {
+      "page": 5,
+      "filename": "mod3_p5_img1.png"
+    },
+    {
+      "page": 7,
+      "filename": "mod3_p7_img1.jpeg"
+    },
+    {
+      "page": 7,
+      "filename": "mod3_p7_img2.jpeg"
+    },
+    {
+      "page": 8,
+      "filename": "mod3_p8_img1.png"
+    },
+    {
+      "page": 9,
+      "filename": "mod3_p9_img1.jpeg"
+    },
+    {
+      "page": 10,
+      "filename": "mod3_p10_img1.jpeg"
+    },
+    {
+      "page": 10,
+      "filename": "mod3_p10_img2.jpeg"
+    },
+    {
+      "page": 15,
+      "filename": "mod3_p15_img1.jpeg"
+    },
+    {
+      "page": 15,
+      "filename": "mod3_p15_img2.png"
+    },
+    {
+      "page": 16,
+      "filename": "mod3_p16_img1.jpeg"
+    },
+    {
+      "page": 17,
+      "filename": "mod3_p17_img1.png"
+    },
+    {
+      "page": 18,
+      "filename": "mod3_p18_img1.jpeg"
+    },
+    {
+      "page": 18,
+      "filename": "mod3_p18_img2.png"
+    },
+    {
+      "page": 19,
+      "filename": "mod3_p19_img1.png"
+    }
+  ]
+}

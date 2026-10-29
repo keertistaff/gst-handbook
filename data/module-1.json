@@ -1,0 +1,289 @@
+{
+  "id": "module-1",
+  "number": 1,
+  "title": "Module 1: Introduction to GST and its Applications",
+  "file": "GST - Module 1 - Introduction to GST and its applications.pdf",
+  "totalPages": 30,
+  "chapters": [
+    {
+      "id": "ch1",
+      "title": "Chapter 1: Introduction of GST in India",
+      "pageStart": 4,
+      "pageEnd": 13
+    },
+    {
+      "id": "ch2",
+      "title": "Chapter 2: Concepts and Application of GST",
+      "pageStart": 14,
+      "pageEnd": 30
+    }
+  ],
+  "pages": [
+    {
+      "page": 1,
+      "text": "<mark>GST EXECUTIVE</mark>"
+    },
+    {
+      "page": 2,
+      "text": "# _Special Thanks & Compilation Credit_ \n\n#### **VIVEK VM. CPA** \n\n(MBA, M.COM, CFE, GSTP) \n\nBeing a commerce aficionado with dual post-graduation in Finance from reputed universities, he started his career in the academic platform and served as an Assistant Professor at Kannur University. He bagged a Forensic Certificate from the USA, all credit to his smart and passionate style of work. His exemplary passion for finance and accounting soon guided him to the world-renowned and sought-after Professional Accounting  Certificate, CPA from AICPA. He is also an accredited member of the State Board of Accountancy, North Dakota. Aside from all his accolades, he is a seasoned GST Practitioner with a clear-cut vision for the future. \n\n###### Reviewed by \n\n###### 1. CA SARATH \n\nA spirited Chartered Accountancy graduate with an ardent and unceasing interest in the field of commerce. \n\n###### 2. CMA RAHUL CHANDRAN \n\nCost and Management Accounting graduate with unfaltering energy and passion to learn, unlearn and grow."
+    },
+    {
+      "page": 3,
+      "text": "#### **<mark>About this book</mark>** \n\nThe pursuit of continuous learning is a necessity for individuals to excel in the finance industry, particularly consultants and accountants, who desire to acquire and develop their knowledge and skills. India’s tax structure can be complex and overwhelming for many. Understanding the concept of tax and the GST system is crucial for businesses and individuals alike. The purpose of this book is to provide valuable insights into the core concepts of the Goods and Services Tax (GST) and its relevance to the Indian economy. The structure of GST, its applicability, and the dual GST model are only a few of the subjects covered in the book. Moreover, it explores GST's benefits and industry practices. \n\nThis book aims to act as a comprehensive manual that not only imparts essential knowledge but also facilitates the development of practical skills to operate effectively in the field."
+    },
+    {
+      "page": 4,
+      "text": "Module 1 Chapter 1 – Introduction of GST in India Chapter 2 – Concepts and Application of GST Module 2 Chapter 3 – GST Registration Module 3 Chapter 4 – Tax Invoice Chapter 5 – E-Way Bill Module 4 Chapter 6 - E-filing of GSTR-1 Chapter 7 - E-filing of GSTR2A & 2B Chapter 8 - E-filing of GSTR 3B Chapter 9 - E-filing of GSTR CMP 08 Chapter 10 - Payment of tax"
+    },
+    {
+      "page": 5,
+      "text": "DETAILED CONTENT \n\nPg. No \n\n## CHAPTER 1 - INTRODUCTION OF GST IN INDIA \n\n|1.1|History of GST ..................................................................|1.1|\n|---|---|---|\n|1.2|Overview of GST ..............................................................|1.2|\n|1.3|What is GST .....................................................................|1.3|\n|1.4|Advantages of GST  .........................................................|1.4|\n|1.5|Tax Structure under GST .................................................|1.4|\n|1.6|Tax Subsumed under GST................................................|1.5|\n|1.7|Taxes not likely to be Subsumed under GST  ................|1.6|\n|1.8|Goods not covered under GST ........................................|1.6|\n|1.9|GST Registration ..............................................................|1.6|\n|1.10|Composition Scheme ......................................................|1.7|\n\n\n\n## CHAPTER 2 - CONCEPTS AND APPLICATION OF GST \n\n|2.1|Introduction to Supply Under GST ..................................|<br>2.1|\n|---|---|---|\n|2.2|Definitions ........................................................................|i<br>2.2|\n|2.3|Meaning of Supply ...........................................................|<br>2.3|\n|2.4|Types of Supply ...............................................................|<br>2.3|\n|2.5|Composite and mixed Supply .........................................|<br>2.4|\n|2.6|Supply without Consideration under GST ......................|<br>2.4|\n|2.7|Non-Supplies under GST .................................................|<br>2.5|\n|2.8|Introduction to Charge of GST ........................................|<br>2.6|\n|2.9|Applicability of GST in territorial water ..........................|<br>2.6|\n|2.10|Reverse Charge Mechanism ...........................................|<br>2.6|\n|2.11|Rates of GST ....................................................................|<br>2.7|\n|2.12|Exemption from GST .......................................................|<br>2.7|\n|2.13|Taxable Event in GST .......................................................|<br>2.8|\n|2.14|Introduction to Time Value and Place of Supply ...........|<br>2.9|\n|2.15|Time of Supply .................................................................|<br>2.9|\n|2.16|Value of Supply ................................................................|<br>2.10|\n|2.17|Place of Supply ................................................................|<br>2.13|\n|2.18|What is ITC under GST ....................................................|<br>2.13|\n|2.19|Feature of ITC ..................................................................|<br>2.14|\n|2.20|Eligibility for taking ITC ...................................................|<br>2.14|\n|2.21|Apportionment of Credit & Blocked Credit .....................|<br>2.14|\n|2.22|ITC for Sales Promotional Schemes ..............................|<br>2.14|\n|2.23|Credit in Special Circumstances .....................................|<br>2.15|\n|2.24|How ITC is utilized ...........................................................|<br>2.15|\n|2.25|ITC at a Glance .................................................................|<br>2.17|"
+    },
+    {
+      "page": 6,
+      "text": "GST EXECUTIVE \n\n## **CHAPTER 1 - INTRODUCTION OF GST IN INDIA** \n\n#### **Unit objective** \n\n\n\n\n\nAfter studying this module, the students shall be able to understand ; \n\n- Learn about the Tax structure In India \n\n- Identify the applicability of GST \n\n- Various categories of GST registration \n\n### **1.1 History of GST** \n\nThe government of India provides various facilities to people, like roads and transportation, hospitals, education and so on. For providing all these facilities, the government need funds. These funds are raised by the government through tax. That means tax is an important revenue source for the government. \n\n\n\n##### **1.1.1 Direct Tax** \n\nThe Tax collected by the government directly from the taxpayers, is called Direct Tax, which means that there are no intermediaries between the taxpayer and the government. \n\n1.1"
+    },
+    {
+      "page": 7,
+      "text": "GST EXECUTIVE \n\nExample : \n\n- Income tax - The term \"income tax\" refers to a type of tax that the government impose on income generated by businesses and individuals within their jurisdiction. \n\n- Corporate tax - A corporate tax, also called corporation tax or company tax, is a direct tax imposed on the income or capital of corporations or analogous legal entities. \n\n##### **1.1.2 Indirect Tax** \n\nThe Tax collected by the government indirectly from taxpayers is called Indirect Tax, which means that there is an intermediary between the taxpayer and the government. This intermediary collects the tax from the taxpayers on behalf of the government. Example : \n\n- GST - Goods and Services Tax is an indirect tax used in India on the supply of goods and services. \n\n- Customs - Customs duty refers to the tax imposed on goods when they are transported across international borders. \n\n##### **1.1.3  Features of Indirect Tax** \n\n- Tax is an important revenue source for the government \n\n- Clear shifting of tax burden \n\n- Promotes social welfare \n\n- It directly affects the price of commodities and services which leads to an inflationary trend \n\n### **1.2 Overview of GST** \n\nThe earlier system of indirect tax had a multiplicity of taxes levied by the central and state government. This has led to a complex conflict in principles in the indirect tax structure, adding to the multiple compliance and administrative costs. There was no uniformity in tax rates and structure across states. There was cascading of taxes due to ‘tax-on-tax’ (Double Taxation). \n\nOn 1st July 2017, the Government of India implemented GST in India after abolishing certain indirect taxes for avoiding complexation of the indirect tax structure. \n\n**CONSTITUTION [101ST AMENDMENT] ACT, 2016** \n\nConstitution (122nd Amendment) Bill, 2014 received the assent of the President of India on 8th September 2016 and became the Constitution (101st Amendment) Act, 2016, which paved the way for the introduction of GST in India. \n\nConstitution (101st Amendment) Act, 2016 was enacted on 8th September 2016, with the following significant amendments: \n\n- Concurrent powers on Parliament and State Legislatures to make laws governing goods and services. It means there will be dual control of State and Central authorities for all assesses. \n\n1.2"
+    },
+    {
+      "page": 8,
+      "text": "GST EXECUTIVE \n\n- As per Article 246A, the power to levy GST has been given to the Parliament as well as to the legislature of every State. \n\n   - CGST – enacted by the Central Government of India \n\n   - IGST – enacted by the Central Government of India \n\n   - SGST – enacted by the respective State Government \n\n   - UTGST – enacted by the Central Government of India \n\n- IGST will be apportioned between the Centre and the State in the manner provided by Parliament by law as per the recommendation of the GST Council. \n\n- GST will be levied on all supplies of goods and services except alcoholic liquor for human consumption. \n\n- The explanation to Article 269A of the Constitution of India signifies that the import of goods or services will be deemed as the supply of goods or services, or both in the case of inter-State trade or commerce. In case of import of goods IGST will be levied along with the Basic Customs Duty, which means that IGST will be levied in the replacement of CVD + SPL. In case of import of services, IGST alone will be levied. \n\n- Principles for determining when and where a supply takes place during inter-state trade or commerce shall be decided by the Parliament. \n\n- The power to levy Central Excise Duty on goods manufactured or produced in India is available or applicable for the following products: \n\n   - Petroleum crude \n\n   - High-speed diesel \n\n   - Motor spirit (commonly known as petrol) \n\n   - Natural gas Aviation turbine fuel \n\n   - Tobacco and tobacco products. \n\n- As per the definition given in article 366(12A), GST covers all goods except alcoholic liquor for human consumption. It means no GST can be levied on alcoholic liquor for human consumption. The present system of State Excise Duty and sales tax on alcoholic liquor for human consumption will continue. \n\n   - As a result, the following bills became an Act on 12th April 2017: \n\n   - Central Goods and Services Tax Bill, 2017 \n\n   - Integrated Goods and Services Tax Bill, 2017 \n\n   - Union Territory Goods and Services Tax Bill, 2017 \n\n   - Goods and Services Tax (Compensation to States) Bill, 2017 \n\n- The Central Government notified on 1st July 2017, as the implementation date of the much-awaited indirect tax reform in India, i.e., Goods and Services Tax (GST). Accordingly, Goods and Services Tax (GST) has been implemented in India w.e.f. 1st July 2017. \n\n### **1.3 What is GST** \n\nThe Goods and Services Tax (GST) is an indirect federal sales tax that is applied to the cost of certain goods and services. The business adds the GST to the price of the product, and the customer purchasing the product shall pay the sales price inclusive of \n\n1.3"
+    },
+    {
+      "page": 9,
+      "text": "GST EXECUTIVE \n\nthe GST. The GST portion is collected by the business or seller and is then forwarded to the government. \n\nGST is value added tax levied on the manufacture, sale and consumption of goods and services. It is a destination-based tax on supply of goods and service. Levied at all stages, right from manufacturing till the final consumption with credit of tax paid on previous stages available as set off. \n\n\n\n### **1.4 Advantages of GST** \n\n- One Nation One Tax \n\n- Reduced Tax evasion and corruption free tax administration \n\n- Removal of double taxation (cascading effect) system \n\n- Single and transparent tax proportionate to the value of goods and services \n\n- Increased Exemption limit for small traders or service providers \n\n### **1.5 Tax Structure under GST** \n\n|CGST|�<br>Stands for Central GST<br>�<br>Tax collected by Central Government<br>�<br>Applicable on supplies within the state|\n|---|---|\n|SGST|�<br>Stands for State GST<br>�<br>Tax collected by State Government<br>�<br>Applicable on supplies within the state|\n||�<br>Stands for Union Territory GST|\n|UTGST|�<br>Tax collected by Union Territory<br>�<br>Applicable on supplies within the Union Territory|\n|IGST|�<br>Stands for Integrated GST<br>�<br>Tax collected is shared between Centre and State<br>�<br>Applicable on interstate and import transactions|\n\n\n\n1.4"
+    },
+    {
+      "page": 10,
+      "text": "GST EXECUTIVE \n\n###### **Concept of Inter-state and Intra-state Transaction** \n\nThe term “Inter-State Supply of Products” refers to a supply of goods from one state to the other, that is the supplier and the receiver will be in two different states or union territories. \n\nOn the other hand, Intra-State delivery of products, refers to the supply or delivery of goods to a location within the state or union as the supplier. \n\nWhen the supply is made within a state, which makes it an intra-state supply, then SGST and CGST are applied. When the supply is made within a Union Territory, then UTGST and CGST are applied. When supply is made between States and/or Union Territories, then IGST is applied. \n\n\n\n### **1.6 Taxes Subsumed under GST** \n\n\n\n1.5"
+    },
+    {
+      "page": 11,
+      "text": "GST EXECUTIVE \n\n### **1.7 Taxes not likely to be subsumed under GST** \n\n|Central Taxes:|State Taxes:|\n|---|---|\n|Customs Duty|Road & Passenger Tax|\n|Other Customs Duty like anti-dumping duty, safeguard duty etc.,|Toll Tax|\n|Exort Dut|PropertyTax|\n|p y|ElectricityDuty|\n||Stamp Duty &<br>Registration Fees|\n\n\n\n### **1.8 Goods not covered Under GST** \n\n- Petroleum Products \n\n   - » Petrol \n\n   - » Diesel \n\n   - » Petroleum Crude \n\n   - » Aviation fuel \n\n   - » Natural Gas \n\n- Alcohol for Human Consumption \n\n- Power Sector \n\n### **1.9 GST Registration** \n\nEvery supplier of goods and/or services is required to obtain registration in the state or union territory from where they make the taxable supply if their turnover exceeds the threshold limit during the financial year. \n\nFollowing are the three categories a taxable person is required to register under GST. \n\n###### **1. Crossing of threshold limit of aggregate turnover** \n\n- A business whose aggregate turnover in a financial year exceeds \n\n- Rs 40 Lakhs for goods \n\n- Rs 20 Lakhs for services \n\nare mandatory to register under the GST \n\n###### **2. Compulsory registration** \n\n- A certain category of people are required to mandatorily register under GST, \n\n- Whether the business is engaged in interstate supply of goods or services \n\n- Casual taxable person \n\n- Non-resident taxable person \n\n- People required to deduct TDS under GST \n\n- People required to deduct TCS under GST \n\n- Every e-commerce operator providing a platform for suppliers to make supply through it. \n\n1.6"
+    },
+    {
+      "page": 12,
+      "text": "GST EXECUTIVE \n\n   - Online Service Providers providing service from outside India to a non-registered person in India. \n\n**3. Voluntary Registration** \n\nVoluntary Registration provides an option to take the GST registration even though they are not liable for registration. \n\n### **1.10 Composition scheme** \n\nGST composition scheme is a tax-paying mechanism offered to small businesses. Compared to regular GST filing, the composite scheme offers two main benefits \n\n- Reduced paperwork and compliance \n\n- Lower tax liability. \n\nUpon registering for the composition scheme under GST, you are liable to pay tax at a fixed rate of 1% to 6% of your turnover. \n\n\n\n1.7"
+    },
+    {
+      "page": 13,
+      "text": "GST EXECUTIVE \n\n## **CHAPTER  2 - CONCEPT AND APPLICATION OF GST** \n\n#### **Unit objective** \n\n\n\n\n\nAfter studying this module, the students shall be able to understand; \n\n- Describe law and applicability of supply under GST \n\n- Learn about applicability and rates of GST \n\n- Understand the concept of taxable and exempt supply \n\n- Understand Time of supply, value of supply, place of supply under various circumstances \n\n- Identify the concept and applicability of ITC \n\n### **2.1 Introduction to Supply under GST** \n\nIn the GST system, a taxable event is called a Supply. For an event to be considered as a supply by the government, it should have the following characteristics. \n\n- Supply should be of goods or services. \n\n- Supply should be taxable. \n\n- Supply should be made by a taxable person. \n\n- Supply should be made within a taxable territory. \n\n- Supply should be made in exchange for cash or reward (consideration). \n\n- Supply should be made during the business or in the interest of growing a business. \n\n###### Examples ; \n\nWhen a transaction takes place, if there is a transfer of title of goods, then it is considered as supply of goods. For example, when you buy a pen from a retailer, the ownership of the pen is transferred from the retailer to you, the customer. \n\n\n\nThe constitution defines “Goods and Services Tax” as any tax on supply of goods, or services, or both, while there is an exception for taxes on the supply of alcoholic liquor for human consumption. \n\n2.1"
+    },
+    {
+      "page": 14,
+      "text": "GST EXECUTIVE \n\n\n\n### **2.2 Definitions** \n\n- Goods: Goods can be defined as every or any kind of movable property other than money and security, but it includes actionable claims, growing crops, grass, and things attached to or forming a part of the land which are agreed to be severed before supply or under a contract of supply. \n\n- Principal: A principal is a person on whose behalf an agent carries on the business of supply or receipt of goods and services. \n\n- Business: Business is any trade, commerce, manufacture, profession, vocation, adventure, wager, or any other similar activity, whether or not it is for a pecuniary benefit; any activity or transaction in connection with or incidental or ancillary to the above. \n\n- Manufacture: means processing of raw material or inputs in any manner that results in the emergence of a new product having a distinct name, character and use and the term “manufacturer” shall be construed accordingly. \n\n- Money:  means the Indian legal tender or any foreign currency, cheque, promissory note, bill of exchange, letter of credit, draft, pay order, travellers cheque, money order, postal or electronic remittance or any other instrument recognized by the Reserve Bank of India when  used  as  a  consideration  to settle an obligation or exchange with Indian legal tender of another denomination but shall not include any currency that is held for its numismatic value. \n\n- Taxable Supply:  means a supply of goods or services or both which is leviable to tax under this Act. \n\n- Taxable territory: means the territory to which the provisions of this Act Apply. \n\n- Services: means anything other than goods, money, and securities but includes activities relating to the use of money or its conversion by cash or by any other mode, from one form, currency, or denomination to another form, currency, or denomination for which a separate consideration is charged. \n\n2.2"
+    },
+    {
+      "page": 15,
+      "text": "GST EXECUTIVE \n\n### **2.3 Meaning of Supply** \n\nSupply in simple words can be described as the amount of flow, or distribution of materials, or goods and services that can be provided by one business to the other or from a business to a consumer. The GST Act is only applicable to supply of goods and services when it is made for furtherance of business. Supply of money or security does not attract the GST law. \n\n### **2.4 Types of Supply** \n\n###### a. Exempted Supply \n\nExempted supply means the supply of goods or services or both which attract nil rate of tax, or which are specifically exempt from GST through government notification and includes non-taxable supply. Thus, it is the supply of goods or services or both that do not attract GST. For example, live animals, non-packed fruits and so on… \n\n###### b. Zero Rated Supply \n\nAs per Integrated Goods and Service Tax Act, zero-rated supplies mean : - Export of goods or services or both; or Supply of goods or services or both to a Special Economic Zone developer or a Special Economic Zone unit. \n\nFor example, export of mobile applications to Australia. By zero rating, it is meant that the entire supply chain of a particular zero-rated supply is tax-free. \n\n- c. Nil Rated Supply \n\nSupply of goods or services or both on which a 0% GST rate is applicable is called NIL rated supply. Schedule 1 of the GST act contains the goods which are nil-rated supply. \n\nFor example, cereals, fresh fruits, and vegetables, salt, natural honey, milk, human blood etc. No input tax credit of inputs and/or input services used in providing nil \n\n\n\nrated supply is available. In other words, if any GST is paid on the goods or services or both used in providing nil rated supply then such GST credit is not available to the registered dealer. \n\n**GST is not leviable at the time of donation or gift to charity** \n\n2.3"
+    },
+    {
+      "page": 16,
+      "text": "GST EXECUTIVE \n\n### **2.5 Composite and mixed supply** \n\nA composite supply can be explained as supply of goods and services that is only sold to consumers in a set and cannot be sold individually. Every composite supply sold has a principal supply, which is the predominant or the main supply of goods or services. In every composite supply, elements other than that of the principal supply is just supporting elements used to add value to the principal supply. \n\nFor instance, when a car is sold, the registration, insurance, tool kit is sold along with it. Here, the car becomes the element of principal supply as the other elements cannot be sold individually. \n\n\n\nA mixed supply can be explained as the supply of two or more individual goods or services that can be made as a single supply. For instance, when a plant nursery sells cut flowers, gardening services, gardening tools, the GST on these items individually is likely to be high, but when these services are sold in a bundle, the GST rates will incur a reduced rate. \n\n\n\n**Any transaction involving Gift up to 50K in FY provided by supply of goods and/or employer to an employee services without shall not be treated as supply consideration, not a supply** \n\n### **2.6 Supply without consideration under GST** \n\nIn most cases supply of goods and services are done with consideration and generally GST is added depending on the consideration. However, there are instances where supply is done without any consideration, in such situations we look at the treatment of the supply without consideration under GST Act. \n\n2.4"
+    },
+    {
+      "page": 17,
+      "text": "GST EXECUTIVE \n\nIn the following cases, activities made without consideration will be treated as supply without consideration under GST Act. \n\n- Permanent transfer/disposal of business assets \n\nExample: Arun gives old business laptop to his friend free of cost. \n\n\n\n- Supply between main company and subsidiary company. \n\n- Supply of goods by principal to his agent. \n\n- Import of services by a person from a related person or from his establishments located outside India. \n\n- Gift of more than ₹ 50,000/- by the employer to the employee comes under supply. \n\n### **2.7 Non-Supplies under GST** \n\nSupply of Goods and/or services on which tax shall not be leviable is called Non-GST Supplies. \n\n|1.|Services by an employee to the employer during or in relation to his<br>employment.|\n|---|---|\n|2.|Services provided by a casual worker towards the employer who gives wages on daily<br>basis to the worker.|\n|3.|Services by any court or tribunal established under any law.|\n|4.|Functions performed by the MP, MLA, Member of Panchayat, or Municipality,<br>members of author local authority.|\n|5.|Sale of Land and Building (Subject to schedule II).|\n|6.|Actionable claims, other than lottery, betting, and gambling.|\n|7.|Supply of alcoholic liquor.|\n\n\n\n##### **Case Study** \n\nRaju registered supplier of Delhi, has supplied 20,000 packages at ₹ 30/- each at GEMS gift shop Kerala. Each package consists of 2 chocolates, 2 fruit juice bottles and a packet of toy balloons. Determined the rates of GST applicable in the given case assuming the rate of GST to be as under: \n\n|Goods / Service Supplied|GST Rate|\n|---|---|\n|Chocolate|18%|\n|Fruitjuice bottle|12%|\n|Toyballoons|5%|\n\n\n\n2.5"
+    },
+    {
+      "page": 18,
+      "text": "GST EXECUTIVE \n\n###### Solution : \n\nSupply of package containing chocolates, fruit juice and toy balloons is a mixed supply as each of these items can be supplied separately and is not dependent on any other. Mixed supply treated as supply of that particular supply which attracts the highest rate of tax.  In the given case supply of chocolate is highest rate of tax and the rate of GST applicable on the package of **₹** 20,000 * **₹** 30 * 18% . \n\n### **2.8 Introduction to Charge of GST** \n\nThe taxable event under GST is supply. CGST and SGST/UTGST are levied on all intra-state supply of goods and/or services while IGST is levied on all inter-state supply of goods and/or services. \n\n### **2.9  Applicability of GST in territorial water** \n\nCGST Act 2017 extends to the whole of India; \n\n- Territory of India as referred to in article 1 of the constitution \n\n- Its territorial waters, seabed and sub-soil underlying such waters, continental shelf, exclusive economic zone or any other maritime zones as referred to in the territorial waters, continental shelf, exclusive economic zone and other maritime zones Act 1976 \n\n- The air above its territory and territorial waters \n\n\n\n### **2.10 Reverse Charge Mechanism (RCM)** \n\nUnder Reverse Charge Mechanism, the recipient of the goods and services pay the tax instead of the supplier of the goods and services, i.e., the chargeability gets reversed. For instance, a dealer not registered with GST, supplying to a consumer registered with GST. Then the RCM will be applicable. \n\nExample :   Supply from an unregistered dealer to a registered dealer \n\n2.6"
+    },
+    {
+      "page": 19,
+      "text": "GST EXECUTIVE \n\n### **2.11 Rates of GST** \n\nGST Rates for Various goods \n\n|**0.25%**|3%|5%|12%|18%|28%|\n|---|---|---|---|---|---|\n|GST Rate<br>Precious<br>stones,<br>other than<br>diamonds etc.|s for Various Se<br>Gold, silver,<br>imitation<br>jewellery etc.|rvices<br>Packaged<br>food etc.|Butter,<br>cheese, ghee<br>etc.|Perfumes,<br>steel<br>products etc.|Motor vehicle,<br>dish wash<br>etc.|\n|1.5%|5%|7.5%|12%|18%|28%|\n|Construction<br>of residential<br>house|Restaurant|Construction<br>of commercial<br>apartment|Hotel<br>accommodatio|n<br>Postal /<br>courier<br>service|Gambling|\n\n\n\nGST Rates for Composition Taxpayer \n\n|Traders|Services|\n|---|---|\n|1%|6%|\n\n\n\n### **2.12 Exemption from GST** \n\nExempt supply can be defined as the supply of goods and services that has been spared completely of any tax or supplies with a NIL tax rate. This also includes any kind of supply of goods and services that is not levied to be taxed under CGST or IGST Act. This kind of supply is also known as a non-taxable supply. \n\n\n\n- Goods Exempt from Tax \n\n   - Under the GST Act, items used in the day-to-day life of a common person has been included in the list of exempted items. Items such as unpacked food grains, milk, eggs, curd, and fresh vegetables are few examples of commodities exempted from GST. \n\n\n\n\n\n\n\n2.7"
+    },
+    {
+      "page": 20,
+      "text": "GST EXECUTIVE \n\n- Services Exempt from Tax \n\nExempt services include cultivation, harvesting, supply of farm labour, fumigation, packaging, renting, or leasing of machinery for agricultural purposes, warehouse activities, and services by an Agricultural Produce Marketing Committee or Board that is provided by an agent for the sale or purchase of agricultural. \n\n- Advancement of educational programs/skill development \n\n- Advancement of religion, spirituality, or yoga \n\n- Supply of food in mess or canteen \n\n- Hospitals \n\n- Services by an old age home \n\n- Services provided by department of post \n\n\n\n\n\n\n\n### **2.13 Taxable Event in GST** \n\nUnder the purpose of taxation in GST, supply is the taxable event. Here, we are going to discuss the various rates of GST and its applicability on goods and services. \n\n\n\n<!-- Start of picture text -->\nGST Inclu-<br>sive on MRP<br>Rated goods<br><!-- End of picture text -->\n\n\n\n- Restaurant \n\nThe goods and service tax rate currently levied on all Ac, non-AC, alcoholic and \n\nnon-alcoholic restaurants is 5%. \n\n- Hotels \n\nThe GST rate levied on hotels, \n\n- Up to a room tariff of 7500 (per day/unit) is 12% \n\n- Above a room tariff of 7500 (per day/unit) is 18% \n\nEven if the same is booked through an online application facility the GST will remain the same. \n\n- Educational Institution \n\nThere is no GST taxed for full time education, but however; other educational services will be taxed 18% \n\n2.8"
+    },
+    {
+      "page": 21,
+      "text": "GST EXECUTIVE \n\n- Medical Shops \n\nThe GST rate charged on medicines and other medical supplies is 18% \n\n- Hospital services \n\nThere is no GST charged for hospital rooms up to 5000 but however, 5% GST will be levied on non-ICU hospital rooms with room rent above 5000 per day. \n\n- Cinema tickets \n\nMovie tickets will attract GST at 28% rate and food and beverages sold will fall under the supply of food/drinks in outdoor catering, which will attract a rate of 18% GST. \n\n### **2.14 Introduction to Time Value and Place of Supply** \n\nPlace of supply-is required Time of Supply means the for determining the right Value of supply means GST point in time when goods/ tax to be charged on the is calculated based services are invoice. on value. considered supplied. \n\n### **2.15 Time of Supply** \n\nTime of supply is an important measure under the GST law. For every transaction entered by the supplier of goods and service, it is important to know the point in time when the goods are deemed to be supplied or services are deemed to be provided to determine when the taxpayer is liable to pay taxes. \n\n\n\n- **Time of Supply of Goods** \n\nUnder GST, liability to remit GST to the Government arises at the time of supply. Time of supply is generally the earliest of one of the three events, namely receiving payment, issuance of invoice or completion of supply. However, in some circumstances, the time of supply could be different based on the nature of the transaction. \n\n2.9"
+    },
+    {
+      "page": 22,
+      "text": "GST EXECUTIVE \n\nTime of supply for goods is the earlier of the following: \n\n\n\nIn the case of coupon /voucher purchase - supply is identifiable at the time of redemption of voucher \n\n- **Time of supply of services** \n\nTime of supply for services is the earlier of the following: \n\n|Date of issue of invoice|\n|---|\n|Date of receipt of advance / payment|\n|Date of provision of services|\n\n\n\n### **2.16 Value of Supply** \n\nThe difference between the sale price and purchase price of any goods and/or services, is the value of supply. GST is charged on the ‘transaction value’. Transaction value is the price actually paid (or payable) for the supply of goods and/or services between non-related parties. \n\nSupply is between unrelated persons + Price is the sole-consideration for the supply = Transaction value \n\n\n\n2.10"
+    },
+    {
+      "page": 23,
+      "text": "GST EXECUTIVE \n\n1. Value of supply related person \n\nSupplies between the related people where consideration is generally not paid fully in money, shall constitute as ‘Supply’ like any other transaction. Whereas, the supply made between related people for inadequate or no consideration is covered under Schedule I of the GST Act. Such transactions shall be treated as ‘Supply’ only if it happens during or for furtherance of business. \n\nWhen an entity makes an import of service from a related person or establishment outside India (without consideration) but for doing business, it shall be considered as a supply. \n\nRelief has been given where an employer gifts his employee and the value of the gift is less than ₹ 50,000. It is not considered a supply. \n\n2. Inclusions in the value of supply \n\nAny taxes, duties, cess, fees, and charges levied under any act, except GST are included. GST compensation cess will be excluded if charged separately by the supplier. \n\n   - Any amount that the supplier is liable to pay which has been incurred by the recipient and is not included in the price. \n\n   - The value will include all incidental expenses in relation to sale such as packing, commission etc. \n\n   - Subsidies that are directly linked to supply, except central and state government subsidies will be included. \n\n   - Interest/late fee/penalty for delayed payment of consideration will be included. \n\n3. Exclusions in the value of supply \n\nThe two types of discounts which are required to be excluded in value of supply are: \n\n   - Discounts given before supply – These discounts given are included in the invoice and are given before the delivery of goods and/or services. \n\n   - Discounts given after supply – These discounts are agreed by the supplier and recipient before the delivery of goods and/or services. The recipient will file Input Tax Credit on the value of supply. \n\n4. Value of supply under discount \n\nThe value of the GST purpose changes if the supply is under discount. \n\n\n\n2.11"
+    },
+    {
+      "page": 24,
+      "text": "GST EXECUTIVE \n\nTrade discount – under GST trade discount, a deduction is made at the time of supply from the actual consideration of goods and/or services. Computing is done before calculating tax. \n\nCash discount – under GST cash discount, the supplier and the recipient have already made an agreement before the delivery of the goods. Computing is done after calculating tax. \n\n##### **Points to remain** \n\n- Actionable claim \n\nAn actionable claim can be described as a claim to any debt not related to an immovable property or even mortgage. That is; debt related to a movable property wherein, the property in question is not in possession and relief must be claimable in the civil court for the same. \n\nFollowing are examples of actionable claim, \n\n   - Lottery ticket \n\n   - Insurance policy \n\n   - Claim for arrears rent \n\n   - Unsecured loans \n\n   - Claims for future rent \n\n- HSN code \n\nHarmonized System of Nomenclature (HSN) is a six-digit uniform code that is used to classify goods from all over the world. This code helps classify over 5000 products worldwide. \n\nHSN Code at the time of registration \n\n\n\n2.12"
+    },
+    {
+      "page": 25,
+      "text": "GST EXECUTIVE \n\n### **2.17 Place of supply** \n\nIn case of goods, the place of supply is where the goods are delivered. So, the place of supply of goods is the place where the ownership of goods change. What if there is no movement of goods. In this case, the place of supply is the location of goods at the time of delivery to the recipient. \n\n- Importance of place of supply \n\nIt is very important to understand the term ‘place of supply’ for determining the right tax to be charged on the invoice. \n\nExample ; \n\n|Location of Service Receiver|Place of supply|Nature of Supply|GST Applicable|\n|---|---|---|---|\n|Maharashtra|Maharashtra|Intra-state|CGST+SGST|\n|Maharashtra|Kerala|Inter-state|IGST|\n\n\n\n- Place of supply for services \n\nThe place of supply of services is the location of the service recipient. Example :- A  registered taxpayer offers passenger transport services from Bangalore to Hampi. The passengers do not have GST registration. What will be the place of supply in this case? \n\nThe place of supply is the place from where the departure takes place i.e. Bangalore in this case. \n\n### **2.18 What is ITC under GST** \n\nThe Input Tax Credit (ITC) scheme was introduced to avoid the concept of double taxation. When there is selling or buying happening, GST is being paid as well as collected, and they are named input and output GST. ITC can only be availed in cases where the GST payment is higher than the GST collection. \n\n\n\n2.13"
+    },
+    {
+      "page": 26,
+      "text": "GST EXECUTIVE \n\n### **2.19 Features of ITC** \n\n- The ITC scheme is designed in a way that, it ensures any kind of a cascading effect on taxes and for the payment of tax on taxable output supplies. It also makes GST a destination-based tax. \n\n- ITC available on all inputs, input services and capital goods are used for the purpose of a business. Here, the exception is only ‘blocked credit’ where ITC is not available on goods and services, though it is used for the purpose of a business. \n\n- If a taxable person is making both taxable and exempt supply, they are entitled to full credit of ITC in respect to inputs, input services and capital goods that is exclusively used for taxable supply and no credit at all for inputs, input services and capital goods on exempt supply. \n\n### **2.20 Eligibility for taking Input tax credit** \n\nGiven below are the eligibility criteria for accessing the ITC: \n\n- A registered taxable person. \n\n- Claimable on goods and services that is used for the purpose of business. \n\n- Taxable exports/zero rated supplies. \n\n- Only if the dealer carries a tax invoice, debit note and other supplementary invoices. \n\n- If GSTR-1, GSTR3B are filed. \n\n### **2.21 Apportionment of Credit & Blocked Credit** \n\nWhen the registered person uses the goods and services only partly for the business, along with using it for other purposes, the amount of credit will be restricted only to input tax. Here, the taxed amount will be only attributed to their business. \n\nDiscussed below are the various goods and services on which input tax credit shall not be available: \n\n- ITC is blocked on motor vehicles, vessels and passenger aircrafts along with its services such as insurance, repairs, and maintenance. \n\n- Food & beverages, outdoor catering, health services and other services. \n\n- Work contract services and self-construction of immovable property \n\n- Free samples, gifts, goods lost/stolen etc. \n\n### **2.22 ITC for sales promotional schemes** \n\nThe promotional schemes are offered by the taxable persons to increase sales volume and to attract new customers for their products. \n\n- Samples and free gifts \n\nSamples that are supplied free of cost, without any consideration, do not qualify as supply under GST. ITC shall not be available to supplier on the inputs, input services and capital goods to the extent that they are used in relation to the gifts or free samples distributed without any consideration. However, on transfer or disposal of assets credit can be availed. \n\n2.14"
+    },
+    {
+      "page": 27,
+      "text": "GST EXECUTIVE \n\n- Buy one get one free offer \n\nITC shall be available to the supplier for the inputs, input services and capital goods that are used in relation to the supply of goods or services or both as a part of such offers. \n\n- Discounts including ‘Buy more, save more’ offers. \n\n- Secondary discounts \n\nWhen a supplier supplies the goods and/or services at a particular price to the recipient and later the supplier reduces the price of the same product, in such condition the supplier shall issue a credit note to the recipient for the difference amount. \n\n### **2.23 Credit in Special Circumstances** \n\nA taxpayer referring this section should also refer section 16 and 17 to ascertain the eligibility of input tax credit which he would be claiming under this section. \n\n1. Mandatory registration \n\nIf a person who has applied for registration under the Act within thirty days from the date on which they become liable to register and has been granted such registration then they shall be entitled to take credit of input tax. \n\n2. Voluntary Registration \n\nWhen a voluntary registration is obtained by a person, they are then entitled to take the input tax credit for the input tax. \n\n3. Switching from composition scheme \n\nIf a taxable person who pays tax on compounding basis, crosses the compounding threshold which then leads them to become a regular taxable person, then they can avail ITC. \n\n4. Exempt supply becomes taxable \n\nExempt supply of goods and services can only avail ITC, when the supply is registered by a taxable person, leading the supply to be taxable. \n\n5. Invoices corresponding to the stock should not be more than one year old \n\nThe invoices corresponding to the stock that are presented to claim the ITC should not be more than a year old. If the invoices are older than one year then there are chances that ITC claimed shall be rejected. \n\n6. Change in the constitution of the registered person \n\nWhen there is a change in constitution of a registered person cause of sale, lease or transfer of business, merger, demerger or amalgamation due to liabilities, he would not be allowed to transfer any unclaimed ITC in such cases. \n\n### **2.24 How ITC is utilised** \n\nGST is single tax system, but it constitutes 3 taxes and they are: CGST, SGST, and IGST. Therefore, the taxpayer is required to pay the taxes accordingly as well as utilise Input Tax credit (ITC) as per the given provisions. \n\n2.15"
+    },
+    {
+      "page": 28,
+      "text": "GST EXECUTIVE \n\n\n\n<!-- Start of picture text -->\nThere are 3 types of GST credit<br>1.  The Process of IGST- Input Tax Credit utilisation<br>Balance  Balance<br>Balance  if any, if any,<br>if any,<br>IGST-ITC IGST-Liability CGST-Liability Carry forward to<br>next year<br>2.  The Process of CGST- Input Tax Credit utilisation<br>CGST-ITC CGST-Liability IGST-Liability Carry forward to<br>next year<br>3.  The Process of SGST – Input Tax Credit utilisation<br>Carry forward to<br>SGST-Liability IGST-Liability next year<br>SGST-ITC<br><!-- End of picture text -->\n\n2.16"
+    },
+    {
+      "page": 29,
+      "text": "GST EXECUTIVE \n\n##### **2.25 ITC at Glance** \n\n###### **ITC in case of Capital Goods** \n\n\n\n\n\n<!-- Start of picture text -->\nExample:<br>Cost of asset= Rs. 100<br>Tax 20% = Rs. 20<br>Tax 20% = Rs. 20<br>If depreciation If depreciation<br>charged on 120 charged on 100<br>ITC not ITC<br>Available Available<br><!-- End of picture text -->\n\n###### **Time limit for Taking ITC** \n\nITC is not allowed after any of the following happens: \n\n- Due date of the return for the month of September of next financial year. \n\n- Annual return filed for relevant year (Filing date, not due date). \n\n###### **Case Study** \n\nIMPEX Pvt Ltd. manufactures electric-detonators in Kerala for domestic and export markets. Raw material is supplied by different persons located in Gujarat and Tamil Nadu. GST rate is 18 %. The following information is given by IMPEX for January 2022 – \n\nSupply of 10,000 pieces at the rate of ₹ 120 to BLUE DART Pvt Ltd of Maharashtra. Export of 25,000 pieces at the rate of ₹ 140 to wells Fargo Inc., Holland. \n\nInput credit available in electronic credit ledger (on inputs/input services procured from Gujarat/Tamil Nadu) : ₹ 1,50,000 (Case- 1) or ₹ 2,90,000 (Case- 2). \n\n2.17"
+    },
+    {
+      "page": 30,
+      "text": "GST EXECUTIVE \n\n###### Solution : \n\nIn this case, GST payable by IMPEX Pvt Ltd. will be as follows – \n\n|PARTICULARS|Case- 1|Case- 2|\n|---|---|---|\n||Rs|Rs|\n|IGST on supply of 10,000 pieces to BLUE DART Pvt Ltd. [18% of<br>(₹120 × 10,000)]|2,16,000|2,16,000|\n|GST on export to A Inc., Holland|Nil|Nil|\n|GST on outward supply for January 2022|2,16,000|2,16,000|\n|Less: Input tax credit on input goods/services available in<br>electronic credit ledger|1,50,000|2,90,000|\n|Amount payable by X Ltd. in electronic cash ledger|66,000|-|\n|Refund which can be claimed for excess credit (ITC)|-|74,000|\n\n\n\nIn the aforesaid two cases, there is no GST on exported goods (no GST on input as well as output). \n\n2.18"
+    }
+  ],
+  "images": [
+    {
+      "page": 1,
+      "filename": "mod1_p1_img1.png"
+    },
+    {
+      "page": 2,
+      "filename": "mod1_p2_img1.png"
+    },
+    {
+      "page": 4,
+      "filename": "mod1_p4_img1.png"
+    },
+    {
+      "page": 5,
+      "filename": "mod1_p5_img1.png"
+    },
+    {
+      "page": 6,
+      "filename": "mod1_p6_img1.jpeg"
+    },
+    {
+      "page": 6,
+      "filename": "mod1_p6_img2.jpeg"
+    },
+    {
+      "page": 6,
+      "filename": "mod1_p6_img3.jpeg"
+    },
+    {
+      "page": 9,
+      "filename": "mod1_p9_img1.jpeg"
+    },
+    {
+      "page": 10,
+      "filename": "mod1_p10_img1.jpeg"
+    },
+    {
+      "page": 10,
+      "filename": "mod1_p10_img2.png"
+    },
+    {
+      "page": 12,
+      "filename": "mod1_p12_img1.jpeg"
+    },
+    {
+      "page": 13,
+      "filename": "mod1_p13_img1.jpeg"
+    },
+    {
+      "page": 13,
+      "filename": "mod1_p13_img2.jpeg"
+    },
+    {
+      "page": 13,
+      "filename": "mod1_p13_img3.jpeg"
+    },
+    {
+      "page": 14,
+      "filename": "mod1_p14_img1.jpeg"
+    },
+    {
+      "page": 15,
+      "filename": "mod1_p15_img1.jpeg"
+    },
+    {
+      "page": 16,
+      "filename": "mod1_p16_img1.jpeg"
+    },
+    {
+      "page": 16,
+      "filename": "mod1_p16_img2.jpeg"
+    },
+    {
+      "page": 17,
+      "filename": "mod1_p17_img1.jpeg"
+    },
+    {
+      "page": 18,
+      "filename": "mod1_p18_img1.jpeg"
+    },
+    {
+      "page": 19,
+      "filename": "mod1_p19_img1.jpeg"
+    },
+    {
+      "page": 19,
+      "filename": "mod1_p19_img2.jpeg"
+    },
+    {
+      "page": 19,
+      "filename": "mod1_p19_img3.jpeg"
+    },
+    {
+      "page": 19,
+      "filename": "mod1_p19_img4.jpeg"
+    },
+    {
+      "page": 20,
+      "filename": "mod1_p20_img1.jpeg"
+    },
+    {
+      "page": 20,
+      "filename": "mod1_p20_img2.jpeg"
+    },
+    {
+      "page": 20,
+      "filename": "mod1_p20_img3.jpeg"
+    },
+    {
+      "page": 20,
+      "filename": "mod1_p20_img4.jpeg"
+    },
+    {
+      "page": 21,
+      "filename": "mod1_p21_img1.jpeg"
+    },
+    {
+      "page": 22,
+      "filename": "mod1_p22_img1.png"
+    },
+    {
+      "page": 22,
+      "filename": "mod1_p22_img2.jpeg"
+    },
+    {
+      "page": 23,
+      "filename": "mod1_p23_img1.jpeg"
+    },
+    {
+      "page": 24,
+      "filename": "mod1_p24_img1.png"
+    },
+    {
+      "page": 25,
+      "filename": "mod1_p25_img1.png"
+    },
+    {
+      "page": 28,
+      "filename": "mod1_p28_img1.jpeg"
+    },
+    {
+      "page": 29,
+      "filename": "mod1_p29_img1.png"
+    }
+  ]
+}
